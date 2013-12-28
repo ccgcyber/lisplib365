@@ -13,6 +13,9 @@
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
 0. [cl-emb]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/76477e06fb03cde57392](http://qiita.com/nitro_idiot/items/76477e06fb03cde57392)
+0. [cl-fad-0.7.2]() - Quicklisp
+ - [http://sakito.jp/cl/cl-fad.html](http://sakito.jp/cl/cl-fad.html)
+ - [http://d.hatena.ne.jp/Isuzu_T/20120711/1342012278](http://d.hatena.ne.jp/Isuzu_T/20120711/1342012278)
 0. [cl-gearman]() - Quicklisp
  - [http://mojavy.com/blog/2012/12/16/common-lisp-libraries-advent-calendar-2012-16/](http://mojavy.com/blog/2012/12/16/common-lisp-libraries-advent-calendar-2012-16/)
 0. [cl-haml]() - Quicklisp
@@ -34,6 +37,8 @@
  - [http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE](http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE)
 0. [cl-who-1.1.3]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437](http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437)
+0. [cl-yacc]() - Quicklisp
+ - [http://lispuser.net/commonlisp/cl-yacc.html](http://lispuser.net/commonlisp/cl-yacc.html)
 0. [closer-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fare-mop]() - Quicklisp
@@ -379,7 +384,6 @@
 0. [cl-ev]() - Quicklisp
 0. [cl-ewkb]() - Quicklisp
 0. [cl-factoring]() - Quicklisp
-0. [cl-fad-0.7.2]() - Quicklisp
 0. [cl-fam]() - Quicklisp
 0. [cl-fastcgi]() - Quicklisp
 0. [cl-fbclient]() - Quicklisp
@@ -575,7 +579,6 @@
 0. [cl-xmlspam]() - Quicklisp
 0. [cl-xmpp-0.8.1]() - Quicklisp
 0. [cl-xul]() - Quicklisp
-0. [cl-yacc]() - Quicklisp
 0. [cl-yahoo-finance]() - Quicklisp
 0. [cl-zmq-0.1.6-git]() - Quicklisp
 0. [clache]() - Quicklisp
