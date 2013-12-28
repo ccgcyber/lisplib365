@@ -7,6 +7,8 @@
 0. [cffi_0.11.2]() - Quicklisp
  - [http://cl.cddddr.org/index.cgi?CFFI](http://cl.cddddr.org/index.cgi?CFFI)
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
+0. [chillax]() - Quicklisp
+ - [http://qiita.com/l_libra/items/a7b13e033fc699c3abc9](http://qiita.com/l_libra/items/a7b13e033fc699c3abc9)
 0. [cl-closure-template]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
 0. [cl-emb]() - Quicklisp
@@ -303,7 +305,6 @@
 0. [cheat-js]() - Quicklisp
 0. [checkl]() - Quicklisp
 0. [chemical-compounds-1.0.2]() - Quicklisp
-0. [chillax]() - Quicklisp
 0. [chipz]() - Quicklisp
 0. [chronicity]() - Quicklisp
 0. [chtml-matcher]() - Quicklisp
