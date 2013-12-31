@@ -2,6 +2,8 @@
 
 0. [alexandria]() - Quicklisp
  - [http://qiita.com/l_libra/items/645b06a729bf722b1c97](http://qiita.com/l_libra/items/645b06a729bf722b1c97)
+0. [anaphora]() - Quicklisp
+ - [#coming soon...](#coming soon...)
 0. [babel]() - Quicklisp
  - [http://qiita.com/zptmtr/items/175b97844046b83fc5f2](http://qiita.com/zptmtr/items/175b97844046b83fc5f2)
 0. [cffi_0.11.2]() - Quicklisp
@@ -11,6 +13,8 @@
  - [http://qiita.com/l_libra/items/a7b13e033fc699c3abc9](http://qiita.com/l_libra/items/a7b13e033fc699c3abc9)
 0. [cl-closure-template]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
+0. [cl-emacs-if]() - Quicklisp
+ - [#coming soon...](#coming soon...)
 0. [cl-emb]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/76477e06fb03cde57392](http://qiita.com/nitro_idiot/items/76477e06fb03cde57392)
 0. [cl-fad-0.7.2]() - Quicklisp
@@ -50,6 +54,10 @@
 0. [fiveam-1.2]() - Quicklisp
  - [http://qiita.com/g000001/items/c02a549eb80b7d9c30a7](http://qiita.com/g000001/items/c02a549eb80b7d9c30a7)
  - [http://cl.cddddr.org/index.cgi?FiveAM](http://cl.cddddr.org/index.cgi?FiveAM)
+0. [hemlock]() - Quicklisp
+ - [#coming soon...](#coming soon...)
+0. [hu.dwim.serializer]() - Quicklisp
+ - [#coming soon...](#coming soon...)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
 0. [lisp-unit]() - Quicklisp
@@ -66,12 +74,18 @@
  - [http://blog.8arrow.org/entry/20120403/1333455934](http://blog.8arrow.org/entry/20120403/1333455934)
 0. [optima]() - Quicklisp
  - [http://qiita.com/m2ym/items/a2e00c79984750958e8a](http://qiita.com/m2ym/items/a2e00c79984750958e8a)
+0. [phemlock]() - Quicklisp
+ - [#hemlock](#hemlock)
 0. [uffi]() - Quicklisp
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [vecto-1.4.6]() - Quicklisp
  - [http://g000001.cddddr.org/3563537013](http://g000001.cddddr.org/3563537013)
 0. [weblocks]() - Quicklisp
  - [http://blog.hiyamugi.net/2012/12/07/0001](http://blog.hiyamugi.net/2012/12/07/0001)
+0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
+ - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
+0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
+ - [http://g000001.cddddr.org/3596108400](http://g000001.cddddr.org/3596108400)
 0. [ttf-ascii]() - misc
  - [http://g000001.cddddr.org/3563708490](http://g000001.cddddr.org/3563708490)
 0. [braille-banner]() - misc
@@ -81,15 +95,11 @@
 0. [cltl2 pp]() - cltl2
  - [http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d](http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d)
  - [http://qiita.com/seijikoide/items/c8223c9cb825e064130a](http://qiita.com/seijikoide/items/c8223c9cb825e064130a)
-0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
- - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
-0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
- - [http://g000001.cddddr.org/3596108400](http://g000001.cddddr.org/3596108400)
+0. [cl-serializer]() - misc
+ - [#quicklisp hu.dwim.serializer](#quicklisp hu.dwim.serializer)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
-0. [anaphora-0.9.4]() - Quicklisp
- - g000001が書く予定
 0. [arnesi]() - Quicklisp
  - g000001が書く予定
 0. [arnesi+]() - Quicklisp
@@ -98,7 +108,11 @@
  - g000001が書く予定
 0. [bordeaux-threads-0.8.3]() - Quicklisp
  - g000001が書く予定
-0. [cl-emacs-if]() - Quicklisp
+0. [circular-streams]() - Quicklisp
+ - g000001が書く予定
+0. [cl-glfw]() - Quicklisp
+ - g000001が書く予定
+0. [cl-irc-0.9.1]() - Quicklisp
  - g000001が書く予定
 0. [cl-lastfm]() - Quicklisp
  - g000001が書く予定
@@ -132,6 +146,8 @@
  - g000001が書く予定
 0. [fare-csv]() - Quicklisp
  - g000001が書く予定
+0. [fare-matcher]() - Quicklisp
+ - g000001が書く予定
 0. [fare-memoization]() - Quicklisp
  - g000001が書く予定
 0. [fare-quasiquote]() - Quicklisp
@@ -139,8 +155,6 @@
 0. [fare-utils]() - Quicklisp
  - g000001が書く予定
 0. [group-by]() - Quicklisp
- - g000001が書く予定
-0. [hemlock]() - Quicklisp
  - g000001が書く予定
 0. [kmrcl]() - Quicklisp
  - g000001が書く予定
@@ -166,13 +180,15 @@
  - g000001が書く予定
 0. [metatilities-base]() - Quicklisp
  - g000001が書く予定
+0. [method-combination-utilities]() - Quicklisp
+ - g000001が書く予定
 0. [method-versions_0.1.2011.05.18]() - Quicklisp
  - g000001が書く予定
 0. [multiple-value-variants-1.0]() - Quicklisp
  - g000001が書く予定
-0. [phemlock]() - Quicklisp
- - g000001が書く予定
 0. [plexippus-xpath]() - Quicklisp
+ - g000001が書く予定
+0. [acl-compat]() - Quicklisp
  - g000001が書く予定
 0. [ptester]() - Quicklisp
  - g000001が書く予定
@@ -224,6 +240,16 @@
  - g000001が書く予定
 0. [zcdb-1.0.3]() - Quicklisp
  - g000001が書く予定
+0. [source-compare]() - cmu-ai-repos
+ - g000001が書く予定
+0. [uranus]() - cmu-ai-repos
+ - g000001が書く予定
+0. [code/ext/library/]() - cmu-ai-repos
+ - g000001が書く予定
+0. [code/ext/tables/]() - cmu-ai-repos
+ - g000001が書く予定
+0. [code/ext/types/]() - cmu-ai-repos
+ - g000001が書く予定
 0. [code/iter/for/]() - cmu-ai-repos
  - g000001が書く予定
 0. [code/iter/series/]() - cmu-ai-repos
@@ -232,11 +258,17 @@
  - g000001が書く予定
 0. [code/parsing/zebu/]() - cmu-ai-repos
  - g000001が書く予定
+0. [code/syntax/infix/]() - cmu-ai-repos
+ - g000001が書く予定
+0. [code/testing/cover/]() - cmu-ai-repos
+ - g000001が書く予定
 0. [code/tools/lint/]() - cmu-ai-repos
  - g000001が書く予定
 0. [code/tools/xref/]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/clos/closette/]() - cmu-ai-repos
+ - g000001が書く予定
+0. [oop/non_clos/artificial-flavors]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/non_clos/cool/]() - cmu-ai-repos
  - g000001が書く予定
@@ -245,6 +277,18 @@
 0. [oop/non_clos/mcs/v141/]() - cmu-ai-repos
  - g000001が書く予定
 0. [list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
+ - g000001が書く予定
+0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
+ - g000001が書く予定
+0. [lisp-critic]() - misc
+ - g000001が書く予定
+0. [mbe]() - misc
+ - g000001が書く予定
+0. [fmt]() - misc
+ - g000001が書く予定
+0. [cl-audioscrobbler]() - misc
+ - g000001が書く予定
+0. [cl-sparsematrix]() - misc
  - g000001が書く予定
 
 ## まだ紹介が書かれていないライブラリ
@@ -314,7 +358,6 @@
 0. [chronicity]() - Quicklisp
 0. [chtml-matcher]() - Quicklisp
 0. [chunga-1.1.5]() - Quicklisp
-0. [circular-streams]() - Quicklisp
 0. [city-hash]() - Quicklisp
 0. [cl+ssl]() - Quicklisp
 0. [cl-6502]() - Quicklisp
@@ -407,7 +450,6 @@
 0. [cl-geoip]() - Quicklisp
 0. [cl-geometry]() - Quicklisp
 0. [cl-github-v3]() - Quicklisp
-0. [cl-glfw]() - Quicklisp
 0. [cl-glfw3]() - Quicklisp
 0. [cl-gpu]() - Quicklisp
 0. [cl-grace]() - Quicklisp
@@ -428,7 +470,6 @@
 0. [cl-inflector]() - Quicklisp
 0. [cl-inotify]() - Quicklisp
 0. [cl-interpol-0.2.1]() - Quicklisp
-0. [cl-irc-0.9.1]() - Quicklisp
 0. [cl-isaac]() - Quicklisp
 0. [cl-jpeg]() - Quicklisp
 0. [cl-jpl-util-0.4]() - Quicklisp
@@ -702,7 +743,6 @@
 0. [extended-reals]() - Quicklisp
 0. [external-program]() - Quicklisp
 0. [f2cl]() - Quicklisp
-0. [fare-matcher]() - Quicklisp
 0. [femlisp-0-9-10]() - Quicklisp
 0. [ffa]() - Quicklisp
 0. [fft]() - Quicklisp
@@ -764,7 +804,6 @@
 0. [hu.dwim.quasi-quote]() - Quicklisp
 0. [hu.dwim.rdbms]() - Quicklisp
 0. [hu.dwim.reiterate]() - Quicklisp
-0. [hu.dwim.serializer]() - Quicklisp
 0. [hu.dwim.stefil]() - Quicklisp
 0. [hu.dwim.syntax-sugar]() - Quicklisp
 0. [hu.dwim.uri]() - Quicklisp
@@ -851,7 +890,6 @@
 0. [metabang-bind]() - Quicklisp
 0. [metacopy]() - Quicklisp
 0. [metafs]() - Quicklisp
-0. [method-combination-utilities]() - Quicklisp
 0. [mgl]() - Quicklisp
 0. [micmac-0.0.2]() - Quicklisp
 0. [midi-20070618]() - Quicklisp
@@ -1143,16 +1181,13 @@
 0. [code/ext/enum/]() - cmu-ai-repos
 0. [code/ext/errors/]() - cmu-ai-repos
 0. [code/ext/init/]() - cmu-ai-repos
-0. [code/ext/library/]() - cmu-ai-repos
 0. [code/ext/lp/]() - cmu-ai-repos
 0. [code/ext/memoize/]() - cmu-ai-repos
 0. [code/ext/packages/]() - cmu-ai-repos
 0. [code/ext/resource/]() - cmu-ai-repos
 0. [code/ext/save_obj/]() - cmu-ai-repos
 0. [code/ext/screamer/]() - cmu-ai-repos
-0. [code/ext/tables/]() - cmu-ai-repos
 0. [code/ext/trees/]() - cmu-ai-repos
-0. [code/ext/types/]() - cmu-ai-repos
 0. [code/ext/wood/]() - cmu-ai-repos
 0. [code/fun/]() - cmu-ai-repos
 0. [code/ilu/]() - cmu-ai-repos
@@ -1210,7 +1245,6 @@
 0. [code/syntax/fontstrp/]() - cmu-ai-repos
 0. [code/syntax/glisp/]() - cmu-ai-repos
 0. [code/syntax/haskell/]() - cmu-ai-repos
-0. [code/syntax/infix/]() - cmu-ai-repos
 0. [code/syntax/infix/old/]() - cmu-ai-repos
 0. [code/syntax/measures/]() - cmu-ai-repos
 0. [code/syntax/name_spc/]() - cmu-ai-repos
@@ -1220,7 +1254,6 @@
 0. [code/syntax/trans/ilisp/]() - cmu-ai-repos
 0. [code/syntax/trans/mclaclpc/]() - cmu-ai-repos
 0. [code/syntax/trans/mclaclpc/old/]() - cmu-ai-repos
-0. [code/testing/cover/]() - cmu-ai-repos
 0. [code/testing/rt/]() - cmu-ai-repos
 0. [code/tools/defsys/]() - cmu-ai-repos
 0. [code/tools/defsys/laubsch/]() - cmu-ai-repos
@@ -3140,7 +3173,6 @@
 0. [uri](https://github.com/dylan-lang/uri) - dylan
 0. [sequence-stream](https://github.com/dylan-lang/sequence-stream) - dylan
 0. [dynamic-binding](https://github.com/dylan-lang/dynamic-binding) - dylan
-0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
 0. [uncommon-dylan](https://github.com/dylan-lang/uncommon-dylan) - dylan
 0. [anaphora](https://github.com/dylan-lang/anaphora) - dylan
 0. [dylan.tmbundle](https://github.com/dylan-lang/dylan.tmbundle) - dylan
