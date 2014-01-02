@@ -1,9 +1,10 @@
 ## 紹介が書かれたライブラリ
 
 0. [alexandria]() - Quicklisp
+ - [http://g000001.cddddr.org/3597490800](http://g000001.cddddr.org/3597490800)
  - [http://qiita.com/l_libra/items/645b06a729bf722b1c97](http://qiita.com/l_libra/items/645b06a729bf722b1c97)
 0. [anaphora]() - Quicklisp
- - [#coming soon...](#coming soon...)
+ - [http://g000001.cddddr.org/3597577200](http://g000001.cddddr.org/3597577200)
 0. [babel]() - Quicklisp
  - [http://qiita.com/zptmtr/items/175b97844046b83fc5f2](http://qiita.com/zptmtr/items/175b97844046b83fc5f2)
 0. [cffi_0.11.2]() - Quicklisp
@@ -14,7 +15,7 @@
 0. [cl-closure-template]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
 0. [cl-emacs-if]() - Quicklisp
- - [#coming soon...](#coming soon...)
+ - [#5/g000001](#5/g000001)
 0. [cl-emb]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/76477e06fb03cde57392](http://qiita.com/nitro_idiot/items/76477e06fb03cde57392)
 0. [cl-fad-0.7.2]() - Quicklisp
@@ -30,6 +31,8 @@
  - [http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab](http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab)
 0. [cl-mustache]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/01c98717e3c15dac0372](http://qiita.com/nitro_idiot/items/01c98717e3c15dac0372)
+0. [cl-op]() - Quicklisp
+ - [#7/g00001](#7/g00001)
 0. [cl-pdf]() - Quicklisp
  - [http://blog.hiyamugi.net/2013/12/10/0001](http://blog.hiyamugi.net/2013/12/10/0001)
 0. [cl-ppcre-2.0.4](http://weitz.de/cl-ppcre/) - Quicklisp
@@ -55,15 +58,19 @@
  - [http://qiita.com/g000001/items/c02a549eb80b7d9c30a7](http://qiita.com/g000001/items/c02a549eb80b7d9c30a7)
  - [http://cl.cddddr.org/index.cgi?FiveAM](http://cl.cddddr.org/index.cgi?FiveAM)
 0. [hemlock]() - Quicklisp
- - [#coming soon...](#coming soon...)
+ - [#6/g000001](#6/g000001)
 0. [hu.dwim.serializer]() - Quicklisp
- - [#coming soon...](#coming soon...)
+ - [#4/g000001](#4/g000001)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
 0. [lisp-unit]() - Quicklisp
  - [http://g000001.cddddr.org/3563622030](http://g000001.cddddr.org/3563622030)
 0. [log4cl]() - Quicklisp
  - [http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html](http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html)
+0. [lw-compat]() - Quicklisp
+ - [#12/g000001](#12/g000001)
+0. [method-versions_0.1.2011.05.18]() - Quicklisp
+ - [#11/g000001](#11/g000001)
 0. [mop-utils]() - Quicklisp
  - [http://g000001.cddddr.org/3596697000](http://g000001.cddddr.org/3596697000)
 0. [moptilities]() - Quicklisp
@@ -75,17 +82,28 @@
 0. [optima]() - Quicklisp
  - [http://qiita.com/m2ym/items/a2e00c79984750958e8a](http://qiita.com/m2ym/items/a2e00c79984750958e8a)
 0. [phemlock]() - Quicklisp
- - [#hemlock](#hemlock)
+ - [#=hemlock](#=hemlock)
+0. [s-http-client]() - Quicklisp
+ - [#8/g000001](#8/g000001)
+0. [toadstool]() - Quicklisp
+ - [#10/g000001](#10/g000001)
 0. [uffi]() - Quicklisp
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [vecto-1.4.6]() - Quicklisp
  - [http://g000001.cddddr.org/3563537013](http://g000001.cddddr.org/3563537013)
 0. [weblocks]() - Quicklisp
  - [http://blog.hiyamugi.net/2012/12/07/0001](http://blog.hiyamugi.net/2012/12/07/0001)
+0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
+ - [#3/tk_riple](#3/tk_riple)
+ - [#](#)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
  - [http://g000001.cddddr.org/3596108400](http://g000001.cddddr.org/3596108400)
+0. [fmt.plt](http://planet.racket-lang.org//display.ss?package=fmt.plt&owner=ashinn) - planet
+ - [#=fmt](#=fmt)
+0. [fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
+ - [#=fmt](#=fmt)
 0. [ttf-ascii]() - misc
  - [http://g000001.cddddr.org/3563708490](http://g000001.cddddr.org/3563708490)
 0. [braille-banner]() - misc
@@ -95,6 +113,8 @@
 0. [cltl2 pp]() - cltl2
  - [http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d](http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d)
  - [http://qiita.com/seijikoide/items/c8223c9cb825e064130a](http://qiita.com/seijikoide/items/c8223c9cb825e064130a)
+0. [fmt]() - misc
+ - [#9/g000001](#9/g000001)
 0. [cl-serializer]() - misc
  - [#quicklisp hu.dwim.serializer](#quicklisp hu.dwim.serializer)
 
@@ -117,8 +137,6 @@
 0. [cl-lastfm]() - Quicklisp
  - g000001が書く予定
 0. [cl-markdown]() - Quicklisp
- - g000001が書く予定
-0. [cl-op]() - Quicklisp
  - g000001が書く予定
 0. [cl-unicode-0.1.4]() - Quicklisp
  - g000001が書く予定
@@ -156,6 +174,8 @@
  - g000001が書く予定
 0. [group-by]() - Quicklisp
  - g000001が書く予定
+0. [hu.dwim.def]() - Quicklisp
+ - g000001が書く予定
 0. [kmrcl]() - Quicklisp
  - g000001が書く予定
 0. [lambda-reader]() - Quicklisp
@@ -168,8 +188,6 @@
  - g000001が書く予定
 0. [lift]() - Quicklisp
  - g000001が書く予定
-0. [lw-compat]() - Quicklisp
- - g000001が書く予定
 0. [macroexpand-dammit]() - Quicklisp
  - g000001が書く予定
 0. [mcclim]() - Quicklisp
@@ -181,8 +199,6 @@
 0. [metatilities-base]() - Quicklisp
  - g000001が書く予定
 0. [method-combination-utilities]() - Quicklisp
- - g000001が書く予定
-0. [method-versions_0.1.2011.05.18]() - Quicklisp
  - g000001が書く予定
 0. [multiple-value-variants-1.0]() - Quicklisp
  - g000001が書く予定
@@ -198,8 +214,6 @@
  - g000001が書く予定
 0. [rt]() - Quicklisp
  - g000001が書く予定
-0. [s-http-client]() - Quicklisp
- - g000001が書く予定
 0. [sclf]() - Quicklisp
  - g000001が書く予定
 0. [series]() - Quicklisp
@@ -207,6 +221,8 @@
 0. [sheeple]() - Quicklisp
  - g000001が書く予定
 0. [stefil]() - Quicklisp
+ - g000001が書く予定
+0. [string-case]() - Quicklisp
  - g000001が書く予定
 0. [stump-touchy-mode-line]() - Quicklisp
  - g000001が書く予定
@@ -223,8 +239,6 @@
 0. [teepeedee2]() - Quicklisp
  - g000001が書く予定
 0. [temporary-file]() - Quicklisp
- - g000001が書く予定
-0. [toadstool]() - Quicklisp
  - g000001が書く予定
 0. [trivial-features]() - Quicklisp
  - g000001が書く予定
@@ -283,8 +297,6 @@
 0. [lisp-critic]() - misc
  - g000001が書く予定
 0. [mbe]() - misc
- - g000001が書く予定
-0. [fmt]() - misc
  - g000001が書く予定
 0. [cl-audioscrobbler]() - misc
  - g000001が書く予定
@@ -795,7 +807,6 @@
 0. [hu.dwim.common-lisp]() - Quicklisp
 0. [hu.dwim.computed-class]() - Quicklisp
 0. [hu.dwim.debug]() - Quicklisp
-0. [hu.dwim.def]() - Quicklisp
 0. [hu.dwim.defclass-star]() - Quicklisp
 0. [hu.dwim.delico]() - Quicklisp
 0. [hu.dwim.logger]() - Quicklisp
@@ -1073,7 +1084,6 @@
 0. [stem]() - Quicklisp
 0. [stmx-stable-ef96af7a-git]() - Quicklisp
 0. [stp-query]() - Quicklisp
-0. [string-case]() - Quicklisp
 0. [stringprep]() - Quicklisp
 0. [submarine]() - Quicklisp
 0. [sxql]() - Quicklisp
@@ -1360,87 +1370,86 @@
 0. [util/tags/]() - cmu-ai-repos
 0. [util/tex/]() - cmu-ai-repos
 0. [util/vgrind/]() - cmu-ai-repos
-0. [srfi-0/](http://srfi.schemers.org/srfi-0/) - srfi
-0. [srfi-1/](http://srfi.schemers.org/srfi-1/) - srfi
-0. [srfi-2/](http://srfi.schemers.org/srfi-2/) - srfi
-0. [srfi-4/](http://srfi.schemers.org/srfi-4/) - srfi
-0. [srfi-5/](http://srfi.schemers.org/srfi-5/) - srfi
-0. [srfi-6/](http://srfi.schemers.org/srfi-6/) - srfi
-0. [srfi-7/](http://srfi.schemers.org/srfi-7/) - srfi
-0. [srfi-8/](http://srfi.schemers.org/srfi-8/) - srfi
-0. [srfi-9/](http://srfi.schemers.org/srfi-9/) - srfi
-0. [srfi-10/](http://srfi.schemers.org/srfi-10/) - srfi
-0. [srfi-11/](http://srfi.schemers.org/srfi-11/) - srfi
-0. [srfi-13/](http://srfi.schemers.org/srfi-13/) - srfi
-0. [srfi-14/](http://srfi.schemers.org/srfi-14/) - srfi
-0. [srfi-16/](http://srfi.schemers.org/srfi-16/) - srfi
-0. [srfi-17/](http://srfi.schemers.org/srfi-17/) - srfi
-0. [srfi-18/](http://srfi.schemers.org/srfi-18/) - srfi
-0. [srfi-19/](http://srfi.schemers.org/srfi-19/) - srfi
-0. [srfi-21/](http://srfi.schemers.org/srfi-21/) - srfi
-0. [srfi-22/](http://srfi.schemers.org/srfi-22/) - srfi
-0. [srfi-23/](http://srfi.schemers.org/srfi-23/) - srfi
-0. [srfi-25/](http://srfi.schemers.org/srfi-25/) - srfi
-0. [srfi-26/](http://srfi.schemers.org/srfi-26/) - srfi
-0. [srfi-27/](http://srfi.schemers.org/srfi-27/) - srfi
-0. [srfi-28/](http://srfi.schemers.org/srfi-28/) - srfi
-0. [srfi-29/](http://srfi.schemers.org/srfi-29/) - srfi
-0. [srfi-30/](http://srfi.schemers.org/srfi-30/) - srfi
-0. [srfi-31/](http://srfi.schemers.org/srfi-31/) - srfi
-0. [srfi-34/](http://srfi.schemers.org/srfi-34/) - srfi
-0. [srfi-35/](http://srfi.schemers.org/srfi-35/) - srfi
-0. [srfi-36/](http://srfi.schemers.org/srfi-36/) - srfi
-0. [srfi-37/](http://srfi.schemers.org/srfi-37/) - srfi
-0. [srfi-38/](http://srfi.schemers.org/srfi-38/) - srfi
-0. [srfi-39/](http://srfi.schemers.org/srfi-39/) - srfi
-0. [srfi-40/](http://srfi.schemers.org/srfi-40/) - srfi
-0. [srfi-41/](http://srfi.schemers.org/srfi-41/) - srfi
-0. [srfi-42/](http://srfi.schemers.org/srfi-42/) - srfi
-0. [srfi-43/](http://srfi.schemers.org/srfi-43/) - srfi
-0. [srfi-44/](http://srfi.schemers.org/srfi-44/) - srfi
-0. [srfi-45/](http://srfi.schemers.org/srfi-45/) - srfi
-0. [srfi-46/](http://srfi.schemers.org/srfi-46/) - srfi
-0. [srfi-47/](http://srfi.schemers.org/srfi-47/) - srfi
-0. [srfi-48/](http://srfi.schemers.org/srfi-48/) - srfi
-0. [srfi-49/](http://srfi.schemers.org/srfi-49/) - srfi
-0. [srfi-51/](http://srfi.schemers.org/srfi-51/) - srfi
-0. [srfi-54/](http://srfi.schemers.org/srfi-54/) - srfi
-0. [srfi-55/](http://srfi.schemers.org/srfi-55/) - srfi
-0. [srfi-57/](http://srfi.schemers.org/srfi-57/) - srfi
-0. [srfi-58/](http://srfi.schemers.org/srfi-58/) - srfi
-0. [srfi-59/](http://srfi.schemers.org/srfi-59/) - srfi
-0. [srfi-60/](http://srfi.schemers.org/srfi-60/) - srfi
-0. [srfi-61/](http://srfi.schemers.org/srfi-61/) - srfi
-0. [srfi-62/](http://srfi.schemers.org/srfi-62/) - srfi
-0. [srfi-63/](http://srfi.schemers.org/srfi-63/) - srfi
-0. [srfi-64/](http://srfi.schemers.org/srfi-64/) - srfi
-0. [srfi-66/](http://srfi.schemers.org/srfi-66/) - srfi
-0. [srfi-67/](http://srfi.schemers.org/srfi-67/) - srfi
-0. [srfi-69/](http://srfi.schemers.org/srfi-69/) - srfi
-0. [srfi-70/](http://srfi.schemers.org/srfi-70/) - srfi
-0. [srfi-71/](http://srfi.schemers.org/srfi-71/) - srfi
-0. [srfi-72/](http://srfi.schemers.org/srfi-72/) - srfi
-0. [srfi-74/](http://srfi.schemers.org/srfi-74/) - srfi
-0. [srfi-78/](http://srfi.schemers.org/srfi-78/) - srfi
-0. [srfi-86/](http://srfi.schemers.org/srfi-86/) - srfi
-0. [srfi-87/](http://srfi.schemers.org/srfi-87/) - srfi
-0. [srfi-88/](http://srfi.schemers.org/srfi-88/) - srfi
-0. [srfi-89/](http://srfi.schemers.org/srfi-89/) - srfi
-0. [srfi-90/](http://srfi.schemers.org/srfi-90/) - srfi
-0. [srfi-94/](http://srfi.schemers.org/srfi-94/) - srfi
-0. [srfi-95/](http://srfi.schemers.org/srfi-95/) - srfi
-0. [srfi-96/](http://srfi.schemers.org/srfi-96/) - srfi
-0. [srfi-97/](http://srfi.schemers.org/srfi-97/) - srfi
-0. [srfi-98/](http://srfi.schemers.org/srfi-98/) - srfi
-0. [srfi-99/](http://srfi.schemers.org/srfi-99/) - srfi
-0. [srfi-100/](http://srfi.schemers.org/srfi-100/) - srfi
-0. [srfi-101/](http://srfi.schemers.org/srfi-101/) - srfi
-0. [srfi-105/](http://srfi.schemers.org/srfi-105/) - srfi
-0. [srfi-106/](http://srfi.schemers.org/srfi-106/) - srfi
-0. [srfi-108/](http://srfi.schemers.org/srfi-108/) - srfi
-0. [srfi-109/](http://srfi.schemers.org/srfi-109/) - srfi
-0. [srfi-110/](http://srfi.schemers.org/srfi-110/) - srfi
-0. [srfi-111/](http://srfi.schemers.org/srfi-111/) - srfi
+0. [srfi-1](http://srfi.schemers.org/srfi-1/) - srfi
+0. [srfi-2](http://srfi.schemers.org/srfi-2/) - srfi
+0. [srfi-4](http://srfi.schemers.org/srfi-4/) - srfi
+0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
+0. [srfi-6](http://srfi.schemers.org/srfi-6/) - srfi
+0. [srfi-7](http://srfi.schemers.org/srfi-7/) - srfi
+0. [srfi-8](http://srfi.schemers.org/srfi-8/) - srfi
+0. [srfi-9](http://srfi.schemers.org/srfi-9/) - srfi
+0. [srfi-10](http://srfi.schemers.org/srfi-10/) - srfi
+0. [srfi-11](http://srfi.schemers.org/srfi-11/) - srfi
+0. [srfi-13](http://srfi.schemers.org/srfi-13/) - srfi
+0. [srfi-14](http://srfi.schemers.org/srfi-14/) - srfi
+0. [srfi-16](http://srfi.schemers.org/srfi-16/) - srfi
+0. [srfi-17](http://srfi.schemers.org/srfi-17/) - srfi
+0. [srfi-18](http://srfi.schemers.org/srfi-18/) - srfi
+0. [srfi-19](http://srfi.schemers.org/srfi-19/) - srfi
+0. [srfi-21](http://srfi.schemers.org/srfi-21/) - srfi
+0. [srfi-22](http://srfi.schemers.org/srfi-22/) - srfi
+0. [srfi-23](http://srfi.schemers.org/srfi-23/) - srfi
+0. [srfi-25](http://srfi.schemers.org/srfi-25/) - srfi
+0. [srfi-26](http://srfi.schemers.org/srfi-26/) - srfi
+0. [srfi-27](http://srfi.schemers.org/srfi-27/) - srfi
+0. [srfi-28](http://srfi.schemers.org/srfi-28/) - srfi
+0. [srfi-29](http://srfi.schemers.org/srfi-29/) - srfi
+0. [srfi-30](http://srfi.schemers.org/srfi-30/) - srfi
+0. [srfi-31](http://srfi.schemers.org/srfi-31/) - srfi
+0. [srfi-34](http://srfi.schemers.org/srfi-34/) - srfi
+0. [srfi-35](http://srfi.schemers.org/srfi-35/) - srfi
+0. [srfi-36](http://srfi.schemers.org/srfi-36/) - srfi
+0. [srfi-37](http://srfi.schemers.org/srfi-37/) - srfi
+0. [srfi-38](http://srfi.schemers.org/srfi-38/) - srfi
+0. [srfi-39](http://srfi.schemers.org/srfi-39/) - srfi
+0. [srfi-40](http://srfi.schemers.org/srfi-40/) - srfi
+0. [srfi-41](http://srfi.schemers.org/srfi-41/) - srfi
+0. [srfi-42](http://srfi.schemers.org/srfi-42/) - srfi
+0. [srfi-43](http://srfi.schemers.org/srfi-43/) - srfi
+0. [srfi-44](http://srfi.schemers.org/srfi-44/) - srfi
+0. [srfi-45](http://srfi.schemers.org/srfi-45/) - srfi
+0. [srfi-46](http://srfi.schemers.org/srfi-46/) - srfi
+0. [srfi-47](http://srfi.schemers.org/srfi-47/) - srfi
+0. [srfi-48](http://srfi.schemers.org/srfi-48/) - srfi
+0. [srfi-49](http://srfi.schemers.org/srfi-49/) - srfi
+0. [srfi-51](http://srfi.schemers.org/srfi-51/) - srfi
+0. [srfi-54](http://srfi.schemers.org/srfi-54/) - srfi
+0. [srfi-55](http://srfi.schemers.org/srfi-55/) - srfi
+0. [srfi-57](http://srfi.schemers.org/srfi-57/) - srfi
+0. [srfi-58](http://srfi.schemers.org/srfi-58/) - srfi
+0. [srfi-59](http://srfi.schemers.org/srfi-59/) - srfi
+0. [srfi-60](http://srfi.schemers.org/srfi-60/) - srfi
+0. [srfi-61](http://srfi.schemers.org/srfi-61/) - srfi
+0. [srfi-62](http://srfi.schemers.org/srfi-62/) - srfi
+0. [srfi-63](http://srfi.schemers.org/srfi-63/) - srfi
+0. [srfi-64](http://srfi.schemers.org/srfi-64/) - srfi
+0. [srfi-66](http://srfi.schemers.org/srfi-66/) - srfi
+0. [srfi-67](http://srfi.schemers.org/srfi-67/) - srfi
+0. [srfi-69](http://srfi.schemers.org/srfi-69/) - srfi
+0. [srfi-70](http://srfi.schemers.org/srfi-70/) - srfi
+0. [srfi-71](http://srfi.schemers.org/srfi-71/) - srfi
+0. [srfi-72](http://srfi.schemers.org/srfi-72/) - srfi
+0. [srfi-74](http://srfi.schemers.org/srfi-74/) - srfi
+0. [srfi-78](http://srfi.schemers.org/srfi-78/) - srfi
+0. [srfi-86](http://srfi.schemers.org/srfi-86/) - srfi
+0. [srfi-87](http://srfi.schemers.org/srfi-87/) - srfi
+0. [srfi-88](http://srfi.schemers.org/srfi-88/) - srfi
+0. [srfi-89](http://srfi.schemers.org/srfi-89/) - srfi
+0. [srfi-90](http://srfi.schemers.org/srfi-90/) - srfi
+0. [srfi-94](http://srfi.schemers.org/srfi-94/) - srfi
+0. [srfi-95](http://srfi.schemers.org/srfi-95/) - srfi
+0. [srfi-96](http://srfi.schemers.org/srfi-96/) - srfi
+0. [srfi-97](http://srfi.schemers.org/srfi-97/) - srfi
+0. [srfi-98](http://srfi.schemers.org/srfi-98/) - srfi
+0. [srfi-99](http://srfi.schemers.org/srfi-99/) - srfi
+0. [srfi-100](http://srfi.schemers.org/srfi-100/) - srfi
+0. [srfi-101](http://srfi.schemers.org/srfi-101/) - srfi
+0. [srfi-105](http://srfi.schemers.org/srfi-105/) - srfi
+0. [srfi-106](http://srfi.schemers.org/srfi-106/) - srfi
+0. [srfi-108](http://srfi.schemers.org/srfi-108/) - srfi
+0. [srfi-109](http://srfi.schemers.org/srfi-109/) - srfi
+0. [srfi-110](http://srfi.schemers.org/srfi-110/) - srfi
+0. [srfi-111](http://srfi.schemers.org/srfi-111/) - srfi
 0. [base64](http://snow.iro.umontreal.ca/?viewpkg=base64) - snow
 0. [tar](http://snow.iro.umontreal.ca/?viewpkg=tar) - snow
 0. [zlib](http://snow.iro.umontreal.ca/?viewpkg=zlib) - snow
@@ -2078,7 +2087,6 @@
 0. [describe.plt](http://planet.racket-lang.org//display.ss?package=describe.plt&owner=williams) - planet
 0. [diff.plt](http://planet.racket-lang.org//display.ss?package=diff.plt&owner=williams) - planet
 0. [fileutils.plt](http://planet.racket-lang.org//display.ss?package=fileutils.plt&owner=erast) - planet
-0. [fmt.plt](http://planet.racket-lang.org//display.ss?package=fmt.plt&owner=ashinn) - planet
 0. [fs-persist.plt](http://planet.racket-lang.org//display.ss?package=fs-persist.plt&owner=jaymccarthy) - planet
 0. [gnucash.plt](http://planet.racket-lang.org//display.ss?package=gnucash.plt&owner=clements) - planet
 0. [html-parser.plt](http://planet.racket-lang.org//display.ss?package=html-parser.plt&owner=ashinn) - planet
@@ -2558,7 +2566,6 @@
 0. [buffer-ports](http://wiki.call-cc.org/eggref/4/buffer-ports) - eggs
 0. [directory-utils](http://wiki.call-cc.org/eggref/4/directory-utils) - eggs
 0. [endian-port](http://wiki.call-cc.org/eggref/4/endian-port) - eggs
-0. [fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
 0. [format](http://wiki.call-cc.org/eggref/4/format) - eggs
 0. [format-compiler](http://wiki.call-cc.org/eggref/4/format-compiler) - eggs
 0. [format-compiler-base](http://wiki.call-cc.org/eggref/4/format-compiler-base) - eggs
@@ -3195,3 +3202,26 @@
 0. [skip-list](https://github.com/dylan-lang/skip-list) - dylan
 0. [collection-extensions](https://github.com/dylan-lang/collection-extensions) - dylan
 0. [matrix](https://github.com/dylan-lang/matrix) - dylan
+0. [LispWorks: CLOS Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-559.htm#pgfId-886156) - LispWorks
+0. [LispWorks: COMM Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-579.htm#pgfId-884490) - LispWorks
+0. [LispWorks: COMMON-LISP Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-628.htm#pgfId-1038824) - LispWorks
+0. [LispWorks: COMPILER Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-681.htm#pgfId-886165) - LispWorks
+0. [LispWorks: DBG Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-683.htm#pgfId-890850) - LispWorks
+0. [LispWorks: DSPEC Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-698.htm#pgfId-891301) - LispWorks
+0. [LispWorks: EXTERNAL-FORMAT Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-735.htm#pgfId-886156) - LispWorks
+0. [LispWorks: HCL Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-744.htm#pgfId-886156) - LispWorks
+0. [LispWorks: LINK-LOAD Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-871.htm#pgfId-885921) - LispWorks
+0. [LispWorks: LISPWORKS Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-877.htm#pgfId-886156) - LispWorks
+0. [LispWorks: MP Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1002.htm#pgfId-886156) - LispWorks
+0. [LispWorks: PARSERGEN Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1141.htm#pgfId-886156) - LispWorks
+0. [LispWorks: SERIAL-PORT Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1143.htm#pgfId-932631) - LispWorks
+0. [LispWorks: SQL Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1155.htm#pgfId-887891) - LispWorks
+0. [LispWorks: STREAM Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1288.htm#pgfId-974736) - LispWorks
+0. [LispWorks: SYSTEM Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1330.htm#pgfId-886156) - LispWorks
+0. [html.arc]() - arc
+0. [app.arc]() - arc
+0. [pprint.arc]() - arc
+0. [prompt.arc]() - arc
+0. [prompt.arc]() - arc
+0. [srv.arc]() - arc
+0. [strings.arc]() - arc
