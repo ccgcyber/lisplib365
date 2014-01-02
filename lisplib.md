@@ -3218,6 +3218,31 @@
 0. [LispWorks: SQL Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1155.htm#pgfId-887891) - LispWorks
 0. [LispWorks: STREAM Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1288.htm#pgfId-974736) - LispWorks
 0. [LispWorks: SYSTEM Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-1330.htm#pgfId-886156) - LispWorks
+0. [Allegro CL: Allegro CL Case Modes](http://www.franz.com/support/documentation/9.0/doc/case.htm) - Allegro CL
+0. [Allegro CL: Introduction to cbind and cplbind](http://www.franz.com/support/documentation/9.0/doc/cbind-intro.htm) - Allegro CL
+0. [Allegro CL: Building and Using an Allegro Common Lisp Based DLL](http://www.franz.com/support/documentation/9.0/doc/dll.htm) - Allegro CL
+0. [Allegro CL: Dumplisp](http://www.franz.com/support/documentation/9.0/doc/dumplisp.htm) - Allegro CL
+0. [Allegro CL: Errors](http://www.franz.com/support/documentation/9.0/doc/errors.htm) - Allegro CL
+0. [Allegro CL: Foreign Function Interface](http://www.franz.com/support/documentation/9.0/doc/foreign-functions.htm) - Allegro CL
+0. [Allegro CL: Foreign Types](http://www.franz.com/support/documentation/9.0/doc/ftype.htm) - Allegro CL
+0. [Allegro CL: Fwrapping and Advice](http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm) - Allegro CL
+0. [Allegro CL: Garbage Collection](http://www.franz.com/support/documentation/9.0/doc/gc.htm) - Allegro CL
+0. [Allegro CL: Gray Streams in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/gray-streams.htm) - Allegro CL
+0. [Allegro CL: International Character Support in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/iacl.htm) - Allegro CL
+0. [Allegro CL: Implementation](http://www.franz.com/support/documentation/9.0/doc/implementation.htm) - Allegro CL
+0. [Allegro CL: Loading](http://www.franz.com/support/documentation/9.0/doc/loading.htm) - Allegro CL
+0. [Allegro CL: User-defined main](http://www.franz.com/support/documentation/9.0/doc/main.htm) - Allegro CL
+0. [Allegro CL: Miscellaneous Functionality](http://www.franz.com/support/documentation/9.0/doc/miscellaneous.htm) - Allegro CL
+0. [Allegro CL: Multiprocessing](http://www.franz.com/support/documentation/9.0/doc/multiprocessing.htm) - Allegro CL
+0. [Allegro CL: Operating System Interface](http://www.franz.com/support/documentation/9.0/doc/os-interface.htm) - Allegro CL
+0. [Allegro CL: Operating System Constants defined in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/osi-constants.htm) - Allegro CL
+0. [Allegro CL: Packages](http://www.franz.com/support/documentation/9.0/doc/packages.htm) - Allegro CL
+0. [Allegro CL: Pathnames](http://www.franz.com/support/documentation/9.0/doc/pathnames.htm) - Allegro CL
+0. [Allegro CL: The shell module interface](http://www.franz.com/support/documentation/9.0/doc/shell-module.htm) - Allegro CL
+0. [Allegro CL: Symmetric Multiprocessing in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/smp.htm) - Allegro CL
+0. [Allegro CL: Streams in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/streams.htm) - Allegro CL
+0. [Allegro CL: String utility functions in  Allegro CL](http://www.franz.com/support/documentation/9.0/doc/string-utilities.htm) - Allegro CL
+0. [Allegro CL: Lisp as a Shared Library](http://www.franz.com/support/documentation/9.0/doc/unix-shared-library.htm) - Allegro CL
 0. [html.arc]() - arc
 0. [app.arc]() - arc
 0. [pprint.arc]() - arc
