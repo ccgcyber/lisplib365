@@ -1,10 +1,14 @@
 ## 紹介が書かれたライブラリ
 
 0. [alexandria]() - Quicklisp
+ - [#1/g000001](#1/g000001)
  - [http://g000001.cddddr.org/3597490800](http://g000001.cddddr.org/3597490800)
  - [http://qiita.com/l_libra/items/645b06a729bf722b1c97](http://qiita.com/l_libra/items/645b06a729bf722b1c97)
 0. [anaphora]() - Quicklisp
+ - [#2/g000001](#2/g000001)
  - [http://g000001.cddddr.org/3597577200](http://g000001.cddddr.org/3597577200)
+0. [asdf-install]() - Quicklisp
+ - [#14/g000001](#14/g000001)
 0. [babel]() - Quicklisp
  - [http://qiita.com/zptmtr/items/175b97844046b83fc5f2](http://qiita.com/zptmtr/items/175b97844046b83fc5f2)
 0. [cffi_0.11.2]() - Quicklisp
@@ -16,6 +20,7 @@
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
 0. [cl-emacs-if]() - Quicklisp
  - [#5/g000001](#5/g000001)
+ - [http://g000001.cddddr.org/3597836400](http://g000001.cddddr.org/3597836400)
 0. [cl-emb]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/76477e06fb03cde57392](http://qiita.com/nitro_idiot/items/76477e06fb03cde57392)
 0. [cl-fad-0.7.2]() - Quicklisp
@@ -27,6 +32,8 @@
  - [http://blog.hiyamugi.net/2012/12/23/0001](http://blog.hiyamugi.net/2012/12/23/0001)
 0. [cl-irregsexp]() - Quicklisp
  - [http://tips.lisp-users.org/common-lisp/index.cgi?cl-irregsexp](http://tips.lisp-users.org/common-lisp/index.cgi?cl-irregsexp)
+0. [cl-locatives]() - Quicklisp
+ - [#17/g000001](#17/g000001)
 0. [cl-markup]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab](http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab)
 0. [cl-mustache]() - Quicklisp
@@ -38,6 +45,8 @@
 0. [cl-ppcre-2.0.4](http://weitz.de/cl-ppcre/) - Quicklisp
  - [http://tips.lisp-users.org/common-lisp/index.cgi?CL-PPCRE](http://tips.lisp-users.org/common-lisp/index.cgi?CL-PPCRE)
  - [http://cl.cddddr.org/index.cgi?CL-PPCRE](http://cl.cddddr.org/index.cgi?CL-PPCRE)
+0. [cl-prevalence]() - Quicklisp
+ - [http://lispuser.net/commonlisp/cl-prevalence.html](http://lispuser.net/commonlisp/cl-prevalence.html)
 0. [cl-string-complete]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525](http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525)
 0. [cl-test-more](https://github.com/fukamachi/cl-test-more) - Quicklisp
@@ -48,6 +57,11 @@
  - [http://lispuser.net/commonlisp/cl-yacc.html](http://lispuser.net/commonlisp/cl-yacc.html)
 0. [closer-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
+0. [clsql]() - Quicklisp
+ - [http://d.hatena.ne.jp/yuki_neko_nyan/20070901/clsql](http://d.hatena.ne.jp/yuki_neko_nyan/20070901/clsql)
+ - [http://lambda.s55.xrea.com/CLSQL.html](http://lambda.s55.xrea.com/CLSQL.html)
+0. [clx]() - Quicklisp
+ - [http://lambda.s55.xrea.com/CLX.html](http://lambda.s55.xrea.com/CLX.html)
 0. [fare-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fast-io-release-5f330b97-git]() - Quicklisp
@@ -61,15 +75,22 @@
  - [#6/g000001](#6/g000001)
 0. [hu.dwim.serializer]() - Quicklisp
  - [#4/g000001](#4/g000001)
+ - [http://g000001.cddddr.org/3597750000](http://g000001.cddddr.org/3597750000)
+0. [hu.dwim.util.temporary-files]() - Quicklisp
+ - [#22/g000001](#22/g000001)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
+0. [letrec]() - Quicklisp
+ - [#16/g000001](#16/g000001)
+0. [lisa]() - Quicklisp
+ - [http://lambda.s55.xrea.com/LISA.html](http://lambda.s55.xrea.com/LISA.html)
 0. [lisp-unit]() - Quicklisp
  - [http://g000001.cddddr.org/3563622030](http://g000001.cddddr.org/3563622030)
 0. [log4cl]() - Quicklisp
  - [http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html](http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html)
 0. [lw-compat]() - Quicklisp
  - [#12/g000001](#12/g000001)
-0. [method-versions_0.1.2011.05.18]() - Quicklisp
+0. [method-versions]() - Quicklisp
  - [#11/g000001](#11/g000001)
 0. [mop-utils]() - Quicklisp
  - [http://g000001.cddddr.org/3596697000](http://g000001.cddddr.org/3596697000)
@@ -85,6 +106,10 @@
  - [#=hemlock](#=hemlock)
 0. [s-http-client]() - Quicklisp
  - [#8/g000001](#8/g000001)
+0. [shelly]() - Quicklisp
+ - [http://blog.8arrow.org/entry/20120521/1337596483](http://blog.8arrow.org/entry/20120521/1337596483)
+0. [temporary-file]() - Quicklisp
+ - [#20/g000001](#20/g000001)
 0. [toadstool]() - Quicklisp
  - [#10/g000001](#10/g000001)
 0. [uffi]() - Quicklisp
@@ -93,9 +118,15 @@
  - [http://g000001.cddddr.org/3563537013](http://g000001.cddddr.org/3563537013)
 0. [weblocks]() - Quicklisp
  - [http://blog.hiyamugi.net/2012/12/07/0001](http://blog.hiyamugi.net/2012/12/07/0001)
+0. [oop/clos/closette/]() - cmu-ai-repos
+ - [#18/g000001](#18/g000001)
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
  - [#3/tk_riple](#3/tk_riple)
- - [#](#)
+ - [http://compassoftime.blogspot.jp/2014/01/srfi-0.html](http://compassoftime.blogspot.jp/2014/01/srfi-0.html)
+0. [srfi-1](http://srfi.schemers.org/srfi-1/) - srfi
+ - [#15/tk_riple](#15/tk_riple)
+0. [srfi-2](http://srfi.schemers.org/srfi-2/) - srfi
+ - [#24/tk_riple](#24/tk_riple)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
@@ -117,6 +148,8 @@
  - [#9/g000001](#9/g000001)
 0. [cl-serializer]() - misc
  - [#quicklisp hu.dwim.serializer](#quicklisp hu.dwim.serializer)
+0. [cserial-port]() - misc
+ - [#13/snmsts](#13/snmsts)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
@@ -127,6 +160,10 @@
 0. [beirc]() - Quicklisp
  - g000001が書く予定
 0. [bordeaux-threads-0.8.3]() - Quicklisp
+ - g000001が書く予定
+0. [cells]() - Quicklisp
+ - g000001が書く予定
+0. [cells-gtk3]() - Quicklisp
  - g000001が書く予定
 0. [circular-streams]() - Quicklisp
  - g000001が書く予定
@@ -174,6 +211,8 @@
  - g000001が書く予定
 0. [group-by]() - Quicklisp
  - g000001が書く予定
+0. [hu.dwim.computed-class]() - Quicklisp
+ - g000001が書く予定
 0. [hu.dwim.def]() - Quicklisp
  - g000001が書く予定
 0. [kmrcl]() - Quicklisp
@@ -183,8 +222,6 @@
 0. [let-over-lambda]() - Quicklisp
  - g000001が書く予定
 0. [let-plus]() - Quicklisp
- - g000001が書く予定
-0. [letrec]() - Quicklisp
  - g000001が書く予定
 0. [lift]() - Quicklisp
  - g000001が書く予定
@@ -238,8 +275,6 @@
  - g000001が書く予定
 0. [teepeedee2]() - Quicklisp
  - g000001が書く予定
-0. [temporary-file]() - Quicklisp
- - g000001が書く予定
 0. [trivial-features]() - Quicklisp
  - g000001が書く予定
 0. [trivial-shell]() - Quicklisp
@@ -280,8 +315,6 @@
  - g000001が書く予定
 0. [code/tools/xref/]() - cmu-ai-repos
  - g000001が書く予定
-0. [oop/clos/closette/]() - cmu-ai-repos
- - g000001が書く予定
 0. [oop/non_clos/artificial-flavors]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/non_clos/cool/]() - cmu-ai-repos
@@ -289,8 +322,6 @@
 0. [oop/non_clos/corbit/]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/non_clos/mcs/v141/]() - cmu-ai-repos
- - g000001が書く予定
-0. [list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
  - g000001が書く予定
 0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
  - g000001が書く予定
@@ -301,6 +332,8 @@
 0. [cl-audioscrobbler]() - misc
  - g000001が書く予定
 0. [cl-sparsematrix]() - misc
+ - g000001が書く予定
+0. [loop]() - misc
  - g000001が書く予定
 
 ## まだ紹介が書かれていないライブラリ
@@ -322,7 +355,6 @@
 0. [asdf-dependency-grovel]() - Quicklisp
 0. [asdf-encodings]() - Quicklisp
 0. [asdf-finalizers]() - Quicklisp
-0. [asdf-install]() - Quicklisp
 0. [asdf-package-system]() - Quicklisp
 0. [asdf-project-helper]() - Quicklisp
 0. [asdf-system-connections]() - Quicklisp
@@ -356,8 +388,6 @@
 0. [caramel]() - Quicklisp
 0. [cartesian-product-switch-2.0]() - Quicklisp
 0. [caveman]() - Quicklisp
-0. [cells]() - Quicklisp
-0. [cells-gtk3]() - Quicklisp
 0. [cffi-objects]() - Quicklisp
 0. [cgn008]() - Quicklisp
 0. [ch-image]() - Quicklisp
@@ -503,7 +533,6 @@
 0. [cl-libxml2]() - Quicklisp
 0. [cl-llvm]() - Quicklisp
 0. [cl-locale]() - Quicklisp
-0. [cl-locatives]() - Quicklisp
 0. [cl-log.1.0.1]() - Quicklisp
 0. [cl-ltsv]() - Quicklisp
 0. [cl-m4]() - Quicklisp
@@ -555,7 +584,6 @@
 0. [cl-pop]() - Quicklisp
 0. [cl-popen]() - Quicklisp
 0. [cl-portaudio]() - Quicklisp
-0. [cl-prevalence]() - Quicklisp
 0. [cl-primality]() - Quicklisp
 0. [cl-prime-maker]() - Quicklisp
 0. [cl-proc]() - Quicklisp
@@ -661,14 +689,12 @@
 0. [clot]() - Quicklisp
 0. [clouchdb_0.0.16]() - Quicklisp
 0. [clpmr]() - Quicklisp
-0. [clsql]() - Quicklisp
 0. [clsql-fluid]() - Quicklisp
 0. [clsql-helper]() - Quicklisp
 0. [clsql-orm]() - Quicklisp
 0. [cluck]() - Quicklisp
 0. [clunit]() - Quicklisp
 0. [clws]() - Quicklisp
-0. [clx]() - Quicklisp
 0. [clx-cursor]() - Quicklisp
 0. [clx-truetype]() - Quicklisp
 0. [clx-xembed]() - Quicklisp
@@ -805,7 +831,6 @@
 0. [hu.dwim.asdf]() - Quicklisp
 0. [hu.dwim.common]() - Quicklisp
 0. [hu.dwim.common-lisp]() - Quicklisp
-0. [hu.dwim.computed-class]() - Quicklisp
 0. [hu.dwim.debug]() - Quicklisp
 0. [hu.dwim.defclass-star]() - Quicklisp
 0. [hu.dwim.delico]() - Quicklisp
@@ -834,6 +859,7 @@
 0. [incf-cl]() - Quicklisp
 0. [incognito-keywords-1.1]() - Quicklisp
 0. [incongruent-methods]() - Quicklisp
+ - [g000001](g000001)
 0. [inferior-shell]() - Quicklisp
 0. [infix-dollar-reader]() - Quicklisp
 0. [inner-conditional]() - Quicklisp
@@ -860,7 +886,6 @@
 0. [lfarm]() - Quicklisp
 0. [lhstats]() - Quicklisp
 0. [linedit]() - Quicklisp
-0. [lisa]() - Quicklisp
 0. [lisp-executable]() - Quicklisp
 0. [lisp-gflags]() - Quicklisp
 0. [lisp-interface-library]() - Quicklisp
@@ -1057,7 +1082,6 @@
 0. [sexml]() - Quicklisp
 0. [sha3]() - Quicklisp
 0. [shadchen]() - Quicklisp
-0. [shelly]() - Quicklisp
 0. [shuffletron]() - Quicklisp
 0. [simple-currency]() - Quicklisp
 0. [simple-date-time]() - Quicklisp
@@ -1314,6 +1338,7 @@
 0. [gui/clm/]() - cmu-ai-repos
 0. [gui/clue/]() - cmu-ai-repos
 0. [gui/clx/]() - cmu-ai-repos
+ - [#=clx](#=clx)
 0. [gui/cw/]() - cmu-ai-repos
 0. [gui/ew/]() - cmu-ai-repos
 0. [gui/ew/goodwill/]() - cmu-ai-repos
@@ -1370,8 +1395,6 @@
 0. [util/tags/]() - cmu-ai-repos
 0. [util/tex/]() - cmu-ai-repos
 0. [util/vgrind/]() - cmu-ai-repos
-0. [srfi-1](http://srfi.schemers.org/srfi-1/) - srfi
-0. [srfi-2](http://srfi.schemers.org/srfi-2/) - srfi
 0. [srfi-4](http://srfi.schemers.org/srfi-4/) - srfi
 0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
 0. [srfi-6](http://srfi.schemers.org/srfi-6/) - srfi
@@ -1497,6 +1520,8 @@
 0. [lalr](http://snow.iro.umontreal.ca/?viewpkg=lalr) - snow
 0. [pregexp](http://snow.iro.umontreal.ca/?viewpkg=pregexp) - snow
 0. [silex](http://snow.iro.umontreal.ca/?viewpkg=silex) - snow
+0. [list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
+ - [#26/g000001](#26/g000001)
 0. [random](http://snow.iro.umontreal.ca/?viewpkg=random) - snow
 0. [snow-generic](http://snow.iro.umontreal.ca/?viewpkg=snow-generic) - snow
 0. [snowfort-app](http://snow.iro.umontreal.ca/?viewpkg=snowfort-app) - snow
@@ -3250,3 +3275,8 @@
 0. [prompt.arc]() - arc
 0. [srv.arc]() - arc
 0. [strings.arc]() - arc
+0. [jfli]() - misc
+0. [swclos]() - misc
+0. [imho]() - misc
+0. [defenum](http://defenum.sourceforge.net/) - misc
+0. [common-idioms](http://www.cliki.net/common-idioms) - misc
