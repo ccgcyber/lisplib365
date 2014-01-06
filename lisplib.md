@@ -40,6 +40,7 @@
  - [http://qiita.com/nitro_idiot/items/01c98717e3c15dac0372](http://qiita.com/nitro_idiot/items/01c98717e3c15dac0372)
 0. [cl-op]() - Quicklisp
  - [#7/g00001](#7/g00001)
+ - [http://g000001.cddddr.org/3598009200](http://g000001.cddddr.org/3598009200)
 0. [cl-pdf]() - Quicklisp
  - [http://blog.hiyamugi.net/2013/12/10/0001](http://blog.hiyamugi.net/2013/12/10/0001)
 0. [cl-ppcre-2.0.4](http://weitz.de/cl-ppcre/) - Quicklisp
@@ -64,6 +65,8 @@
  - [http://lambda.s55.xrea.com/CLX.html](http://lambda.s55.xrea.com/CLX.html)
 0. [fare-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
+0. [fare-quasiquote]() - Quicklisp
+ - [#30/g000001](#30/g000001)
 0. [fast-io-release-5f330b97-git]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54](http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54)
 0. [filtered-functions]() - Quicklisp
@@ -73,6 +76,7 @@
  - [http://cl.cddddr.org/index.cgi?FiveAM](http://cl.cddddr.org/index.cgi?FiveAM)
 0. [hemlock]() - Quicklisp
  - [#6/g000001](#6/g000001)
+ - [http://g000001.cddddr.org/3597922800](http://g000001.cddddr.org/3597922800)
 0. [hu.dwim.serializer]() - Quicklisp
  - [#4/g000001](#4/g000001)
  - [http://g000001.cddddr.org/3597750000](http://g000001.cddddr.org/3597750000)
@@ -104,10 +108,14 @@
  - [http://qiita.com/m2ym/items/a2e00c79984750958e8a](http://qiita.com/m2ym/items/a2e00c79984750958e8a)
 0. [phemlock]() - Quicklisp
  - [#=hemlock](#=hemlock)
+0. [rt]() - Quicklisp
+ - [#32/g000001](#32/g000001)
 0. [s-http-client]() - Quicklisp
  - [#8/g000001](#8/g000001)
 0. [shelly]() - Quicklisp
  - [http://blog.8arrow.org/entry/20120521/1337596483](http://blog.8arrow.org/entry/20120521/1337596483)
+0. [symbol-munger]() - Quicklisp
+ - [#31/g000001](#31/g000001)
 0. [temporary-file]() - Quicklisp
  - [#20/g000001](#20/g000001)
 0. [toadstool]() - Quicklisp
@@ -118,6 +126,8 @@
  - [http://g000001.cddddr.org/3563537013](http://g000001.cddddr.org/3563537013)
 0. [weblocks]() - Quicklisp
  - [http://blog.hiyamugi.net/2012/12/07/0001](http://blog.hiyamugi.net/2012/12/07/0001)
+0. [code/testing/rt/]() - cmu-ai-repos
+ - [#=rt](#=rt)
 0. [oop/clos/closette/]() - cmu-ai-repos
  - [#18/g000001](#18/g000001)
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
@@ -205,8 +215,6 @@
  - g000001が書く予定
 0. [fare-memoization]() - Quicklisp
  - g000001が書く予定
-0. [fare-quasiquote]() - Quicklisp
- - g000001が書く予定
 0. [fare-utils]() - Quicklisp
  - g000001が書く予定
 0. [group-by]() - Quicklisp
@@ -249,8 +257,6 @@
  - g000001が書く予定
 0. [quickproject-1.2]() - Quicklisp
  - g000001が書く予定
-0. [rt]() - Quicklisp
- - g000001が書く予定
 0. [sclf]() - Quicklisp
  - g000001が書く予定
 0. [series]() - Quicklisp
@@ -268,8 +274,6 @@
 0. [swank-client]() - Quicklisp
  - g000001が書く予定
 0. [swank-crew]() - Quicklisp
- - g000001が書く予定
-0. [symbol-munger]() - Quicklisp
  - g000001が書く予定
 0. [tagger]() - Quicklisp
  - g000001が書く予定
@@ -1288,7 +1292,6 @@
 0. [code/syntax/trans/ilisp/]() - cmu-ai-repos
 0. [code/syntax/trans/mclaclpc/]() - cmu-ai-repos
 0. [code/syntax/trans/mclaclpc/old/]() - cmu-ai-repos
-0. [code/testing/rt/]() - cmu-ai-repos
 0. [code/tools/defsys/]() - cmu-ai-repos
 0. [code/tools/defsys/laubsch/]() - cmu-ai-repos
 0. [code/tools/defsys/mkant/]() - cmu-ai-repos
