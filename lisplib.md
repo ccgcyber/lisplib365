@@ -92,6 +92,8 @@
  - [http://g000001.cddddr.org/3563622030](http://g000001.cddddr.org/3563622030)
 0. [log4cl]() - Quicklisp
  - [http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html](http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html)
+0. [lparallel]() - Quicklisp
+ - [Qiita/guicho271828](http://qiita.com/guicho271828/items/c5cee354ea674028f292)
 0. [lw-compat]() - Quicklisp
  - [#12/g000001](#12/g000001)
 0. [method-versions]() - Quicklisp
