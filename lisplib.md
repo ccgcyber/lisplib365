@@ -93,7 +93,9 @@
 0. [log4cl]() - Quicklisp
  - [http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html](http://kurohuku.blogspot.jp/2012/12/common-lisp-libraries-advent-calendar.html)
 0. [lparallel]() - Quicklisp
- - [Qiita/guicho271828](http://qiita.com/guicho271828/items/c5cee354ea674028f292)
+ - [http://qiita.com/guicho271828/items/c5cee354ea674028f292](http://qiita.com/guicho271828/items/c5cee354ea674028f292)
+ - [http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86](http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86)
+ - [http://tips.lisp-users.org/common-lisp/index.cgi?%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E4%B8%A6%E5%88%97%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B](http://tips.lisp-users.org/common-lisp/index.cgi?%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E4%B8%A6%E5%88%97%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
 0. [lw-compat]() - Quicklisp
  - [#12/g000001](#12/g000001)
 0. [method-versions]() - Quicklisp
@@ -162,6 +164,10 @@
  - [#quicklisp hu.dwim.serializer](#quicklisp hu.dwim.serializer)
 0. [cserial-port]() - misc
  - [#13/snmsts](#13/snmsts)
+0. [xecto]() - misc
+ - [http://tips.lisp-users.org/common-lisp/index.cgi?%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E4%B8%A6%E5%88%97%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B](http://tips.lisp-users.org/common-lisp/index.cgi?%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E4%B8%A6%E5%88%97%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
+ - [http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97%E5%87%A6%E7%90%86](http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97%E5%87%A6%E7%90%86)
+ - [http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86](http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
@@ -908,7 +914,6 @@
 0. [local-time]() - Quicklisp
 0. [log5]() - Quicklisp
 0. [lowlight]() - Quicklisp
-0. [lparallel]() - Quicklisp
 0. [lquery]() - Quicklisp
 0. [lredis]() - Quicklisp
 0. [ltk-0.98]() - Quicklisp
