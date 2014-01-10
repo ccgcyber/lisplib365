@@ -63,6 +63,8 @@
  - [http://lambda.s55.xrea.com/CLSQL.html](http://lambda.s55.xrea.com/CLSQL.html)
 0. [clx]() - Quicklisp
  - [http://lambda.s55.xrea.com/CLX.html](http://lambda.s55.xrea.com/CLX.html)
+0. [defmacro-enhance]() - Quicklisp
+ - [#19/g000001](#19/g000001)
 0. [fare-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fare-quasiquote]() - Quicklisp
@@ -100,6 +102,7 @@
  - [#12/g000001](#12/g000001)
 0. [method-versions]() - Quicklisp
  - [#11/g000001](#11/g000001)
+ - [http://g000001.cddddr.org/3598354800](http://g000001.cddddr.org/3598354800)
 0. [mop-utils]() - Quicklisp
  - [http://g000001.cddddr.org/3596697000](http://g000001.cddddr.org/3596697000)
 0. [moptilities]() - Quicklisp
@@ -110,12 +113,17 @@
  - [http://blog.8arrow.org/entry/20120403/1333455934](http://blog.8arrow.org/entry/20120403/1333455934)
 0. [optima]() - Quicklisp
  - [http://qiita.com/m2ym/items/a2e00c79984750958e8a](http://qiita.com/m2ym/items/a2e00c79984750958e8a)
+0. [package-renaming]() - Quicklisp
+ - [#21/g000001](#21/g000001)
 0. [phemlock]() - Quicklisp
  - [#=hemlock](#=hemlock)
 0. [rt]() - Quicklisp
  - [#32/g000001](#32/g000001)
 0. [s-http-client]() - Quicklisp
  - [#8/g000001](#8/g000001)
+ - [http://g000001.cddddr.org/3598095600](http://g000001.cddddr.org/3598095600)
+0. [sheeple]() - Quicklisp
+ - [#23/g000001](#23/g000001)
 0. [shelly]() - Quicklisp
  - [http://blog.8arrow.org/entry/20120521/1337596483](http://blog.8arrow.org/entry/20120521/1337596483)
 0. [symbol-munger]() - Quicklisp
@@ -124,6 +132,7 @@
  - [#20/g000001](#20/g000001)
 0. [toadstool]() - Quicklisp
  - [#10/g000001](#10/g000001)
+ - [http://g000001.cddddr.org/3598268400](http://g000001.cddddr.org/3598268400)
 0. [uffi]() - Quicklisp
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [vecto-1.4.6]() - Quicklisp
@@ -160,6 +169,7 @@
  - [http://qiita.com/seijikoide/items/c8223c9cb825e064130a](http://qiita.com/seijikoide/items/c8223c9cb825e064130a)
 0. [fmt]() - misc
  - [#9/g000001](#9/g000001)
+ - [http://g000001.cddddr.org/3598182000](http://g000001.cddddr.org/3598182000)
 0. [cl-serializer]() - misc
  - [#quicklisp hu.dwim.serializer](#quicklisp hu.dwim.serializer)
 0. [cserial-port]() - misc
@@ -210,8 +220,6 @@
 0. [com.informatimago]() - Quicklisp
  - g000001が書く予定
 0. [curly]() - Quicklisp
- - g000001が書く予定
-0. [defmacro-enhance]() - Quicklisp
  - g000001が書く予定
 0. [defmemo]() - Quicklisp
  - g000001が書く予定
@@ -268,8 +276,6 @@
 0. [sclf]() - Quicklisp
  - g000001が書く予定
 0. [series]() - Quicklisp
- - g000001が書く予定
-0. [sheeple]() - Quicklisp
  - g000001が書く予定
 0. [stefil]() - Quicklisp
  - g000001が書く予定
@@ -988,7 +994,6 @@
 0. [osc]() - Quicklisp
 0. [osicat]() - Quicklisp
 0. [pack]() - Quicklisp
-0. [package-renaming]() - Quicklisp
 0. [paiprolog]() - Quicklisp
 0. [pal]() - Quicklisp
 0. [paren-files]() - Quicklisp
