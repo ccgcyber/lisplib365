@@ -35,6 +35,7 @@
  - [http://tips.lisp-users.org/common-lisp/index.cgi?cl-irregsexp](http://tips.lisp-users.org/common-lisp/index.cgi?cl-irregsexp)
 0. [cl-locatives]() - Quicklisp
  - [#17/g000001](#17/g000001)
+ - [http://g000001.cddddr.org/3598873200](http://g000001.cddddr.org/3598873200)
 0. [cl-markup]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab](http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab)
 0. [cl-mustache]() - Quicklisp
@@ -93,6 +94,8 @@
  - [#22/g000001](#22/g000001)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
+0. [let-plus]() - Quicklisp
+ - [#36/g000001](#36/g000001)
 0. [letrec]() - Quicklisp
  - [#16/g000001](#16/g000001)
  - [http://g000001.cddddr.org/3598786800](http://g000001.cddddr.org/3598786800)
@@ -164,6 +167,7 @@
  - [#=rt](#=rt)
 0. [oop/clos/closette/]() - cmu-ai-repos
  - [#18/g000001](#18/g000001)
+ - [http://g000001.cddddr.org/3598959600](http://g000001.cddddr.org/3598959600)
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
  - [#3/tk_riple](#3/tk_riple)
  - [http://compassoftime.blogspot.jp/2014/01/srfi-0.html](http://compassoftime.blogspot.jp/2014/01/srfi-0.html)
@@ -268,8 +272,6 @@
 0. [lambda-reader]() - Quicklisp
  - g000001が書く予定
 0. [let-over-lambda]() - Quicklisp
- - g000001が書く予定
-0. [let-plus]() - Quicklisp
  - g000001が書く予定
 0. [lift]() - Quicklisp
  - g000001が書く予定
