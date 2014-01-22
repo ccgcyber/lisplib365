@@ -67,8 +67,13 @@
  - [http://lambda.s55.xrea.com/CLX.html](http://lambda.s55.xrea.com/CLX.html)
 0. [colorize]() - Quicklisp
  - [#25/g000001](#25/g000001)
+0. [com.google.base]() - Quicklisp
+ - [#40/g000001](#40/g000001)
 0. [defmacro-enhance]() - Quicklisp
  - [#19/g000001](#19/g000001)
+ - [http://g000001.cddddr.org/3599046000](http://g000001.cddddr.org/3599046000)
+0. [dlist]() - Quicklisp
+ - [#42/g000001](#42/g000001)
 0. [fare-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fare-quasiquote]() - Quicklisp
@@ -92,8 +97,11 @@
  - [http://g000001.cddddr.org/3597750000](http://g000001.cddddr.org/3597750000)
 0. [hu.dwim.util.temporary-files]() - Quicklisp
  - [#22/g000001](#22/g000001)
+ - [http://g000001.cddddr.org/3599305200](http://g000001.cddddr.org/3599305200)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
+0. [lambda-reader]() - Quicklisp
+ - [#39/g000001](#39/g000001)
 0. [let-plus]() - Quicklisp
  - [#36/g000001](#36/g000001)
 0. [letrec]() - Quicklisp
@@ -114,6 +122,8 @@
  - [http://g000001.cddddr.org/3598441200](http://g000001.cddddr.org/3598441200)
 0. [macroexpand-dammit]() - Quicklisp
  - [#33/g000001](#33/g000001)
+0. [method-combination-utilities]() - Quicklisp
+ - [#37/g000001](#37/g000001)
 0. [method-versions]() - Quicklisp
  - [#11/g000001](#11/g000001)
  - [http://g000001.cddddr.org/3598354800](http://g000001.cddddr.org/3598354800)
@@ -131,6 +141,7 @@
  - [http://qiita.com/m2ym/items/a2e00c79984750958e8a](http://qiita.com/m2ym/items/a2e00c79984750958e8a)
 0. [package-renaming]() - Quicklisp
  - [#21/g000001](#21/g000001)
+ - [http://g000001.cddddr.org/3599218800](http://g000001.cddddr.org/3599218800)
 0. [phemlock]() - Quicklisp
  - [#=hemlock](#=hemlock)
 0. [rt]() - Quicklisp
@@ -140,6 +151,7 @@
  - [http://g000001.cddddr.org/3598095600](http://g000001.cddddr.org/3598095600)
 0. [sheeple]() - Quicklisp
  - [#23/g000001](#23/g000001)
+ - [http://g000001.cddddr.org/3599391600](http://g000001.cddddr.org/3599391600)
 0. [shelly]() - Quicklisp
  - [http://blog.8arrow.org/entry/20120521/1337596483](http://blog.8arrow.org/entry/20120521/1337596483)
 0. [stp-query]() - Quicklisp
@@ -152,9 +164,12 @@
  - [#29/g000001](#29/g000001)
 0. [temporary-file]() - Quicklisp
  - [#20/g000001](#20/g000001)
+ - [http://g000001.cddddr.org/3599132400](http://g000001.cddddr.org/3599132400)
 0. [toadstool]() - Quicklisp
  - [#10/g000001](#10/g000001)
  - [http://g000001.cddddr.org/3598268400](http://g000001.cddddr.org/3598268400)
+0. [trivial-features]() - Quicklisp
+ - [#38/g000001](#38/g000001)
 0. [uffi]() - Quicklisp
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [uuid]() - Quicklisp
@@ -176,6 +191,8 @@
  - [http://compassoftime.blogspot.jp/2014/01/srfi-1.html](http://compassoftime.blogspot.jp/2014/01/srfi-1.html)
 0. [srfi-2](http://srfi.schemers.org/srfi-2/) - srfi
  - [#24/tk_riple](#24/tk_riple)
+0. [srfi-4](http://srfi.schemers.org/srfi-4/) - srfi
+ - [#41/tk_riple](#41/tk_riple)
 0. [snow: list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
  - [#26/g000001](#26/g000001)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
@@ -208,6 +225,8 @@
  - [http://tips.lisp-users.org/common-lisp/index.cgi?%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E4%B8%A6%E5%88%97%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B](http://tips.lisp-users.org/common-lisp/index.cgi?%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E4%B8%A6%E5%88%97%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B)
  - [http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97%E5%87%A6%E7%90%86](http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97%E5%87%A6%E7%90%86)
  - [http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86](http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86)
+0. [Integral]() - misc
+ - [http://blog.8arrow.org/entry/2014/01/19/180013](http://blog.8arrow.org/entry/2014/01/19/180013)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
@@ -269,8 +288,6 @@
  - g000001が書く予定
 0. [kmrcl]() - Quicklisp
  - g000001が書く予定
-0. [lambda-reader]() - Quicklisp
- - g000001が書く予定
 0. [let-over-lambda]() - Quicklisp
  - g000001が書く予定
 0. [lift]() - Quicklisp
@@ -284,8 +301,6 @@
 0. [metatilities]() - Quicklisp
  - g000001が書く予定
 0. [metatilities-base]() - Quicklisp
- - g000001が書く予定
-0. [method-combination-utilities]() - Quicklisp
  - g000001が書く予定
 0. [plexippus-xpath]() - Quicklisp
  - g000001が書く予定
@@ -315,9 +330,9 @@
  - g000001が書く予定
 0. [teepeedee2]() - Quicklisp
  - g000001が書く予定
-0. [trivial-features]() - Quicklisp
- - g000001が書く予定
 0. [trivial-shell]() - Quicklisp
+ - g000001が書く予定
+0. [trivial-tco]() - Quicklisp
  - g000001が書く予定
 0. [trivial-utf-8]() - Quicklisp
  - g000001が書く予定
@@ -745,7 +760,6 @@
 0. [com.clearly-useful.iterate-plus]() - Quicklisp
 0. [com.clearly-useful.iterator-protocol]() - Quicklisp
 0. [com.clearly-useful.protocols]() - Quicklisp
-0. [com.google.base]() - Quicklisp
 0. [command-line-arguments]() - Quicklisp
 0. [common-lisp-actors]() - Quicklisp
 0. [common-lisp-stat]() - Quicklisp
@@ -786,7 +800,6 @@
 0. [deoxybyte-utilities]() - Quicklisp
 0. [diff]() - Quicklisp
 0. [djula]() - Quicklisp
-0. [dlist]() - Quicklisp
 0. [do-urlencode]() - Quicklisp
 0. [docbrowser]() - Quicklisp
 0. [documentation-template-0.4.3]() - Quicklisp
@@ -1172,7 +1185,6 @@
 0. [trivial-ldap]() - Quicklisp
 0. [trivial-octet-streams]() - Quicklisp
 0. [trivial-raw-io]() - Quicklisp
-0. [trivial-tco]() - Quicklisp
 0. [trivial-timeout]() - Quicklisp
 0. [trivial-timers]() - Quicklisp
 0. [trivial-types]() - Quicklisp
@@ -1424,7 +1436,6 @@
 0. [util/tags/]() - cmu-ai-repos
 0. [util/tex/]() - cmu-ai-repos
 0. [util/vgrind/]() - cmu-ai-repos
-0. [srfi-4](http://srfi.schemers.org/srfi-4/) - srfi
 0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
 0. [srfi-6](http://srfi.schemers.org/srfi-6/) - srfi
 0. [srfi-7](http://srfi.schemers.org/srfi-7/) - srfi
