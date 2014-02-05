@@ -67,6 +67,7 @@
  - [http://lambda.s55.xrea.com/CLX.html](http://lambda.s55.xrea.com/CLX.html)
 0. [colorize]() - Quicklisp
  - [#25/g000001](#25/g000001)
+ - [http://g000001.cddddr.org/3599564400](http://g000001.cddddr.org/3599564400)
 0. [com.google.base]() - Quicklisp
  - [#40/g000001](#40/g000001)
 0. [defmacro-enhance]() - Quicklisp
@@ -78,6 +79,7 @@
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fare-quasiquote]() - Quicklisp
  - [#30/g000001](#30/g000001)
+ - [http://g000001.cddddr.org/3599996400](http://g000001.cddddr.org/3599996400)
 0. [fast-io-release-5f330b97-git]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54](http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54)
 0. [filtered-functions]() - Quicklisp
@@ -92,18 +94,22 @@
  - [http://g000001.cddddr.org/3597922800](http://g000001.cddddr.org/3597922800)
 0. [hu.dwim.def]() - Quicklisp
  - [#28/g000001](#28/g000001)
+ - [http://g000001.cddddr.org/3599823600](http://g000001.cddddr.org/3599823600)
 0. [hu.dwim.serializer]() - Quicklisp
  - [#4/g000001](#4/g000001)
  - [http://g000001.cddddr.org/3597750000](http://g000001.cddddr.org/3597750000)
 0. [hu.dwim.util.temporary-files]() - Quicklisp
  - [#22/g000001](#22/g000001)
  - [http://g000001.cddddr.org/3599305200](http://g000001.cddddr.org/3599305200)
+0. [incongruent-methods]() - Quicklisp
+ - [#45/g000001](#45/g000001)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
 0. [lambda-reader]() - Quicklisp
  - [#39/g000001](#39/g000001)
 0. [let-plus]() - Quicklisp
  - [#36/g000001](#36/g000001)
+ - [http://g000001.cddddr.org/3600514800](http://g000001.cddddr.org/3600514800)
 0. [letrec]() - Quicklisp
  - [#16/g000001](#16/g000001)
  - [http://g000001.cddddr.org/3598786800](http://g000001.cddddr.org/3598786800)
@@ -122,8 +128,12 @@
  - [http://g000001.cddddr.org/3598441200](http://g000001.cddddr.org/3598441200)
 0. [macroexpand-dammit]() - Quicklisp
  - [#33/g000001](#33/g000001)
+ - [http://g000001.cddddr.org/3600255600](http://g000001.cddddr.org/3600255600)
+0. [memoize]() - Quicklisp
+ - [#44/g000001](#44/g000001)
 0. [method-combination-utilities]() - Quicklisp
  - [#37/g000001](#37/g000001)
+ - [http://g000001.cddddr.org/3600601200](http://g000001.cddddr.org/3600601200)
 0. [method-versions]() - Quicklisp
  - [#11/g000001](#11/g000001)
  - [http://g000001.cddddr.org/3598354800](http://g000001.cddddr.org/3598354800)
@@ -131,8 +141,9 @@
  - [http://g000001.cddddr.org/3596697000](http://g000001.cddddr.org/3596697000)
 0. [moptilities]() - Quicklisp
  - [http://g000001.cddddr.org/3596596200](http://g000001.cddddr.org/3596596200)
-0. [multiple-value-variants-1.0]() - Quicklisp
+0. [multiple-value-variants]() - Quicklisp
  - [#34/g000001](#34/g000001)
+ - [http://g000001.cddddr.org/3600342000](http://g000001.cddddr.org/3600342000)
 0. [named-readtables]() - Quicklisp
  - [http://qiita.com/g000001/items/8bad77ea5a8ebf9bdb85](http://qiita.com/g000001/items/8bad77ea5a8ebf9bdb85)
 0. [ningle](http://fukamachi.github.com/ningle/) - Quicklisp
@@ -144,8 +155,13 @@
  - [http://g000001.cddddr.org/3599218800](http://g000001.cddddr.org/3599218800)
 0. [phemlock]() - Quicklisp
  - [#=hemlock](#=hemlock)
+0. [ptester]() - Quicklisp
+ - [#47/g000001](#47/g000001)
+0. [quid-pro-quo]() - Quicklisp
+ - [@g000001](@g000001)
 0. [rt]() - Quicklisp
  - [#32/g000001](#32/g000001)
+ - [http://g000001.cddddr.org/3600169200](http://g000001.cddddr.org/3600169200)
 0. [s-http-client]() - Quicklisp
  - [#8/g000001](#8/g000001)
  - [http://g000001.cddddr.org/3598095600](http://g000001.cddddr.org/3598095600)
@@ -158,10 +174,13 @@
  - [http://qiita.com/lambdasakura@github/items/991a53beca77cb63ec65](http://qiita.com/lambdasakura@github/items/991a53beca77cb63ec65)
 0. [string-case]() - Quicklisp
  - [#27/g000001](#27/g000001)
+ - [http://g000001.cddddr.org/3599737200](http://g000001.cddddr.org/3599737200)
 0. [symbol-munger]() - Quicklisp
  - [#31/g000001](#31/g000001)
+ - [http://g000001.cddddr.org/3600082800](http://g000001.cddddr.org/3600082800)
 0. [synonyms]() - Quicklisp
  - [#29/g000001](#29/g000001)
+ - [http://g000001.cddddr.org/3599910000](http://g000001.cddddr.org/3599910000)
 0. [temporary-file]() - Quicklisp
  - [#20/g000001](#20/g000001)
  - [http://g000001.cddddr.org/3599132400](http://g000001.cddddr.org/3599132400)
@@ -170,10 +189,15 @@
  - [http://g000001.cddddr.org/3598268400](http://g000001.cddddr.org/3598268400)
 0. [trivial-features]() - Quicklisp
  - [#38/g000001](#38/g000001)
+0. [trivial-tco]() - Quicklisp
+ - [#48/g000001](#48/g000001)
+0. [trivial-utf-8]() - Quicklisp
+ - [#46/g000001](#46/g000001)
 0. [uffi]() - Quicklisp
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [uuid]() - Quicklisp
  - [#35/g000001](#35/g000001)
+ - [http://g000001.cddddr.org/3600428400](http://g000001.cddddr.org/3600428400)
 0. [vecto-1.4.6]() - Quicklisp
  - [http://g000001.cddddr.org/3563537013](http://g000001.cddddr.org/3563537013)
 0. [weblocks]() - Quicklisp
@@ -183,6 +207,7 @@
 0. [oop/clos/closette/]() - cmu-ai-repos
  - [#18/g000001](#18/g000001)
  - [http://g000001.cddddr.org/3598959600](http://g000001.cddddr.org/3598959600)
+0. [oop/non_clos/artificial-flavors](#49/g000001) - cmu-ai-repos
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
  - [#3/tk_riple](#3/tk_riple)
  - [http://compassoftime.blogspot.jp/2014/01/srfi-0.html](http://compassoftime.blogspot.jp/2014/01/srfi-0.html)
@@ -191,10 +216,12 @@
  - [http://compassoftime.blogspot.jp/2014/01/srfi-1.html](http://compassoftime.blogspot.jp/2014/01/srfi-1.html)
 0. [srfi-2](http://srfi.schemers.org/srfi-2/) - srfi
  - [#24/tk_riple](#24/tk_riple)
+ - [http://compassoftime.blogspot.jp/2014/01/srfi-2.html](http://compassoftime.blogspot.jp/2014/01/srfi-2.html)
 0. [srfi-4](http://srfi.schemers.org/srfi-4/) - srfi
  - [#41/tk_riple](#41/tk_riple)
 0. [snow: list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
  - [#26/g000001](#26/g000001)
+ - [http://g000001.cddddr.org/3599650800](http://g000001.cddddr.org/3599650800)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
@@ -203,6 +230,8 @@
  - [#=fmt](#=fmt)
 0. [fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
  - [#=fmt](#=fmt)
+0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
+ - [#43/g000001](#43/g000001)
 0. [ttf-ascii]() - misc
  - [http://g000001.cddddr.org/3563708490](http://g000001.cddddr.org/3563708490)
 0. [braille-banner]() - misc
@@ -284,8 +313,6 @@
  - g000001が書く予定
 0. [hu.dwim.computed-class]() - Quicklisp
  - g000001が書く予定
-0. [incongruent-methods]() - Quicklisp
- - g000001が書く予定
 0. [kmrcl]() - Quicklisp
  - g000001が書く予定
 0. [let-over-lambda]() - Quicklisp
@@ -296,17 +323,15 @@
  - g000001が書く予定
 0. [mcclim]() - Quicklisp
  - g000001が書く予定
-0. [memoize]() - Quicklisp
- - g000001が書く予定
 0. [metatilities]() - Quicklisp
  - g000001が書く予定
 0. [metatilities-base]() - Quicklisp
  - g000001が書く予定
 0. [plexippus-xpath]() - Quicklisp
  - g000001が書く予定
-0. [acl-compat]() - Quicklisp
+0. [policy-cond]() - Quicklisp
  - g000001が書く予定
-0. [ptester]() - Quicklisp
+0. [acl-compat]() - Quicklisp
  - g000001が書く予定
 0. [puri]() - Quicklisp
  - g000001が書く予定
@@ -331,10 +356,6 @@
 0. [teepeedee2]() - Quicklisp
  - g000001が書く予定
 0. [trivial-shell]() - Quicklisp
- - g000001が書く予定
-0. [trivial-tco]() - Quicklisp
- - g000001が書く予定
-0. [trivial-utf-8]() - Quicklisp
  - g000001が書く予定
 0. [xml-mop]() - Quicklisp
  - g000001が書く予定
@@ -368,15 +389,11 @@
  - g000001が書く予定
 0. [code/tools/xref/]() - cmu-ai-repos
  - g000001が書く予定
-0. [oop/non_clos/artificial-flavors]() - cmu-ai-repos
- - g000001が書く予定
 0. [oop/non_clos/cool/]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/non_clos/corbit/]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/non_clos/mcs/v141/]() - cmu-ai-repos
- - g000001が書く予定
-0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
  - g000001が書く予定
 0. [lisp-critic]() - misc
  - g000001が書く予定
@@ -1056,7 +1073,6 @@
 0. [planks]() - Quicklisp
 0. [plokami]() - Quicklisp
 0. [png-read]() - Quicklisp
-0. [policy-cond]() - Quicklisp
 0. [pooler]() - Quicklisp
 0. [portableaserve]() - Quicklisp
 0. [positional-lambda-2.0]() - Quicklisp
@@ -1078,7 +1094,6 @@
 0. [quicklisp-slime-helper]() - Quicklisp
 0. [quicksearch]() - Quicklisp
 0. [quickutil]() - Quicklisp
-0. [quid-pro-quo]() - Quicklisp
 0. [quux-time]() - Quicklisp
 0. [random-access-lists]() - Quicklisp
 0. [rcl]() - Quicklisp
