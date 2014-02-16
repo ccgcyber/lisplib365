@@ -36,6 +36,8 @@
 0. [cl-locatives]() - Quicklisp
  - [#17/g000001](#17/g000001)
  - [http://g000001.cddddr.org/3598873200](http://g000001.cddddr.org/3598873200)
+0. [cl-m4]() - Quicklisp
+ - [#53/g000001](#53/g000001)
 0. [cl-markup]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab](http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab)
 0. [cl-mustache]() - Quicklisp
@@ -58,6 +60,8 @@
  - [http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437](http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437)
 0. [cl-yacc]() - Quicklisp
  - [http://lispuser.net/commonlisp/cl-yacc.html](http://lispuser.net/commonlisp/cl-yacc.html)
+0. [clfswm]() - Quicklisp
+ - [#58/g000001](#58/g000001)
 0. [closer-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [clsql]() - Quicklisp
@@ -70,11 +74,13 @@
  - [http://g000001.cddddr.org/3599564400](http://g000001.cddddr.org/3599564400)
 0. [com.google.base]() - Quicklisp
  - [#40/g000001](#40/g000001)
+ - [http://g000001.cddddr.org/3600860400](http://g000001.cddddr.org/3600860400)
 0. [defmacro-enhance]() - Quicklisp
  - [#19/g000001](#19/g000001)
  - [http://g000001.cddddr.org/3599046000](http://g000001.cddddr.org/3599046000)
 0. [dlist]() - Quicklisp
  - [#42/g000001](#42/g000001)
+ - [http://g000001.cddddr.org/3601033200](http://g000001.cddddr.org/3601033200)
 0. [fare-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fare-quasiquote]() - Quicklisp
@@ -103,10 +109,14 @@
  - [http://g000001.cddddr.org/3599305200](http://g000001.cddddr.org/3599305200)
 0. [incongruent-methods]() - Quicklisp
  - [#45/g000001](#45/g000001)
+ - [http://g000001.cddddr.org/3601292400](http://g000001.cddddr.org/3601292400)
 0. [iterate]() - Quicklisp
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
+0. [kmrcl]() - Quicklisp
+ - [#51/g000001](#51/g000001)
 0. [lambda-reader]() - Quicklisp
  - [#39/g000001](#39/g000001)
+ - [http://g000001.cddddr.org/3600774000](http://g000001.cddddr.org/3600774000)
 0. [let-plus]() - Quicklisp
  - [#36/g000001](#36/g000001)
  - [http://g000001.cddddr.org/3600514800](http://g000001.cddddr.org/3600514800)
@@ -131,6 +141,7 @@
  - [http://g000001.cddddr.org/3600255600](http://g000001.cddddr.org/3600255600)
 0. [memoize]() - Quicklisp
  - [#44/g000001](#44/g000001)
+ - [http://g000001.cddddr.org/3601206000](http://g000001.cddddr.org/3601206000)
 0. [method-combination-utilities]() - Quicklisp
  - [#37/g000001](#37/g000001)
  - [http://g000001.cddddr.org/3600601200](http://g000001.cddddr.org/3600601200)
@@ -155,8 +166,11 @@
  - [http://g000001.cddddr.org/3599218800](http://g000001.cddddr.org/3599218800)
 0. [phemlock]() - Quicklisp
  - [#=hemlock](#=hemlock)
+0. [policy-cond]() - Quicklisp
+ - [#52/g000001](#52/g000001)
 0. [ptester]() - Quicklisp
  - [#47/g000001](#47/g000001)
+ - [http://g000001.cddddr.org/3601465200](http://g000001.cddddr.org/3601465200)
 0. [quid-pro-quo]() - Quicklisp
  - [@g000001](@g000001)
 0. [rt]() - Quicklisp
@@ -175,6 +189,8 @@
 0. [string-case]() - Quicklisp
  - [#27/g000001](#27/g000001)
  - [http://g000001.cddddr.org/3599737200](http://g000001.cddddr.org/3599737200)
+0. [stumpwm]() - Quicklisp
+ - [#57/g000001](#57/g000001)
 0. [symbol-munger]() - Quicklisp
  - [#31/g000001](#31/g000001)
  - [http://g000001.cddddr.org/3600082800](http://g000001.cddddr.org/3600082800)
@@ -189,10 +205,13 @@
  - [http://g000001.cddddr.org/3598268400](http://g000001.cddddr.org/3598268400)
 0. [trivial-features]() - Quicklisp
  - [#38/g000001](#38/g000001)
+ - [http://g000001.cddddr.org/3600687600](http://g000001.cddddr.org/3600687600)
 0. [trivial-tco]() - Quicklisp
  - [#48/g000001](#48/g000001)
+ - [http://g000001.cddddr.org/3601551600](http://g000001.cddddr.org/3601551600)
 0. [trivial-utf-8]() - Quicklisp
  - [#46/g000001](#46/g000001)
+ - [http://g000001.cddddr.org/3601378800](http://g000001.cddddr.org/3601378800)
 0. [uffi]() - Quicklisp
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [uuid]() - Quicklisp
@@ -207,7 +226,10 @@
 0. [oop/clos/closette/]() - cmu-ai-repos
  - [#18/g000001](#18/g000001)
  - [http://g000001.cddddr.org/3598959600](http://g000001.cddddr.org/3598959600)
-0. [oop/non_clos/artificial-flavors](#49/g000001) - cmu-ai-repos
+0. [oop/non_clos/artificial-flavors]() - cmu-ai-repos
+ - [#49/g000001](#49/g000001)
+0. [oop/non_clos/cool/]() - cmu-ai-repos
+ - [#56/g000001](#56/g000001)
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
  - [#3/tk_riple](#3/tk_riple)
  - [http://compassoftime.blogspot.jp/2014/01/srfi-0.html](http://compassoftime.blogspot.jp/2014/01/srfi-0.html)
@@ -219,19 +241,27 @@
  - [http://compassoftime.blogspot.jp/2014/01/srfi-2.html](http://compassoftime.blogspot.jp/2014/01/srfi-2.html)
 0. [srfi-4](http://srfi.schemers.org/srfi-4/) - srfi
  - [#41/tk_riple](#41/tk_riple)
+ - [http://compassoftime.blogspot.jp/2014/02/srfi-4.html](http://compassoftime.blogspot.jp/2014/02/srfi-4.html)
+0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
+ - [#55/tk_riple](#55/tk_riple)
 0. [snow: list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
  - [#26/g000001](#26/g000001)
  - [http://g000001.cddddr.org/3599650800](http://g000001.cddddr.org/3599650800)
+0. [Macro by Example](http://people.csail.mit.edu/jaffer/slib/Macro-by-Example.html#Macro-by-Example) - slib
+ - [#50/g000001](#50/g000001)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
  - [http://g000001.cddddr.org/3596108400](http://g000001.cddddr.org/3596108400)
+0. [(net oauth) - OAuth library](http://ktakashi.github.io/sagittarius-ref.html#net.oauth) - sagittarius
+ - [#54/g000001](#54/g000001)
 0. [fmt.plt](http://planet.racket-lang.org//display.ss?package=fmt.plt&owner=ashinn) - planet
  - [#=fmt](#=fmt)
 0. [fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
  - [#=fmt](#=fmt)
 0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
  - [#43/g000001](#43/g000001)
+ - [http://g000001.cddddr.org/3601119600](http://g000001.cddddr.org/3601119600)
 0. [ttf-ascii]() - misc
  - [http://g000001.cddddr.org/3563708490](http://g000001.cddddr.org/3563708490)
 0. [braille-banner]() - misc
@@ -242,6 +272,8 @@
  - [http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d](http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d)
  - [http://qiita.com/seijikoide/items/c8223c9cb825e064130a](http://qiita.com/seijikoide/items/c8223c9cb825e064130a)
  - [http://qiita.com/seijikoide/items/43193bd72e57b388f82f](http://qiita.com/seijikoide/items/43193bd72e57b388f82f)
+0. [mbe]() - misc
+ - [#50/g000001](#50/g000001)
 0. [fmt]() - misc
  - [#9/g000001](#9/g000001)
  - [http://g000001.cddddr.org/3598182000](http://g000001.cddddr.org/3598182000)
@@ -287,8 +319,6 @@
  - g000001が書く予定
 0. [cl-utilities-1.2.4]() - Quicklisp
  - g000001が書く予定
-0. [clfswm]() - Quicklisp
- - g000001が書く予定
 0. [climacs]() - Quicklisp
  - g000001が書く予定
 0. [clpython]() - Quicklisp
@@ -313,8 +343,6 @@
  - g000001が書く予定
 0. [hu.dwim.computed-class]() - Quicklisp
  - g000001が書く予定
-0. [kmrcl]() - Quicklisp
- - g000001が書く予定
 0. [let-over-lambda]() - Quicklisp
  - g000001が書く予定
 0. [lift]() - Quicklisp
@@ -329,8 +357,6 @@
  - g000001が書く予定
 0. [plexippus-xpath]() - Quicklisp
  - g000001が書く予定
-0. [policy-cond]() - Quicklisp
- - g000001が書く予定
 0. [acl-compat]() - Quicklisp
  - g000001が書く予定
 0. [puri]() - Quicklisp
@@ -342,10 +368,6 @@
 0. [series]() - Quicklisp
  - g000001が書く予定
 0. [stefil]() - Quicklisp
- - g000001が書く予定
-0. [stump-touchy-mode-line]() - Quicklisp
- - g000001が書く予定
-0. [stumpwm]() - Quicklisp
  - g000001が書く予定
 0. [swank-client]() - Quicklisp
  - g000001が書く予定
@@ -389,15 +411,11 @@
  - g000001が書く予定
 0. [code/tools/xref/]() - cmu-ai-repos
  - g000001が書く予定
-0. [oop/non_clos/cool/]() - cmu-ai-repos
- - g000001が書く予定
 0. [oop/non_clos/corbit/]() - cmu-ai-repos
  - g000001が書く予定
 0. [oop/non_clos/mcs/v141/]() - cmu-ai-repos
  - g000001が書く予定
 0. [lisp-critic]() - misc
- - g000001が書く予定
-0. [mbe]() - misc
  - g000001が書く予定
 0. [cl-audioscrobbler]() - misc
  - g000001が書く予定
@@ -605,7 +623,6 @@
 0. [cl-locale]() - Quicklisp
 0. [cl-log.1.0.1]() - Quicklisp
 0. [cl-ltsv]() - Quicklisp
-0. [cl-m4]() - Quicklisp
 0. [cl-marshal]() - Quicklisp
 0. [cl-match]() - Quicklisp
 0. [cl-mathstats]() - Quicklisp
@@ -1168,6 +1185,7 @@
 0. [stem]() - Quicklisp
 0. [stmx-stable-ef96af7a-git]() - Quicklisp
 0. [stringprep]() - Quicklisp
+0. [stump-touchy-mode-line]() - Quicklisp
 0. [submarine]() - Quicklisp
 0. [sxql]() - Quicklisp
 0. [symbol-namespaces-1.0]() - Quicklisp
@@ -1451,7 +1469,6 @@
 0. [util/tags/]() - cmu-ai-repos
 0. [util/tex/]() - cmu-ai-repos
 0. [util/vgrind/]() - cmu-ai-repos
-0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
 0. [srfi-6](http://srfi.schemers.org/srfi-6/) - srfi
 0. [srfi-7](http://srfi.schemers.org/srfi-7/) - srfi
 0. [srfi-8](http://srfi.schemers.org/srfi-8/) - srfi
@@ -1603,7 +1620,6 @@
 0. [Miscellany](http://people.csail.mit.edu/jaffer/slib/Miscellany.html#Miscellany) - slib
 0. [Defmacro](http://people.csail.mit.edu/jaffer/slib/Defmacro.html#Defmacro) - slib
 0. [R4RS Macros](http://people.csail.mit.edu/jaffer/slib/R4RS-Macros.html#R4RS-Macros) - slib
-0. [Macro by Example](http://people.csail.mit.edu/jaffer/slib/Macro-by-Example.html#Macro-by-Example) - slib
 0. [Macros That Work](http://people.csail.mit.edu/jaffer/slib/Macros-That-Work.html#Macros-That-Work) - slib
 0. [Syntactic Closures](http://people.csail.mit.edu/jaffer/slib/Syntactic-Closures.html#Syntactic-Closures) - slib
 0. [Syntax-Case Macros](http://people.csail.mit.edu/jaffer/slib/Syntax_002dCase-Macros.html#Syntax_002dCase-Macros) - slib
@@ -1761,7 +1777,6 @@
 0. [(getopt) - Parsing command-line options](http://ktakashi.github.io/sagittarius-ref.html#getopt) - sagittarius
 0. [(util list) - Extra list utility library](http://ktakashi.github.io/sagittarius-ref.html#util.list) - sagittarius
 0. [(math) - Mathematics library](http://ktakashi.github.io/sagittarius-ref.html#math) - sagittarius
-0. [(net oauth) - OAuth library](http://ktakashi.github.io/sagittarius-ref.html#net.oauth) - sagittarius
 0. [(odbc) - ODBC binding](http://ktakashi.github.io/sagittarius-ref.html#odbc) - sagittarius
 0. [(rsa pkcs :5) - Password Based Cryptography library](http://ktakashi.github.io/sagittarius-ref.html#pkcs.5) - sagittarius
 0. [(rfc :5322) - Internet message format library](http://ktakashi.github.io/sagittarius-ref.html#rfc.5322) - sagittarius
