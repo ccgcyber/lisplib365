@@ -38,6 +38,7 @@
  - [http://g000001.cddddr.org/3598873200](http://g000001.cddddr.org/3598873200)
 0. [cl-m4]() - Quicklisp
  - [#53/g000001](#53/g000001)
+ - [http://g000001.cddddr.org/3601983600](http://g000001.cddddr.org/3601983600)
 0. [cl-markup]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab](http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab)
 0. [cl-mustache]() - Quicklisp
@@ -62,6 +63,7 @@
  - [http://lispuser.net/commonlisp/cl-yacc.html](http://lispuser.net/commonlisp/cl-yacc.html)
 0. [clfswm]() - Quicklisp
  - [#58/g000001](#58/g000001)
+ - [http://g000001.cddddr.org/3602415600](http://g000001.cddddr.org/3602415600)
 0. [closer-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [clsql]() - Quicklisp
@@ -81,11 +83,16 @@
 0. [dlist]() - Quicklisp
  - [#42/g000001](#42/g000001)
  - [http://g000001.cddddr.org/3601033200](http://g000001.cddddr.org/3601033200)
+0. [fare-matcher]() - Quicklisp
+ - [#59/g000001](#59/g000001)
+ - [http://g000001.cddddr.org/3602502000](http://g000001.cddddr.org/3602502000)
 0. [fare-mop]() - Quicklisp
  - [http://g000001.cddddr.org/3596454000](http://g000001.cddddr.org/3596454000)
 0. [fare-quasiquote]() - Quicklisp
  - [#30/g000001](#30/g000001)
  - [http://g000001.cddddr.org/3599996400](http://g000001.cddddr.org/3599996400)
+0. [fare-utils]() - Quicklisp
+ - [#69/g000001](#69/g000001)
 0. [fast-io-release-5f330b97-git]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54](http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54)
 0. [filtered-functions]() - Quicklisp
@@ -114,9 +121,13 @@
  - [http://qiita.com/wasabiz/items/042a490643d1a2cc854c](http://qiita.com/wasabiz/items/042a490643d1a2cc854c)
 0. [kmrcl]() - Quicklisp
  - [#51/g000001](#51/g000001)
+ - [http://g000001.cddddr.org/3601810800](http://g000001.cddddr.org/3601810800)
 0. [lambda-reader]() - Quicklisp
  - [#39/g000001](#39/g000001)
  - [http://g000001.cddddr.org/3600774000](http://g000001.cddddr.org/3600774000)
+0. [let-over-lambda]() - Quicklisp
+ - [#62/g000001](#62/g000001)
+ - [http://g000001.cddddr.org/3602761200](http://g000001.cddddr.org/3602761200)
 0. [let-plus]() - Quicklisp
  - [#36/g000001](#36/g000001)
  - [http://g000001.cddddr.org/3600514800](http://g000001.cddddr.org/3600514800)
@@ -142,6 +153,8 @@
 0. [memoize]() - Quicklisp
  - [#44/g000001](#44/g000001)
  - [http://g000001.cddddr.org/3601206000](http://g000001.cddddr.org/3601206000)
+0. [metatilities-base]() - Quicklisp
+ - [#71/g000001](#71/g000001)
 0. [method-combination-utilities]() - Quicklisp
  - [#37/g000001](#37/g000001)
  - [http://g000001.cddddr.org/3600601200](http://g000001.cddddr.org/3600601200)
@@ -168,11 +181,16 @@
  - [#=hemlock](#=hemlock)
 0. [policy-cond]() - Quicklisp
  - [#52/g000001](#52/g000001)
+ - [http://g000001.cddddr.org/3601897200](http://g000001.cddddr.org/3601897200)
+0. [acl-compat]() - Quicklisp
+ - [#68/g000001](#68/g000001)
 0. [ptester]() - Quicklisp
  - [#47/g000001](#47/g000001)
  - [http://g000001.cddddr.org/3601465200](http://g000001.cddddr.org/3601465200)
 0. [quid-pro-quo]() - Quicklisp
  - [@g000001](@g000001)
+0. [readable/srfi 110]() - Quicklisp
+ - [#73/g000001](#73/g000001)
 0. [rt]() - Quicklisp
  - [#32/g000001](#32/g000001)
  - [http://g000001.cddddr.org/3600169200](http://g000001.cddddr.org/3600169200)
@@ -191,6 +209,7 @@
  - [http://g000001.cddddr.org/3599737200](http://g000001.cddddr.org/3599737200)
 0. [stumpwm]() - Quicklisp
  - [#57/g000001](#57/g000001)
+ - [http://g000001.cddddr.org/3602329200](http://g000001.cddddr.org/3602329200)
 0. [symbol-munger]() - Quicklisp
  - [#31/g000001](#31/g000001)
  - [http://g000001.cddddr.org/3600082800](http://g000001.cddddr.org/3600082800)
@@ -207,7 +226,7 @@
  - [#38/g000001](#38/g000001)
  - [http://g000001.cddddr.org/3600687600](http://g000001.cddddr.org/3600687600)
 0. [trivial-tco]() - Quicklisp
- - [#48/g000001](#48/g000001)
+ - [#55/g000001](#55/g000001)
  - [http://g000001.cddddr.org/3601551600](http://g000001.cddddr.org/3601551600)
 0. [trivial-utf-8]() - Quicklisp
  - [#46/g000001](#46/g000001)
@@ -228,8 +247,10 @@
  - [http://g000001.cddddr.org/3598959600](http://g000001.cddddr.org/3598959600)
 0. [oop/non_clos/artificial-flavors]() - cmu-ai-repos
  - [#49/g000001](#49/g000001)
+ - [http://g000001.cddddr.org/3601638000](http://g000001.cddddr.org/3601638000)
 0. [oop/non_clos/cool/]() - cmu-ai-repos
  - [#56/g000001](#56/g000001)
+ - [http://g000001.cddddr.org/3602242800](http://g000001.cddddr.org/3602242800)
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
  - [#3/tk_riple](#3/tk_riple)
  - [http://compassoftime.blogspot.jp/2014/01/srfi-0.html](http://compassoftime.blogspot.jp/2014/01/srfi-0.html)
@@ -243,21 +264,32 @@
  - [#41/tk_riple](#41/tk_riple)
  - [http://compassoftime.blogspot.jp/2014/02/srfi-4.html](http://compassoftime.blogspot.jp/2014/02/srfi-4.html)
 0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
- - [#55/tk_riple](#55/tk_riple)
+ - [#48/tk_riple](#48/tk_riple)
+ - [http://compassoftime.blogspot.jp/2014/02/srfi-5.html](http://compassoftime.blogspot.jp/2014/02/srfi-5.html)
+0. [srfi-110](http://srfi.schemers.org/srfi-110/) - srfi
+ - [#73/g000001](#73/g000001)
+ - [readable](readable)
 0. [snow: list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
  - [#26/g000001](#26/g000001)
  - [http://g000001.cddddr.org/3599650800](http://g000001.cddddr.org/3599650800)
 0. [Macro by Example](http://people.csail.mit.edu/jaffer/slib/Macro-by-Example.html#Macro-by-Example) - slib
  - [#50/g000001](#50/g000001)
+ - [http://g000001.cddddr.org/3601724400](http://g000001.cddddr.org/3601724400)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
  - [http://g000001.cddddr.org/3596108400](http://g000001.cddddr.org/3596108400)
+0. [json-select]() - sagittarius
+ - [#66/tk_riple](#66/tk_riple)
 0. [(net oauth) - OAuth library](http://ktakashi.github.io/sagittarius-ref.html#net.oauth) - sagittarius
  - [#54/g000001](#54/g000001)
+ - [http://g000001.cddddr.org/3602070000](http://g000001.cddddr.org/3602070000)
 0. [fmt.plt](http://planet.racket-lang.org//display.ss?package=fmt.plt&owner=ashinn) - planet
  - [#=fmt](#=fmt)
-0. [fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
+0. [eggs: special-case](http://wiki.call-cc.org/eggref/4/special-case) - eggs
+ - [#60/g000001](#60/g000001)
+ - [http://g000001.cddddr.org/3602588400](http://g000001.cddddr.org/3602588400)
+0. [eggs: fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
  - [#=fmt](#=fmt)
 0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
  - [#43/g000001](#43/g000001)
@@ -288,6 +320,17 @@
  - [http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86](http://tips.lisp-users.org/common-lisp/index.cgi?%E9%85%8D%E5%88%97%E3%81%AE%E4%B8%A6%E5%88%97MAP%E5%87%A6%E7%90%86)
 0. [Integral]() - misc
  - [http://blog.8arrow.org/entry/2014/01/19/180013](http://blog.8arrow.org/entry/2014/01/19/180013)
+0. [carcdr]() - MacLISP
+ - [#61/g000001](#61/g000001)
+ - [http://g000001.cddddr.org/3602674800](http://g000001.cddddr.org/3602674800)
+0. [time]() - LispM
+ - [#63/g000001](#63/g000001)
+0. [irregex]() - misc
+ - [#64/g000001](#64/g000001)
+0. [clml-svm]() - misc
+ - [#65/masatoi](#65/masatoi)
+0. [未定]() - misc
+ - [#67/hatsugai](#67/hatsugai)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
@@ -302,8 +345,6 @@
 0. [cells]() - Quicklisp
  - g000001が書く予定
 0. [cells-gtk3]() - Quicklisp
- - g000001が書く予定
-0. [circular-streams]() - Quicklisp
  - g000001が書く予定
 0. [cl-glfw]() - Quicklisp
  - g000001が書く予定
@@ -333,17 +374,13 @@
  - g000001が書く予定
 0. [fare-csv]() - Quicklisp
  - g000001が書く予定
-0. [fare-matcher]() - Quicklisp
- - g000001が書く予定
 0. [fare-memoization]() - Quicklisp
  - g000001が書く予定
-0. [fare-utils]() - Quicklisp
+0. [generic-sequences]() - Quicklisp
  - g000001が書く予定
 0. [group-by]() - Quicklisp
  - g000001が書く予定
 0. [hu.dwim.computed-class]() - Quicklisp
- - g000001が書く予定
-0. [let-over-lambda]() - Quicklisp
  - g000001が書く予定
 0. [lift]() - Quicklisp
  - g000001が書く予定
@@ -353,11 +390,7 @@
  - g000001が書く予定
 0. [metatilities]() - Quicklisp
  - g000001が書く予定
-0. [metatilities-base]() - Quicklisp
- - g000001が書く予定
 0. [plexippus-xpath]() - Quicklisp
- - g000001が書く予定
-0. [acl-compat]() - Quicklisp
  - g000001が書く予定
 0. [puri]() - Quicklisp
  - g000001が書く予定
@@ -488,6 +521,7 @@
 0. [chronicity]() - Quicklisp
 0. [chtml-matcher]() - Quicklisp
 0. [chunga-1.1.5]() - Quicklisp
+0. [circular-streams]() - Quicklisp
 0. [city-hash]() - Quicklisp
 0. [cl+ssl]() - Quicklisp
 0. [cl-6502]() - Quicklisp
@@ -887,7 +921,6 @@
 0. [gbbopen]() - Quicklisp
 0. [gendl]() - Quicklisp
 0. [generators]() - Quicklisp
-0. [generic-sequences]() - Quicklisp
 0. [getopt]() - Quicklisp
 0. [gettext]() - Quicklisp
 0. [glaw]() - Quicklisp
@@ -1115,7 +1148,6 @@
 0. [random-access-lists]() - Quicklisp
 0. [rcl]() - Quicklisp
 0. [read-csv]() - Quicklisp
-0. [readable]() - Quicklisp
 0. [reader-interception]() - Quicklisp
 0. [rectangle-packing]() - Quicklisp
 0. [recur]() - Quicklisp
@@ -1543,7 +1575,6 @@
 0. [srfi-106](http://srfi.schemers.org/srfi-106/) - srfi
 0. [srfi-108](http://srfi.schemers.org/srfi-108/) - srfi
 0. [srfi-109](http://srfi.schemers.org/srfi-109/) - srfi
-0. [srfi-110](http://srfi.schemers.org/srfi-110/) - srfi
 0. [srfi-111](http://srfi.schemers.org/srfi-111/) - srfi
 0. [snow: base64](http://snow.iro.umontreal.ca/?viewpkg=base64) - snow
 0. [snow: tar](http://snow.iro.umontreal.ca/?viewpkg=tar) - snow
@@ -2535,615 +2566,614 @@
 0. [yaml.plt](http://planet.racket-lang.org//display.ss?package=yaml.plt&owner=esilkensen) - planet
 0. [yppdb.plt](http://planet.racket-lang.org//display.ss?package=yppdb.plt&owner=jaymccarthy) - planet
 0. [zip.plt](http://planet.racket-lang.org//display.ss?package=zip.plt&owner=dherman) - planet
-0. [F-operator](http://wiki.call-cc.org/eggref/4/F-operator) - eggs
-0. [anaphora](http://wiki.call-cc.org/eggref/4/anaphora) - eggs
-0. [autoload](http://wiki.call-cc.org/eggref/4/autoload) - eggs
-0. [awk](http://wiki.call-cc.org/eggref/4/awk) - eggs
-0. [bindings](http://wiki.call-cc.org/eggref/4/bindings) - eggs
-0. [char-set-literals](http://wiki.call-cc.org/eggref/4/char-set-literals) - eggs
-0. [clojurian](http://wiki.call-cc.org/eggref/4/clojurian) - eggs
-0. [continuations](http://wiki.call-cc.org/eggref/4/continuations) - eggs
-0. [datatype](http://wiki.call-cc.org/eggref/4/datatype) - eggs
-0. [date-literals](http://wiki.call-cc.org/eggref/4/date-literals) - eggs
-0. [dbc](http://wiki.call-cc.org/eggref/4/dbc) - eggs
-0. [define-record-and-printer](http://wiki.call-cc.org/eggref/4/define-record-and-printer) - eggs
-0. [define-structure](http://wiki.call-cc.org/eggref/4/define-structure) - eggs
-0. [environments](http://wiki.call-cc.org/eggref/4/environments) - eggs
-0. [fast-generic](http://wiki.call-cc.org/eggref/4/fast-generic) - eggs
-0. [fast-loop](http://wiki.call-cc.org/eggref/4/fast-loop) - eggs
-0. [feature-test](http://wiki.call-cc.org/eggref/4/feature-test) - eggs
-0. [fluids](http://wiki.call-cc.org/eggref/4/fluids) - eggs
-0. [foof-loop](http://wiki.call-cc.org/eggref/4/foof-loop) - eggs
-0. [foreigners](http://wiki.call-cc.org/eggref/4/foreigners) - eggs
-0. [interfaces](http://wiki.call-cc.org/eggref/4/interfaces) - eggs
-0. [jni](http://wiki.call-cc.org/eggref/4/jni) - eggs
-0. [list-bindings](http://wiki.call-cc.org/eggref/4/list-bindings) - eggs
-0. [list-of](http://wiki.call-cc.org/eggref/4/list-of) - eggs
-0. [list-utils](http://wiki.call-cc.org/eggref/4/list-utils) - eggs
-0. [loop](http://wiki.call-cc.org/eggref/4/loop) - eggs
-0. [loops](http://wiki.call-cc.org/eggref/4/loops) - eggs
-0. [loopy-loop](http://wiki.call-cc.org/eggref/4/loopy-loop) - eggs
-0. [low-level-macros](http://wiki.call-cc.org/eggref/4/low-level-macros) - eggs
-0. [make](http://wiki.call-cc.org/eggref/4/make) - eggs
-0. [matchable](http://wiki.call-cc.org/eggref/4/matchable) - eggs
-0. [miscmacros](http://wiki.call-cc.org/eggref/4/miscmacros) - eggs
-0. [moremacros](http://wiki.call-cc.org/eggref/4/moremacros) - eggs
-0. [record-variants](http://wiki.call-cc.org/eggref/4/record-variants) - eggs
-0. [regex-case](http://wiki.call-cc.org/eggref/4/regex-case) - eggs
-0. [regex-literals](http://wiki.call-cc.org/eggref/4/regex-literals) - eggs
-0. [sandbox](http://wiki.call-cc.org/eggref/4/sandbox) - eggs
-0. [schemeweb](http://wiki.call-cc.org/eggref/4/schemeweb) - eggs
-0. [special-case](http://wiki.call-cc.org/eggref/4/special-case) - eggs
-0. [srfi-101](http://wiki.call-cc.org/eggref/4/srfi-101) - eggs
-0. [srfi-45](http://wiki.call-cc.org/eggref/4/srfi-45) - eggs
-0. [srfi-71](http://wiki.call-cc.org/eggref/4/srfi-71) - eggs
-0. [static-modules](http://wiki.call-cc.org/eggref/4/static-modules) - eggs
-0. [suspension](http://wiki.call-cc.org/eggref/4/suspension) - eggs
-0. [syn-param](http://wiki.call-cc.org/eggref/4/syn-param) - eggs
-0. [type-stubs](http://wiki.call-cc.org/eggref/4/type-stubs) - eggs
-0. [typeclass](http://wiki.call-cc.org/eggref/4/typeclass) - eggs
-0. [typed-modules](http://wiki.call-cc.org/eggref/4/typed-modules) - eggs
-0. [3viewer](http://wiki.call-cc.org/eggref/4/3viewer) - eggs
-0. [animation](http://wiki.call-cc.org/eggref/4/animation) - eggs
-0. [banterpixra](http://wiki.call-cc.org/eggref/4/banterpixra) - eggs
-0. [cairo](http://wiki.call-cc.org/eggref/4/cairo) - eggs
-0. [canvas-draw](http://wiki.call-cc.org/eggref/4/canvas-draw) - eggs
-0. [charplot](http://wiki.call-cc.org/eggref/4/charplot) - eggs
-0. [doodle](http://wiki.call-cc.org/eggref/4/doodle) - eggs
-0. [epeg](http://wiki.call-cc.org/eggref/4/epeg) - eggs
-0. [exif](http://wiki.call-cc.org/eggref/4/exif) - eggs
-0. [ezxdisp](http://wiki.call-cc.org/eggref/4/ezxdisp) - eggs
-0. [fps](http://wiki.call-cc.org/eggref/4/fps) - eggs
-0. [freetype](http://wiki.call-cc.org/eggref/4/freetype) - eggs
-0. [g2](http://wiki.call-cc.org/eggref/4/g2) - eggs
-0. [glfw](http://wiki.call-cc.org/eggref/4/glfw) - eggs
-0. [glut](http://wiki.call-cc.org/eggref/4/glut) - eggs
-0. [graphviz](http://wiki.call-cc.org/eggref/4/graphviz) - eggs
-0. [groc](http://wiki.call-cc.org/eggref/4/groc) - eggs
-0. [gts](http://wiki.call-cc.org/eggref/4/gts) - eggs
-0. [hexgrid](http://wiki.call-cc.org/eggref/4/hexgrid) - eggs
-0. [imlib2](http://wiki.call-cc.org/eggref/4/imlib2) - eggs
-0. [leptonica](http://wiki.call-cc.org/eggref/4/leptonica) - eggs
-0. [octave](http://wiki.call-cc.org/eggref/4/octave) - eggs
-0. [opengl](http://wiki.call-cc.org/eggref/4/opengl) - eggs
-0. [pdf](http://wiki.call-cc.org/eggref/4/pdf) - eggs
-0. [plot](http://wiki.call-cc.org/eggref/4/plot) - eggs
-0. [ploticus](http://wiki.call-cc.org/eggref/4/ploticus) - eggs
-0. [rfb](http://wiki.call-cc.org/eggref/4/rfb) - eggs
-0. [sdl](http://wiki.call-cc.org/eggref/4/sdl) - eggs
-0. [sdl-base](http://wiki.call-cc.org/eggref/4/sdl-base) - eggs
-0. [sdl-img](http://wiki.call-cc.org/eggref/4/sdl-img) - eggs
-0. [sdl-ttf](http://wiki.call-cc.org/eggref/4/sdl-ttf) - eggs
-0. [simple-graphics](http://wiki.call-cc.org/eggref/4/simple-graphics) - eggs
-0. [x11-colors](http://wiki.call-cc.org/eggref/4/x11-colors) - eggs
-0. [xft](http://wiki.call-cc.org/eggref/4/xft) - eggs
-0. [xlib](http://wiki.call-cc.org/eggref/4/xlib) - eggs
-0. [xtypes](http://wiki.call-cc.org/eggref/4/xtypes) - eggs
-0. [debug](http://wiki.call-cc.org/eggref/4/debug) - eggs
-0. [dissector](http://wiki.call-cc.org/eggref/4/dissector) - eggs
-0. [combinator-birds](http://wiki.call-cc.org/eggref/4/combinator-birds) - eggs
-0. [kanren](http://wiki.call-cc.org/eggref/4/kanren) - eggs
-0. [tiny-prolog](http://wiki.call-cc.org/eggref/4/tiny-prolog) - eggs
-0. [9p](http://wiki.call-cc.org/eggref/4/9p) - eggs
-0. [bitcoin](http://wiki.call-cc.org/eggref/4/bitcoin) - eggs
-0. [dict](http://wiki.call-cc.org/eggref/4/dict) - eggs
-0. [eping](http://wiki.call-cc.org/eggref/4/eping) - eggs
-0. [ftp](http://wiki.call-cc.org/eggref/4/ftp) - eggs
-0. [hen](http://wiki.call-cc.org/eggref/4/hen) - eggs
-0. [hostinfo](http://wiki.call-cc.org/eggref/4/hostinfo) - eggs
-0. [http-client](http://wiki.call-cc.org/eggref/4/http-client) - eggs
-0. [irc](http://wiki.call-cc.org/eggref/4/irc) - eggs
-0. [memcached](http://wiki.call-cc.org/eggref/4/memcached) - eggs
-0. [mpi](http://wiki.call-cc.org/eggref/4/mpi) - eggs
-0. [openssl](http://wiki.call-cc.org/eggref/4/openssl) - eggs
-0. [pop3](http://wiki.call-cc.org/eggref/4/pop3) - eggs
-0. [remote-mailbox](http://wiki.call-cc.org/eggref/4/remote-mailbox) - eggs
-0. [rpc](http://wiki.call-cc.org/eggref/4/rpc) - eggs
-0. [sendfile](http://wiki.call-cc.org/eggref/4/sendfile) - eggs
-0. [smtp](http://wiki.call-cc.org/eggref/4/smtp) - eggs
-0. [socket](http://wiki.call-cc.org/eggref/4/socket) - eggs
-0. [tcp-server](http://wiki.call-cc.org/eggref/4/tcp-server) - eggs
-0. [tcp6](http://wiki.call-cc.org/eggref/4/tcp6) - eggs
-0. [twilio](http://wiki.call-cc.org/eggref/4/twilio) - eggs
-0. [udp](http://wiki.call-cc.org/eggref/4/udp) - eggs
-0. [udp6](http://wiki.call-cc.org/eggref/4/udp6) - eggs
-0. [unix-sockets](http://wiki.call-cc.org/eggref/4/unix-sockets) - eggs
-0. [uuid-lib](http://wiki.call-cc.org/eggref/4/uuid-lib) - eggs
-0. [uuid-ossp](http://wiki.call-cc.org/eggref/4/uuid-ossp) - eggs
-0. [vandusen](http://wiki.call-cc.org/eggref/4/vandusen) - eggs
-0. [webgate](http://wiki.call-cc.org/eggref/4/webgate) - eggs
-0. [zmq](http://wiki.call-cc.org/eggref/4/zmq) - eggs
-0. [allegro](http://wiki.call-cc.org/eggref/4/allegro) - eggs
-0. [ansi-escape-sequences](http://wiki.call-cc.org/eggref/4/ansi-escape-sequences) - eggs
-0. [binary-parse](http://wiki.call-cc.org/eggref/4/binary-parse) - eggs
-0. [buffer-ports](http://wiki.call-cc.org/eggref/4/buffer-ports) - eggs
-0. [directory-utils](http://wiki.call-cc.org/eggref/4/directory-utils) - eggs
-0. [endian-port](http://wiki.call-cc.org/eggref/4/endian-port) - eggs
-0. [format](http://wiki.call-cc.org/eggref/4/format) - eggs
-0. [format-compiler](http://wiki.call-cc.org/eggref/4/format-compiler) - eggs
-0. [format-compiler-base](http://wiki.call-cc.org/eggref/4/format-compiler-base) - eggs
-0. [format-graph](http://wiki.call-cc.org/eggref/4/format-graph) - eggs
-0. [format-textdiff](http://wiki.call-cc.org/eggref/4/format-textdiff) - eggs
-0. [fox](http://wiki.call-cc.org/eggref/4/fox) - eggs
-0. [fpio](http://wiki.call-cc.org/eggref/4/fpio) - eggs
-0. [ioctl](http://wiki.call-cc.org/eggref/4/ioctl) - eggs
-0. [linenoise](http://wiki.call-cc.org/eggref/4/linenoise) - eggs
-0. [log5scm](http://wiki.call-cc.org/eggref/4/log5scm) - eggs
-0. [lz4](http://wiki.call-cc.org/eggref/4/lz4) - eggs
-0. [parley](http://wiki.call-cc.org/eggref/4/parley) - eggs
-0. [physfs](http://wiki.call-cc.org/eggref/4/physfs) - eggs
-0. [posix-semaphore](http://wiki.call-cc.org/eggref/4/posix-semaphore) - eggs
-0. [pty](http://wiki.call-cc.org/eggref/4/pty) - eggs
-0. [readline](http://wiki.call-cc.org/eggref/4/readline) - eggs
-0. [soil](http://wiki.call-cc.org/eggref/4/soil) - eggs
-0. [specialized-io](http://wiki.call-cc.org/eggref/4/specialized-io) - eggs
-0. [srfi-38](http://wiki.call-cc.org/eggref/4/srfi-38) - eggs
-0. [strictly-pretty](http://wiki.call-cc.org/eggref/4/strictly-pretty) - eggs
-0. [stty](http://wiki.call-cc.org/eggref/4/stty) - eggs
-0. [usb](http://wiki.call-cc.org/eggref/4/usb) - eggs
-0. [vfs](http://wiki.call-cc.org/eggref/4/vfs) - eggs
-0. [berkeley-db](http://wiki.call-cc.org/eggref/4/berkeley-db) - eggs
-0. [call-with-sqlite3-connection](http://wiki.call-cc.org/eggref/4/call-with-sqlite3-connection) - eggs
-0. [couchdb](http://wiki.call-cc.org/eggref/4/couchdb) - eggs
-0. [estraier-client](http://wiki.call-cc.org/eggref/4/estraier-client) - eggs
-0. [freetds](http://wiki.call-cc.org/eggref/4/freetds) - eggs
-0. [gdbm](http://wiki.call-cc.org/eggref/4/gdbm) - eggs
-0. [mysql-client](http://wiki.call-cc.org/eggref/4/mysql-client) - eggs
-0. [neo4j](http://wiki.call-cc.org/eggref/4/neo4j) - eggs
-0. [nomads](http://wiki.call-cc.org/eggref/4/nomads) - eggs
-0. [postgresql](http://wiki.call-cc.org/eggref/4/postgresql) - eggs
-0. [redis](http://wiki.call-cc.org/eggref/4/redis) - eggs
-0. [redis-client](http://wiki.call-cc.org/eggref/4/redis-client) - eggs
-0. [sdbm](http://wiki.call-cc.org/eggref/4/sdbm) - eggs
-0. [sedna](http://wiki.call-cc.org/eggref/4/sedna) - eggs
-0. [sqdb](http://wiki.call-cc.org/eggref/4/sqdb) - eggs
-0. [sql-de-lite](http://wiki.call-cc.org/eggref/4/sql-de-lite) - eggs
-0. [sql-null](http://wiki.call-cc.org/eggref/4/sql-null) - eggs
-0. [sqlite3](http://wiki.call-cc.org/eggref/4/sqlite3) - eggs
-0. [ssql](http://wiki.call-cc.org/eggref/4/ssql) - eggs
-0. [ssql-postgresql](http://wiki.call-cc.org/eggref/4/ssql-postgresql) - eggs
-0. [tokyocabinet](http://wiki.call-cc.org/eggref/4/tokyocabinet) - eggs
-0. [call-with-environment-variables](http://wiki.call-cc.org/eggref/4/call-with-environment-variables) - eggs
-0. [dbus](http://wiki.call-cc.org/eggref/4/dbus) - eggs
-0. [dot-locking](http://wiki.call-cc.org/eggref/4/dot-locking) - eggs
-0. [fuse](http://wiki.call-cc.org/eggref/4/fuse) - eggs
-0. [hfs+](http://wiki.call-cc.org/eggref/4/hfs+) - eggs
-0. [i3](http://wiki.call-cc.org/eggref/4/i3) - eggs
-0. [locale](http://wiki.call-cc.org/eggref/4/locale) - eggs
-0. [macosx](http://wiki.call-cc.org/eggref/4/macosx) - eggs
-0. [osxattr](http://wiki.call-cc.org/eggref/4/osxattr) - eggs
-0. [pathfinder](http://wiki.call-cc.org/eggref/4/pathfinder) - eggs
-0. [posix-extras](http://wiki.call-cc.org/eggref/4/posix-extras) - eggs
-0. [posix-shm](http://wiki.call-cc.org/eggref/4/posix-shm) - eggs
-0. [scsh-process](http://wiki.call-cc.org/eggref/4/scsh-process) - eggs
-0. [statvfs](http://wiki.call-cc.org/eggref/4/statvfs) - eggs
-0. [sysexits](http://wiki.call-cc.org/eggref/4/sysexits) - eggs
-0. [syslog](http://wiki.call-cc.org/eggref/4/syslog) - eggs
-0. [wmiirc](http://wiki.call-cc.org/eggref/4/wmiirc) - eggs
-0. [R](http://wiki.call-cc.org/eggref/4/R) - eggs
-0. [bind](http://wiki.call-cc.org/eggref/4/bind) - eggs
-0. [dollar](http://wiki.call-cc.org/eggref/4/dollar) - eggs
-0. [javahack](http://wiki.call-cc.org/eggref/4/javahack) - eggs
-0. [lazy-ffi](http://wiki.call-cc.org/eggref/4/lazy-ffi) - eggs
-0. [lua](http://wiki.call-cc.org/eggref/4/lua) - eggs
-0. [matlab](http://wiki.call-cc.org/eggref/4/matlab) - eggs
-0. [objc](http://wiki.call-cc.org/eggref/4/objc) - eggs
-0. [pyffi](http://wiki.call-cc.org/eggref/4/pyffi) - eggs
-0. [amazon-s3](http://wiki.call-cc.org/eggref/4/amazon-s3) - eggs
-0. [autoform](http://wiki.call-cc.org/eggref/4/autoform) - eggs
-0. [autoform-jquery](http://wiki.call-cc.org/eggref/4/autoform-jquery) - eggs
-0. [autoform-postgresql](http://wiki.call-cc.org/eggref/4/autoform-postgresql) - eggs
-0. [awful](http://wiki.call-cc.org/eggref/4/awful) - eggs
-0. [awful-postgresql](http://wiki.call-cc.org/eggref/4/awful-postgresql) - eggs
-0. [awful-sql-de-lite](http://wiki.call-cc.org/eggref/4/awful-sql-de-lite) - eggs
-0. [awful-sqlite3](http://wiki.call-cc.org/eggref/4/awful-sqlite3) - eggs
-0. [awful-ssl](http://wiki.call-cc.org/eggref/4/awful-ssl) - eggs
-0. [breadcrumbs](http://wiki.call-cc.org/eggref/4/breadcrumbs) - eggs
-0. [call-with-query](http://wiki.call-cc.org/eggref/4/call-with-query) - eggs
-0. [civet](http://wiki.call-cc.org/eggref/4/civet) - eggs
-0. [colorize](http://wiki.call-cc.org/eggref/4/colorize) - eggs
-0. [coq-au-vin](http://wiki.call-cc.org/eggref/4/coq-au-vin) - eggs
-0. [correios](http://wiki.call-cc.org/eggref/4/correios) - eggs
-0. [dropbox](http://wiki.call-cc.org/eggref/4/dropbox) - eggs
-0. [fancypants](http://wiki.call-cc.org/eggref/4/fancypants) - eggs
-0. [fastcgi](http://wiki.call-cc.org/eggref/4/fastcgi) - eggs
-0. [gopher](http://wiki.call-cc.org/eggref/4/gopher) - eggs
-0. [html-form](http://wiki.call-cc.org/eggref/4/html-form) - eggs
-0. [html-parser](http://wiki.call-cc.org/eggref/4/html-parser) - eggs
-0. [html-tags](http://wiki.call-cc.org/eggref/4/html-tags) - eggs
-0. [html-utils](http://wiki.call-cc.org/eggref/4/html-utils) - eggs
-0. [htmlprag](http://wiki.call-cc.org/eggref/4/htmlprag) - eggs
-0. [http-session](http://wiki.call-cc.org/eggref/4/http-session) - eggs
-0. [hyde](http://wiki.call-cc.org/eggref/4/hyde) - eggs
-0. [intarweb](http://wiki.call-cc.org/eggref/4/intarweb) - eggs
-0. [isbn](http://wiki.call-cc.org/eggref/4/isbn) - eggs
-0. [jsmin](http://wiki.call-cc.org/eggref/4/jsmin) - eggs
-0. [json-rpc](http://wiki.call-cc.org/eggref/4/json-rpc) - eggs
-0. [mw](http://wiki.call-cc.org/eggref/4/mw) - eggs
-0. [mw-core](http://wiki.call-cc.org/eggref/4/mw-core) - eggs
-0. [oauth](http://wiki.call-cc.org/eggref/4/oauth) - eggs
-0. [pastiche](http://wiki.call-cc.org/eggref/4/pastiche) - eggs
-0. [phoghorn](http://wiki.call-cc.org/eggref/4/phoghorn) - eggs
-0. [phricken](http://wiki.call-cc.org/eggref/4/phricken) - eggs
-0. [pilgrim](http://wiki.call-cc.org/eggref/4/pilgrim) - eggs
-0. [qwiki](http://wiki.call-cc.org/eggref/4/qwiki) - eggs
-0. [rest-bind](http://wiki.call-cc.org/eggref/4/rest-bind) - eggs
-0. [scss](http://wiki.call-cc.org/eggref/4/scss) - eggs
-0. [send-grid](http://wiki.call-cc.org/eggref/4/send-grid) - eggs
-0. [spiffy](http://wiki.call-cc.org/eggref/4/spiffy) - eggs
-0. [spiffy-cgi-handlers](http://wiki.call-cc.org/eggref/4/spiffy-cgi-handlers) - eggs
-0. [spiffy-cookies](http://wiki.call-cc.org/eggref/4/spiffy-cookies) - eggs
-0. [spiffy-directory-listing](http://wiki.call-cc.org/eggref/4/spiffy-directory-listing) - eggs
-0. [spiffy-request-vars](http://wiki.call-cc.org/eggref/4/spiffy-request-vars) - eggs
-0. [spiffy-sexpr-log](http://wiki.call-cc.org/eggref/4/spiffy-sexpr-log) - eggs
-0. [spiffy-uri-match](http://wiki.call-cc.org/eggref/4/spiffy-uri-match) - eggs
-0. [spock](http://wiki.call-cc.org/eggref/4/spock) - eggs
-0. [striped-zebra](http://wiki.call-cc.org/eggref/4/striped-zebra) - eggs
-0. [sxml-fu](http://wiki.call-cc.org/eggref/4/sxml-fu) - eggs
-0. [sxml-informal](http://wiki.call-cc.org/eggref/4/sxml-informal) - eggs
-0. [templort](http://wiki.call-cc.org/eggref/4/templort) - eggs
-0. [uri-common](http://wiki.call-cc.org/eggref/4/uri-common) - eggs
-0. [uri-dispatch](http://wiki.call-cc.org/eggref/4/uri-dispatch) - eggs
-0. [uri-generic](http://wiki.call-cc.org/eggref/4/uri-generic) - eggs
-0. [uri-match](http://wiki.call-cc.org/eggref/4/uri-match) - eggs
-0. [xml-rpc](http://wiki.call-cc.org/eggref/4/xml-rpc) - eggs
-0. [yelp](http://wiki.call-cc.org/eggref/4/yelp) - eggs
-0. [atom](http://wiki.call-cc.org/eggref/4/atom) - eggs
-0. [doctype](http://wiki.call-cc.org/eggref/4/doctype) - eggs
-0. [expat](http://wiki.call-cc.org/eggref/4/expat) - eggs
-0. [rss](http://wiki.call-cc.org/eggref/4/rss) - eggs
-0. [ssax](http://wiki.call-cc.org/eggref/4/ssax) - eggs
-0. [sxml-modifications](http://wiki.call-cc.org/eggref/4/sxml-modifications) - eggs
-0. [sxml-serializer](http://wiki.call-cc.org/eggref/4/sxml-serializer) - eggs
-0. [sxml-templates](http://wiki.call-cc.org/eggref/4/sxml-templates) - eggs
-0. [sxml-transforms](http://wiki.call-cc.org/eggref/4/sxml-transforms) - eggs
-0. [sxpath](http://wiki.call-cc.org/eggref/4/sxpath) - eggs
-0. [chickadee](http://wiki.call-cc.org/eggref/4/chickadee) - eggs
-0. [chicken-doc](http://wiki.call-cc.org/eggref/4/chicken-doc) - eggs
-0. [chicken-doc-admin](http://wiki.call-cc.org/eggref/4/chicken-doc-admin) - eggs
-0. [chicken-doc-html](http://wiki.call-cc.org/eggref/4/chicken-doc-html) - eggs
-0. [cock](http://wiki.call-cc.org/eggref/4/cock) - eggs
-0. [cock-utils](http://wiki.call-cc.org/eggref/4/cock-utils) - eggs
-0. [eggdoc](http://wiki.call-cc.org/eggref/4/eggdoc) - eggs
-0. [eggdoc-svnwiki](http://wiki.call-cc.org/eggref/4/eggdoc-svnwiki) - eggs
-0. [manual-labor](http://wiki.call-cc.org/eggref/4/manual-labor) - eggs
-0. [schematic](http://wiki.call-cc.org/eggref/4/schematic) - eggs
-0. [setup-helper-cock](http://wiki.call-cc.org/eggref/4/setup-helper-cock) - eggs
-0. [slatex](http://wiki.call-cc.org/eggref/4/slatex) - eggs
-0. [svnwiki-sxml](http://wiki.call-cc.org/eggref/4/svnwiki-sxml) - eggs
-0. [git-egg-author](http://wiki.call-cc.org/eggref/4/git-egg-author) - eggs
-0. [henrietta](http://wiki.call-cc.org/eggref/4/henrietta) - eggs
-0. [henrietta-cache](http://wiki.call-cc.org/eggref/4/henrietta-cache) - eggs
-0. [pseudo-meta-egg-info](http://wiki.call-cc.org/eggref/4/pseudo-meta-egg-info) - eggs
-0. [salmonella](http://wiki.call-cc.org/eggref/4/salmonella) - eggs
-0. [salmonella-diff](http://wiki.call-cc.org/eggref/4/salmonella-diff) - eggs
-0. [salmonella-feeds](http://wiki.call-cc.org/eggref/4/salmonella-feeds) - eggs
-0. [salmonella-html-report](http://wiki.call-cc.org/eggref/4/salmonella-html-report) - eggs
-0. [svn-egg-author](http://wiki.call-cc.org/eggref/4/svn-egg-author) - eggs
-0. [versions](http://wiki.call-cc.org/eggref/4/versions) - eggs
-0. [AD](http://wiki.call-cc.org/eggref/4/AD) - eggs
-0. [atlas-lapack](http://wiki.call-cc.org/eggref/4/atlas-lapack) - eggs
-0. [blas](http://wiki.call-cc.org/eggref/4/blas) - eggs
-0. [bvsp-spline](http://wiki.call-cc.org/eggref/4/bvsp-spline) - eggs
-0. [cmaes](http://wiki.call-cc.org/eggref/4/cmaes) - eggs
-0. [elliptic-curves](http://wiki.call-cc.org/eggref/4/elliptic-curves) - eggs
-0. [fann](http://wiki.call-cc.org/eggref/4/fann) - eggs
-0. [ffmpeg-video](http://wiki.call-cc.org/eggref/4/ffmpeg-video) - eggs
-0. [glm](http://wiki.call-cc.org/eggref/4/glm) - eggs
-0. [glpk](http://wiki.call-cc.org/eggref/4/glpk) - eggs
-0. [interp1d](http://wiki.call-cc.org/eggref/4/interp1d) - eggs
-0. [libsvm](http://wiki.call-cc.org/eggref/4/libsvm) - eggs
-0. [linear-algebra](http://wiki.call-cc.org/eggref/4/linear-algebra) - eggs
-0. [lognum](http://wiki.call-cc.org/eggref/4/lognum) - eggs
-0. [mathh](http://wiki.call-cc.org/eggref/4/mathh) - eggs
-0. [matrix-utils](http://wiki.call-cc.org/eggref/4/matrix-utils) - eggs
-0. [modular-arithmetic](http://wiki.call-cc.org/eggref/4/modular-arithmetic) - eggs
-0. [mpfi](http://wiki.call-cc.org/eggref/4/mpfi) - eggs
-0. [number-limits](http://wiki.call-cc.org/eggref/4/number-limits) - eggs
-0. [numbers](http://wiki.call-cc.org/eggref/4/numbers) - eggs
-0. [parametric-curve](http://wiki.call-cc.org/eggref/4/parametric-curve) - eggs
-0. [probdist](http://wiki.call-cc.org/eggref/4/probdist) - eggs
-0. [quaternions](http://wiki.call-cc.org/eggref/4/quaternions) - eggs
-0. [seulex](http://wiki.call-cc.org/eggref/4/seulex) - eggs
-0. [statistics](http://wiki.call-cc.org/eggref/4/statistics) - eggs
-0. [sundials](http://wiki.call-cc.org/eggref/4/sundials) - eggs
-0. [tween](http://wiki.call-cc.org/eggref/4/tween) - eggs
-0. [unitconv](http://wiki.call-cc.org/eggref/4/unitconv) - eggs
-0. [c3](http://wiki.call-cc.org/eggref/4/c3) - eggs
-0. [coops](http://wiki.call-cc.org/eggref/4/coops) - eggs
-0. [jso](http://wiki.call-cc.org/eggref/4/jso) - eggs
-0. [operations](http://wiki.call-cc.org/eggref/4/operations) - eggs
-0. [prometheus](http://wiki.call-cc.org/eggref/4/prometheus) - eggs
-0. [protobj](http://wiki.call-cc.org/eggref/4/protobj) - eggs
-0. [protolk](http://wiki.call-cc.org/eggref/4/protolk) - eggs
-0. [tinyclos](http://wiki.call-cc.org/eggref/4/tinyclos) - eggs
-0. [tinyclos-xerox](http://wiki.call-cc.org/eggref/4/tinyclos-xerox) - eggs
-0. [yasos](http://wiki.call-cc.org/eggref/4/yasos) - eggs
-0. [accents-substitute](http://wiki.call-cc.org/eggref/4/accents-substitute) - eggs
-0. [agrep](http://wiki.call-cc.org/eggref/4/agrep) - eggs
-0. [aima](http://wiki.call-cc.org/eggref/4/aima) - eggs
-0. [alist-lib](http://wiki.call-cc.org/eggref/4/alist-lib) - eggs
-0. [amb](http://wiki.call-cc.org/eggref/4/amb) - eggs
-0. [binary-heap](http://wiki.call-cc.org/eggref/4/binary-heap) - eggs
-0. [blob-record](http://wiki.call-cc.org/eggref/4/blob-record) - eggs
-0. [blob-utils](http://wiki.call-cc.org/eggref/4/blob-utils) - eggs
-0. [bloom-filter](http://wiki.call-cc.org/eggref/4/bloom-filter) - eggs
-0. [box](http://wiki.call-cc.org/eggref/4/box) - eggs
-0. [byte-blob](http://wiki.call-cc.org/eggref/4/byte-blob) - eggs
-0. [byte-blob-stream](http://wiki.call-cc.org/eggref/4/byte-blob-stream) - eggs
-0. [callable-data-structures](http://wiki.call-cc.org/eggref/4/callable-data-structures) - eggs
-0. [channel](http://wiki.call-cc.org/eggref/4/channel) - eggs
-0. [cis](http://wiki.call-cc.org/eggref/4/cis) - eggs
-0. [coerce](http://wiki.call-cc.org/eggref/4/coerce) - eggs
-0. [combinatorics](http://wiki.call-cc.org/eggref/4/combinatorics) - eggs
-0. [combinators](http://wiki.call-cc.org/eggref/4/combinators) - eggs
-0. [csp](http://wiki.call-cc.org/eggref/4/csp) - eggs
-0. [defstruct](http://wiki.call-cc.org/eggref/4/defstruct) - eggs
-0. [digraph](http://wiki.call-cc.org/eggref/4/digraph) - eggs
-0. [disjoint-set](http://wiki.call-cc.org/eggref/4/disjoint-set) - eggs
-0. [dyn-vector](http://wiki.call-cc.org/eggref/4/dyn-vector) - eggs
-0. [endian-blob](http://wiki.call-cc.org/eggref/4/endian-blob) - eggs
-0. [ftl](http://wiki.call-cc.org/eggref/4/ftl) - eggs
-0. [gap-buffer](http://wiki.call-cc.org/eggref/4/gap-buffer) - eggs
-0. [graph-bfs](http://wiki.call-cc.org/eggref/4/graph-bfs) - eggs
-0. [graph-cycles](http://wiki.call-cc.org/eggref/4/graph-cycles) - eggs
-0. [graph-dfs](http://wiki.call-cc.org/eggref/4/graph-dfs) - eggs
-0. [graph-dominators](http://wiki.call-cc.org/eggref/4/graph-dominators) - eggs
-0. [graph-scc](http://wiki.call-cc.org/eggref/4/graph-scc) - eggs
-0. [graph-separators](http://wiki.call-cc.org/eggref/4/graph-separators) - eggs
-0. [graph-ssa](http://wiki.call-cc.org/eggref/4/graph-ssa) - eggs
-0. [heap](http://wiki.call-cc.org/eggref/4/heap) - eggs
-0. [interval-digraph](http://wiki.call-cc.org/eggref/4/interval-digraph) - eggs
-0. [iset](http://wiki.call-cc.org/eggref/4/iset) - eggs
-0. [kd-tree](http://wiki.call-cc.org/eggref/4/kd-tree) - eggs
-0. [kvlists](http://wiki.call-cc.org/eggref/4/kvlists) - eggs
-0. [lazy-lists](http://wiki.call-cc.org/eggref/4/lazy-lists) - eggs
-0. [lazy-seq](http://wiki.call-cc.org/eggref/4/lazy-seq) - eggs
-0. [levenshtein](http://wiki.call-cc.org/eggref/4/levenshtein) - eggs
-0. [lookup-table](http://wiki.call-cc.org/eggref/4/lookup-table) - eggs
-0. [lru-cache](http://wiki.call-cc.org/eggref/4/lru-cache) - eggs
-0. [lzma](http://wiki.call-cc.org/eggref/4/lzma) - eggs
-0. [mat5-lib](http://wiki.call-cc.org/eggref/4/mat5-lib) - eggs
-0. [monad](http://wiki.call-cc.org/eggref/4/monad) - eggs
-0. [multi-methods](http://wiki.call-cc.org/eggref/4/multi-methods) - eggs
-0. [nondeterminism](http://wiki.call-cc.org/eggref/4/nondeterminism) - eggs
-0. [npdiff](http://wiki.call-cc.org/eggref/4/npdiff) - eggs
-0. [object-graph](http://wiki.call-cc.org/eggref/4/object-graph) - eggs
-0. [patch](http://wiki.call-cc.org/eggref/4/patch) - eggs
-0. [persistent-hash-map](http://wiki.call-cc.org/eggref/4/persistent-hash-map) - eggs
-0. [pool](http://wiki.call-cc.org/eggref/4/pool) - eggs
-0. [protobuf](http://wiki.call-cc.org/eggref/4/protobuf) - eggs
-0. [random-access-lists](http://wiki.call-cc.org/eggref/4/random-access-lists) - eggs
-0. [random-bsd](http://wiki.call-cc.org/eggref/4/random-bsd) - eggs
-0. [random-mtzig](http://wiki.call-cc.org/eggref/4/random-mtzig) - eggs
-0. [random-swb](http://wiki.call-cc.org/eggref/4/random-swb) - eggs
-0. [random-test](http://wiki.call-cc.org/eggref/4/random-test) - eggs
-0. [rb-tree](http://wiki.call-cc.org/eggref/4/rb-tree) - eggs
-0. [records](http://wiki.call-cc.org/eggref/4/records) - eggs
-0. [rope](http://wiki.call-cc.org/eggref/4/rope) - eggs
-0. [s](http://wiki.call-cc.org/eggref/4/s) - eggs
-0. [scbib](http://wiki.call-cc.org/eggref/4/scbib) - eggs
-0. [sequences](http://wiki.call-cc.org/eggref/4/sequences) - eggs
-0. [sets](http://wiki.call-cc.org/eggref/4/sets) - eggs
-0. [sexp-diff](http://wiki.call-cc.org/eggref/4/sexp-diff) - eggs
-0. [sfht](http://wiki.call-cc.org/eggref/4/sfht) - eggs
-0. [signal-diagram](http://wiki.call-cc.org/eggref/4/signal-diagram) - eggs
-0. [simple-units](http://wiki.call-cc.org/eggref/4/simple-units) - eggs
-0. [skiplists](http://wiki.call-cc.org/eggref/4/skiplists) - eggs
-0. [slice](http://wiki.call-cc.org/eggref/4/slice) - eggs
-0. [sparse-vectors](http://wiki.call-cc.org/eggref/4/sparse-vectors) - eggs
-0. [spatial-trees](http://wiki.call-cc.org/eggref/4/spatial-trees) - eggs
-0. [srfi-19](http://wiki.call-cc.org/eggref/4/srfi-19) - eggs
-0. [srfi-25](http://wiki.call-cc.org/eggref/4/srfi-25) - eggs
-0. [srfi-27](http://wiki.call-cc.org/eggref/4/srfi-27) - eggs
-0. [srfi-4-comprehensions](http://wiki.call-cc.org/eggref/4/srfi-4-comprehensions) - eggs
-0. [srfi-4-utils](http://wiki.call-cc.org/eggref/4/srfi-4-utils) - eggs
-0. [srfi-40](http://wiki.call-cc.org/eggref/4/srfi-40) - eggs
-0. [srfi-41](http://wiki.call-cc.org/eggref/4/srfi-41) - eggs
-0. [srfi-42](http://wiki.call-cc.org/eggref/4/srfi-42) - eggs
-0. [srfi-60](http://wiki.call-cc.org/eggref/4/srfi-60) - eggs
-0. [srfi-63](http://wiki.call-cc.org/eggref/4/srfi-63) - eggs
-0. [srfi-95](http://wiki.call-cc.org/eggref/4/srfi-95) - eggs
-0. [srfi-99](http://wiki.call-cc.org/eggref/4/srfi-99) - eggs
-0. [stack](http://wiki.call-cc.org/eggref/4/stack) - eggs
-0. [stemmer](http://wiki.call-cc.org/eggref/4/stemmer) - eggs
-0. [string-utils](http://wiki.call-cc.org/eggref/4/string-utils) - eggs
-0. [suffix-tree](http://wiki.call-cc.org/eggref/4/suffix-tree) - eggs
-0. [symbol-utils](http://wiki.call-cc.org/eggref/4/symbol-utils) - eggs
-0. [tagged-netstring](http://wiki.call-cc.org/eggref/4/tagged-netstring) - eggs
-0. [traversal](http://wiki.call-cc.org/eggref/4/traversal) - eggs
-0. [treap](http://wiki.call-cc.org/eggref/4/treap) - eggs
-0. [treaps](http://wiki.call-cc.org/eggref/4/treaps) - eggs
-0. [tree-rewrite](http://wiki.call-cc.org/eggref/4/tree-rewrite) - eggs
-0. [trie](http://wiki.call-cc.org/eggref/4/trie) - eggs
-0. [tuples](http://wiki.call-cc.org/eggref/4/tuples) - eggs
-0. [ugarit](http://wiki.call-cc.org/eggref/4/ugarit) - eggs
-0. [uuid](http://wiki.call-cc.org/eggref/4/uuid) - eggs
-0. [varsubst](http://wiki.call-cc.org/eggref/4/varsubst) - eggs
-0. [vector-lib](http://wiki.call-cc.org/eggref/4/vector-lib) - eggs
-0. [vlist](http://wiki.call-cc.org/eggref/4/vlist) - eggs
-0. [z3](http://wiki.call-cc.org/eggref/4/z3) - eggs
-0. [zlib](http://wiki.call-cc.org/eggref/4/zlib) - eggs
-0. [abnf](http://wiki.call-cc.org/eggref/4/abnf) - eggs
-0. [augeas](http://wiki.call-cc.org/eggref/4/augeas) - eggs
-0. [base64](http://wiki.call-cc.org/eggref/4/base64) - eggs
-0. [bitstring](http://wiki.call-cc.org/eggref/4/bitstring) - eggs
-0. [cgi](http://wiki.call-cc.org/eggref/4/cgi) - eggs
-0. [charconv](http://wiki.call-cc.org/eggref/4/charconv) - eggs
-0. [comparse](http://wiki.call-cc.org/eggref/4/comparse) - eggs
-0. [csv](http://wiki.call-cc.org/eggref/4/csv) - eggs
-0. [csv-xml](http://wiki.call-cc.org/eggref/4/csv-xml) - eggs
-0. [discount](http://wiki.call-cc.org/eggref/4/discount) - eggs
-0. [ersatz](http://wiki.call-cc.org/eggref/4/ersatz) - eggs
-0. [filepath](http://wiki.call-cc.org/eggref/4/filepath) - eggs
-0. [formular](http://wiki.call-cc.org/eggref/4/formular) - eggs
-0. [genturfahi](http://wiki.call-cc.org/eggref/4/genturfahi) - eggs
-0. [honu](http://wiki.call-cc.org/eggref/4/honu) - eggs
-0. [iconv](http://wiki.call-cc.org/eggref/4/iconv) - eggs
-0. [iexpr](http://wiki.call-cc.org/eggref/4/iexpr) - eggs
-0. [ini-file](http://wiki.call-cc.org/eggref/4/ini-file) - eggs
-0. [input-classes](http://wiki.call-cc.org/eggref/4/input-classes) - eggs
-0. [input-parse](http://wiki.call-cc.org/eggref/4/input-parse) - eggs
-0. [internet-message](http://wiki.call-cc.org/eggref/4/internet-message) - eggs
-0. [internet-timestamp](http://wiki.call-cc.org/eggref/4/internet-timestamp) - eggs
-0. [json](http://wiki.call-cc.org/eggref/4/json) - eggs
-0. [json-abnf](http://wiki.call-cc.org/eggref/4/json-abnf) - eggs
-0. [lalr](http://wiki.call-cc.org/eggref/4/lalr) - eggs
-0. [lexgen](http://wiki.call-cc.org/eggref/4/lexgen) - eggs
-0. [lowdown](http://wiki.call-cc.org/eggref/4/lowdown) - eggs
-0. [magic](http://wiki.call-cc.org/eggref/4/magic) - eggs
-0. [mbox](http://wiki.call-cc.org/eggref/4/mbox) - eggs
-0. [medea](http://wiki.call-cc.org/eggref/4/medea) - eggs
-0. [mistie](http://wiki.call-cc.org/eggref/4/mistie) - eggs
-0. [msgpack](http://wiki.call-cc.org/eggref/4/msgpack) - eggs
-0. [nemo](http://wiki.call-cc.org/eggref/4/nemo) - eggs
-0. [netstring](http://wiki.call-cc.org/eggref/4/netstring) - eggs
-0. [packedobjects](http://wiki.call-cc.org/eggref/4/packedobjects) - eggs
-0. [packrat](http://wiki.call-cc.org/eggref/4/packrat) - eggs
-0. [php-s11n](http://wiki.call-cc.org/eggref/4/php-s11n) - eggs
-0. [prcc](http://wiki.call-cc.org/eggref/4/prcc) - eggs
-0. [rfc3339](http://wiki.call-cc.org/eggref/4/rfc3339) - eggs
-0. [rfc822](http://wiki.call-cc.org/eggref/4/rfc822) - eggs
-0. [s11n](http://wiki.call-cc.org/eggref/4/s11n) - eggs
-0. [silex](http://wiki.call-cc.org/eggref/4/silex) - eggs
-0. [snowdigest](http://wiki.call-cc.org/eggref/4/snowdigest) - eggs
-0. [snowtar](http://wiki.call-cc.org/eggref/4/snowtar) - eggs
-0. [sp](http://wiki.call-cc.org/eggref/4/sp) - eggs
-0. [token-substitution](http://wiki.call-cc.org/eggref/4/token-substitution) - eggs
-0. [utf8](http://wiki.call-cc.org/eggref/4/utf8) - eggs
-0. [9ML-toolkit](http://wiki.call-cc.org/eggref/4/9ML-toolkit) - eggs
-0. [autocompile](http://wiki.call-cc.org/eggref/4/autocompile) - eggs
-0. [chicken-belt](http://wiki.call-cc.org/eggref/4/chicken-belt) - eggs
-0. [egg-pack-sources](http://wiki.call-cc.org/eggref/4/egg-pack-sources) - eggs
-0. [egg-tarballs](http://wiki.call-cc.org/eggref/4/egg-tarballs) - eggs
-0. [neurolucida](http://wiki.call-cc.org/eggref/4/neurolucida) - eggs
-0. [neuromorpho](http://wiki.call-cc.org/eggref/4/neuromorpho) - eggs
-0. [sigma](http://wiki.call-cc.org/eggref/4/sigma) - eggs
-0. [slime](http://wiki.call-cc.org/eggref/4/slime) - eggs
-0. [system](http://wiki.call-cc.org/eggref/4/system) - eggs
-0. [testdrive](http://wiki.call-cc.org/eggref/4/testdrive) - eggs
-0. [trace](http://wiki.call-cc.org/eggref/4/trace) - eggs
-0. [usage](http://wiki.call-cc.org/eggref/4/usage) - eggs
-0. [mpd-client](http://wiki.call-cc.org/eggref/4/mpd-client) - eggs
-0. [openal](http://wiki.call-cc.org/eggref/4/openal) - eggs
-0. [sdl-mixer](http://wiki.call-cc.org/eggref/4/sdl-mixer) - eggs
-0. [chickumber](http://wiki.call-cc.org/eggref/4/chickumber) - eggs
-0. [cluckcheck](http://wiki.call-cc.org/eggref/4/cluckcheck) - eggs
-0. [dummy-user](http://wiki.call-cc.org/eggref/4/dummy-user) - eggs
-0. [embedded-test](http://wiki.call-cc.org/eggref/4/embedded-test) - eggs
-0. [logpro](http://wiki.call-cc.org/eggref/4/logpro) - eggs
-0. [missbehave](http://wiki.call-cc.org/eggref/4/missbehave) - eggs
-0. [selenium](http://wiki.call-cc.org/eggref/4/selenium) - eggs
-0. [server-test](http://wiki.call-cc.org/eggref/4/server-test) - eggs
-0. [simple-tests](http://wiki.call-cc.org/eggref/4/simple-tests) - eggs
-0. [srfi-78](http://wiki.call-cc.org/eggref/4/srfi-78) - eggs
-0. [test](http://wiki.call-cc.org/eggref/4/test) - eggs
-0. [testeez](http://wiki.call-cc.org/eggref/4/testeez) - eggs
-0. [aes](http://wiki.call-cc.org/eggref/4/aes) - eggs
-0. [blowfish](http://wiki.call-cc.org/eggref/4/blowfish) - eggs
-0. [crc](http://wiki.call-cc.org/eggref/4/crc) - eggs
-0. [crypt](http://wiki.call-cc.org/eggref/4/crypt) - eggs
-0. [cryptlib](http://wiki.call-cc.org/eggref/4/cryptlib) - eggs
-0. [crypto-tools](http://wiki.call-cc.org/eggref/4/crypto-tools) - eggs
-0. [hmac](http://wiki.call-cc.org/eggref/4/hmac) - eggs
-0. [md5](http://wiki.call-cc.org/eggref/4/md5) - eggs
-0. [message-digest](http://wiki.call-cc.org/eggref/4/message-digest) - eggs
-0. [ripemd](http://wiki.call-cc.org/eggref/4/ripemd) - eggs
-0. [sha1](http://wiki.call-cc.org/eggref/4/sha1) - eggs
-0. [sha2](http://wiki.call-cc.org/eggref/4/sha2) - eggs
-0. [simple-sha1](http://wiki.call-cc.org/eggref/4/simple-sha1) - eggs
-0. [siphash](http://wiki.call-cc.org/eggref/4/siphash) - eggs
-0. [tiger-hash](http://wiki.call-cc.org/eggref/4/tiger-hash) - eggs
-0. [bb](http://wiki.call-cc.org/eggref/4/bb) - eggs
-0. [iup](http://wiki.call-cc.org/eggref/4/iup) - eggs
-0. [mojo](http://wiki.call-cc.org/eggref/4/mojo) - eggs
-0. [ncurses](http://wiki.call-cc.org/eggref/4/ncurses) - eggs
-0. [pstk](http://wiki.call-cc.org/eggref/4/pstk) - eggs
-0. [qobischeme-ui](http://wiki.call-cc.org/eggref/4/qobischeme-ui) - eggs
-0. [qt-light](http://wiki.call-cc.org/eggref/4/qt-light) - eggs
-0. [tk](http://wiki.call-cc.org/eggref/4/tk) - eggs
-0. [webkit](http://wiki.call-cc.org/eggref/4/webkit) - eggs
-0. [win32-msgbox](http://wiki.call-cc.org/eggref/4/win32-msgbox) - eggs
-0. [xosd](http://wiki.call-cc.org/eggref/4/xosd) - eggs
-0. [crunch](http://wiki.call-cc.org/eggref/4/crunch) - eggs
-0. [flsim](http://wiki.call-cc.org/eggref/4/flsim) - eggs
-0. [inline](http://wiki.call-cc.org/eggref/4/inline) - eggs
-0. [miniML](http://wiki.call-cc.org/eggref/4/miniML) - eggs
-0. [sassy](http://wiki.call-cc.org/eggref/4/sassy) - eggs
-0. [inclub](http://wiki.call-cc.org/eggref/4/inclub) - eggs
-0. [advice](http://wiki.call-cc.org/eggref/4/advice) - eggs
-0. [apropos](http://wiki.call-cc.org/eggref/4/apropos) - eggs
-0. [args](http://wiki.call-cc.org/eggref/4/args) - eggs
-0. [big-chicken](http://wiki.call-cc.org/eggref/4/big-chicken) - eggs
-0. [check-errors](http://wiki.call-cc.org/eggref/4/check-errors) - eggs
-0. [condition-utils](http://wiki.call-cc.org/eggref/4/condition-utils) - eggs
-0. [connman](http://wiki.call-cc.org/eggref/4/connman) - eggs
-0. [coops-utils](http://wiki.call-cc.org/eggref/4/coops-utils) - eggs
-0. [describe](http://wiki.call-cc.org/eggref/4/describe) - eggs
-0. [describe-coops](http://wiki.call-cc.org/eggref/4/describe-coops) - eggs
-0. [dsssl-utils](http://wiki.call-cc.org/eggref/4/dsssl-utils) - eggs
-0. [easy-args](http://wiki.call-cc.org/eggref/4/easy-args) - eggs
-0. [efax](http://wiki.call-cc.org/eggref/4/efax) - eggs
-0. [error-utils](http://wiki.call-cc.org/eggref/4/error-utils) - eggs
-0. [expand-full](http://wiki.call-cc.org/eggref/4/expand-full) - eggs
-0. [free-gettext](http://wiki.call-cc.org/eggref/4/free-gettext) - eggs
-0. [getopt-long](http://wiki.call-cc.org/eggref/4/getopt-long) - eggs
-0. [git](http://wiki.call-cc.org/eggref/4/git) - eggs
-0. [hashes](http://wiki.call-cc.org/eggref/4/hashes) - eggs
-0. [heap-o-rama](http://wiki.call-cc.org/eggref/4/heap-o-rama) - eggs
-0. [image-processing](http://wiki.call-cc.org/eggref/4/image-processing) - eggs
-0. [imperative-command-line-a](http://wiki.call-cc.org/eggref/4/imperative-command-line-a) - eggs
-0. [kalaha](http://wiki.call-cc.org/eggref/4/kalaha) - eggs
-0. [latch](http://wiki.call-cc.org/eggref/4/latch) - eggs
-0. [mowedline](http://wiki.call-cc.org/eggref/4/mowedline) - eggs
-0. [null](http://wiki.call-cc.org/eggref/4/null) - eggs
-0. [numspell](http://wiki.call-cc.org/eggref/4/numspell) - eggs
-0. [oblist](http://wiki.call-cc.org/eggref/4/oblist) - eggs
-0. [posix-utils](http://wiki.call-cc.org/eggref/4/posix-utils) - eggs
-0. [proccpuinfo](http://wiki.call-cc.org/eggref/4/proccpuinfo) - eggs
-0. [procedure-decoration](http://wiki.call-cc.org/eggref/4/procedure-decoration) - eggs
-0. [progress-indicators](http://wiki.call-cc.org/eggref/4/progress-indicators) - eggs
-0. [regex](http://wiki.call-cc.org/eggref/4/regex) - eggs
-0. [s48-modules](http://wiki.call-cc.org/eggref/4/s48-modules) - eggs
-0. [scheme2c-compatibility](http://wiki.call-cc.org/eggref/4/scheme2c-compatibility) - eggs
-0. [scron](http://wiki.call-cc.org/eggref/4/scron) - eggs
-0. [setup-helper](http://wiki.call-cc.org/eggref/4/setup-helper) - eggs
-0. [shell](http://wiki.call-cc.org/eggref/4/shell) - eggs
-0. [simple-configuration](http://wiki.call-cc.org/eggref/4/simple-configuration) - eggs
-0. [sixtyfive-oh-two](http://wiki.call-cc.org/eggref/4/sixtyfive-oh-two) - eggs
-0. [smsmatrix](http://wiki.call-cc.org/eggref/4/smsmatrix) - eggs
-0. [srfi-102](http://wiki.call-cc.org/eggref/4/srfi-102) - eggs
-0. [srfi-29](http://wiki.call-cc.org/eggref/4/srfi-29) - eggs
-0. [srfi-34](http://wiki.call-cc.org/eggref/4/srfi-34) - eggs
-0. [srfi-37](http://wiki.call-cc.org/eggref/4/srfi-37) - eggs
-0. [srfi-7](http://wiki.call-cc.org/eggref/4/srfi-7) - eggs
-0. [srfi-9-ext](http://wiki.call-cc.org/eggref/4/srfi-9-ext) - eggs
-0. [srfi-modules](http://wiki.call-cc.org/eggref/4/srfi-modules) - eggs
-0. [stalin](http://wiki.call-cc.org/eggref/4/stalin) - eggs
-0. [svn-client](http://wiki.call-cc.org/eggref/4/svn-client) - eggs
-0. [tabexpand](http://wiki.call-cc.org/eggref/4/tabexpand) - eggs
-0. [thread-utils](http://wiki.call-cc.org/eggref/4/thread-utils) - eggs
-0. [timed-resource](http://wiki.call-cc.org/eggref/4/timed-resource) - eggs
-0. [typed-records](http://wiki.call-cc.org/eggref/4/typed-records) - eggs
-0. [variable-item](http://wiki.call-cc.org/eggref/4/variable-item) - eggs
-0. [x11-keysyms](http://wiki.call-cc.org/eggref/4/x11-keysyms) - eggs
-0. [yahoo-finance](http://wiki.call-cc.org/eggref/4/yahoo-finance) - eggs
-0. [concurrent-native-callbacks](http://wiki.call-cc.org/eggref/4/concurrent-native-callbacks) - eggs
-0. [high-load-scheduler](http://wiki.call-cc.org/eggref/4/high-load-scheduler) - eggs
-0. [mailbox](http://wiki.call-cc.org/eggref/4/mailbox) - eggs
-0. [mailbox-threads](http://wiki.call-cc.org/eggref/4/mailbox-threads) - eggs
-0. [remote-mailbox-threads](http://wiki.call-cc.org/eggref/4/remote-mailbox-threads) - eggs
-0. [synch](http://wiki.call-cc.org/eggref/4/synch) - eggs
-0. [contracts](http://wiki.call-cc.org/eggref/4/contracts) - eggs
-0. [couchdb-view-server](http://wiki.call-cc.org/eggref/4/couchdb-view-server) - eggs
-0. [easyffi](http://wiki.call-cc.org/eggref/4/easyffi) - eggs
-0. [er-macros](http://wiki.call-cc.org/eggref/4/er-macros) - eggs
-0. [ir-macros](http://wiki.call-cc.org/eggref/4/ir-macros) - eggs
-0. [multidoc](http://wiki.call-cc.org/eggref/4/multidoc) - eggs
-0. [peep](http://wiki.call-cc.org/eggref/4/peep) - eggs
-0. [qt](http://wiki.call-cc.org/eggref/4/qt) - eggs
-0. [simple-logging](http://wiki.call-cc.org/eggref/4/simple-logging) - eggs
-0. [spiffy-dynamic-handlers](http://wiki.call-cc.org/eggref/4/spiffy-dynamic-handlers) - eggs
+0. [eggs: F-operator](http://wiki.call-cc.org/eggref/4/F-operator) - eggs
+0. [eggs: anaphora](http://wiki.call-cc.org/eggref/4/anaphora) - eggs
+0. [eggs: autoload](http://wiki.call-cc.org/eggref/4/autoload) - eggs
+0. [eggs: awk](http://wiki.call-cc.org/eggref/4/awk) - eggs
+0. [eggs: bindings](http://wiki.call-cc.org/eggref/4/bindings) - eggs
+0. [eggs: char-set-literals](http://wiki.call-cc.org/eggref/4/char-set-literals) - eggs
+0. [eggs: clojurian](http://wiki.call-cc.org/eggref/4/clojurian) - eggs
+0. [eggs: continuations](http://wiki.call-cc.org/eggref/4/continuations) - eggs
+0. [eggs: datatype](http://wiki.call-cc.org/eggref/4/datatype) - eggs
+0. [eggs: date-literals](http://wiki.call-cc.org/eggref/4/date-literals) - eggs
+0. [eggs: dbc](http://wiki.call-cc.org/eggref/4/dbc) - eggs
+0. [eggs: define-record-and-printer](http://wiki.call-cc.org/eggref/4/define-record-and-printer) - eggs
+0. [eggs: define-structure](http://wiki.call-cc.org/eggref/4/define-structure) - eggs
+0. [eggs: environments](http://wiki.call-cc.org/eggref/4/environments) - eggs
+0. [eggs: fast-generic](http://wiki.call-cc.org/eggref/4/fast-generic) - eggs
+0. [eggs: fast-loop](http://wiki.call-cc.org/eggref/4/fast-loop) - eggs
+0. [eggs: feature-test](http://wiki.call-cc.org/eggref/4/feature-test) - eggs
+0. [eggs: fluids](http://wiki.call-cc.org/eggref/4/fluids) - eggs
+0. [eggs: foof-loop](http://wiki.call-cc.org/eggref/4/foof-loop) - eggs
+0. [eggs: foreigners](http://wiki.call-cc.org/eggref/4/foreigners) - eggs
+0. [eggs: interfaces](http://wiki.call-cc.org/eggref/4/interfaces) - eggs
+0. [eggs: jni](http://wiki.call-cc.org/eggref/4/jni) - eggs
+0. [eggs: list-bindings](http://wiki.call-cc.org/eggref/4/list-bindings) - eggs
+0. [eggs: list-of](http://wiki.call-cc.org/eggref/4/list-of) - eggs
+0. [eggs: list-utils](http://wiki.call-cc.org/eggref/4/list-utils) - eggs
+0. [eggs: loop](http://wiki.call-cc.org/eggref/4/loop) - eggs
+0. [eggs: loops](http://wiki.call-cc.org/eggref/4/loops) - eggs
+0. [eggs: loopy-loop](http://wiki.call-cc.org/eggref/4/loopy-loop) - eggs
+0. [eggs: low-level-macros](http://wiki.call-cc.org/eggref/4/low-level-macros) - eggs
+0. [eggs: make](http://wiki.call-cc.org/eggref/4/make) - eggs
+0. [eggs: matchable](http://wiki.call-cc.org/eggref/4/matchable) - eggs
+0. [eggs: miscmacros](http://wiki.call-cc.org/eggref/4/miscmacros) - eggs
+0. [eggs: moremacros](http://wiki.call-cc.org/eggref/4/moremacros) - eggs
+0. [eggs: record-variants](http://wiki.call-cc.org/eggref/4/record-variants) - eggs
+0. [eggs: regex-case](http://wiki.call-cc.org/eggref/4/regex-case) - eggs
+0. [eggs: regex-literals](http://wiki.call-cc.org/eggref/4/regex-literals) - eggs
+0. [eggs: sandbox](http://wiki.call-cc.org/eggref/4/sandbox) - eggs
+0. [eggs: schemeweb](http://wiki.call-cc.org/eggref/4/schemeweb) - eggs
+0. [eggs: srfi-101](http://wiki.call-cc.org/eggref/4/srfi-101) - eggs
+0. [eggs: srfi-45](http://wiki.call-cc.org/eggref/4/srfi-45) - eggs
+0. [eggs: srfi-71](http://wiki.call-cc.org/eggref/4/srfi-71) - eggs
+0. [eggs: static-modules](http://wiki.call-cc.org/eggref/4/static-modules) - eggs
+0. [eggs: suspension](http://wiki.call-cc.org/eggref/4/suspension) - eggs
+0. [eggs: syn-param](http://wiki.call-cc.org/eggref/4/syn-param) - eggs
+0. [eggs: type-stubs](http://wiki.call-cc.org/eggref/4/type-stubs) - eggs
+0. [eggs: typeclass](http://wiki.call-cc.org/eggref/4/typeclass) - eggs
+0. [eggs: typed-modules](http://wiki.call-cc.org/eggref/4/typed-modules) - eggs
+0. [eggs: 3viewer](http://wiki.call-cc.org/eggref/4/3viewer) - eggs
+0. [eggs: animation](http://wiki.call-cc.org/eggref/4/animation) - eggs
+0. [eggs: banterpixra](http://wiki.call-cc.org/eggref/4/banterpixra) - eggs
+0. [eggs: cairo](http://wiki.call-cc.org/eggref/4/cairo) - eggs
+0. [eggs: canvas-draw](http://wiki.call-cc.org/eggref/4/canvas-draw) - eggs
+0. [eggs: charplot](http://wiki.call-cc.org/eggref/4/charplot) - eggs
+0. [eggs: doodle](http://wiki.call-cc.org/eggref/4/doodle) - eggs
+0. [eggs: epeg](http://wiki.call-cc.org/eggref/4/epeg) - eggs
+0. [eggs: exif](http://wiki.call-cc.org/eggref/4/exif) - eggs
+0. [eggs: ezxdisp](http://wiki.call-cc.org/eggref/4/ezxdisp) - eggs
+0. [eggs: fps](http://wiki.call-cc.org/eggref/4/fps) - eggs
+0. [eggs: freetype](http://wiki.call-cc.org/eggref/4/freetype) - eggs
+0. [eggs: g2](http://wiki.call-cc.org/eggref/4/g2) - eggs
+0. [eggs: glfw](http://wiki.call-cc.org/eggref/4/glfw) - eggs
+0. [eggs: glut](http://wiki.call-cc.org/eggref/4/glut) - eggs
+0. [eggs: graphviz](http://wiki.call-cc.org/eggref/4/graphviz) - eggs
+0. [eggs: groc](http://wiki.call-cc.org/eggref/4/groc) - eggs
+0. [eggs: gts](http://wiki.call-cc.org/eggref/4/gts) - eggs
+0. [eggs: hexgrid](http://wiki.call-cc.org/eggref/4/hexgrid) - eggs
+0. [eggs: imlib2](http://wiki.call-cc.org/eggref/4/imlib2) - eggs
+0. [eggs: leptonica](http://wiki.call-cc.org/eggref/4/leptonica) - eggs
+0. [eggs: octave](http://wiki.call-cc.org/eggref/4/octave) - eggs
+0. [eggs: opengl](http://wiki.call-cc.org/eggref/4/opengl) - eggs
+0. [eggs: pdf](http://wiki.call-cc.org/eggref/4/pdf) - eggs
+0. [eggs: plot](http://wiki.call-cc.org/eggref/4/plot) - eggs
+0. [eggs: ploticus](http://wiki.call-cc.org/eggref/4/ploticus) - eggs
+0. [eggs: rfb](http://wiki.call-cc.org/eggref/4/rfb) - eggs
+0. [eggs: sdl](http://wiki.call-cc.org/eggref/4/sdl) - eggs
+0. [eggs: sdl-base](http://wiki.call-cc.org/eggref/4/sdl-base) - eggs
+0. [eggs: sdl-img](http://wiki.call-cc.org/eggref/4/sdl-img) - eggs
+0. [eggs: sdl-ttf](http://wiki.call-cc.org/eggref/4/sdl-ttf) - eggs
+0. [eggs: simple-graphics](http://wiki.call-cc.org/eggref/4/simple-graphics) - eggs
+0. [eggs: x11-colors](http://wiki.call-cc.org/eggref/4/x11-colors) - eggs
+0. [eggs: xft](http://wiki.call-cc.org/eggref/4/xft) - eggs
+0. [eggs: xlib](http://wiki.call-cc.org/eggref/4/xlib) - eggs
+0. [eggs: xtypes](http://wiki.call-cc.org/eggref/4/xtypes) - eggs
+0. [eggs: debug](http://wiki.call-cc.org/eggref/4/debug) - eggs
+0. [eggs: dissector](http://wiki.call-cc.org/eggref/4/dissector) - eggs
+0. [eggs: combinator-birds](http://wiki.call-cc.org/eggref/4/combinator-birds) - eggs
+0. [eggs: kanren](http://wiki.call-cc.org/eggref/4/kanren) - eggs
+0. [eggs: tiny-prolog](http://wiki.call-cc.org/eggref/4/tiny-prolog) - eggs
+0. [eggs: 9p](http://wiki.call-cc.org/eggref/4/9p) - eggs
+0. [eggs: bitcoin](http://wiki.call-cc.org/eggref/4/bitcoin) - eggs
+0. [eggs: dict](http://wiki.call-cc.org/eggref/4/dict) - eggs
+0. [eggs: eping](http://wiki.call-cc.org/eggref/4/eping) - eggs
+0. [eggs: ftp](http://wiki.call-cc.org/eggref/4/ftp) - eggs
+0. [eggs: hen](http://wiki.call-cc.org/eggref/4/hen) - eggs
+0. [eggs: hostinfo](http://wiki.call-cc.org/eggref/4/hostinfo) - eggs
+0. [eggs: http-client](http://wiki.call-cc.org/eggref/4/http-client) - eggs
+0. [eggs: irc](http://wiki.call-cc.org/eggref/4/irc) - eggs
+0. [eggs: memcached](http://wiki.call-cc.org/eggref/4/memcached) - eggs
+0. [eggs: mpi](http://wiki.call-cc.org/eggref/4/mpi) - eggs
+0. [eggs: openssl](http://wiki.call-cc.org/eggref/4/openssl) - eggs
+0. [eggs: pop3](http://wiki.call-cc.org/eggref/4/pop3) - eggs
+0. [eggs: remote-mailbox](http://wiki.call-cc.org/eggref/4/remote-mailbox) - eggs
+0. [eggs: rpc](http://wiki.call-cc.org/eggref/4/rpc) - eggs
+0. [eggs: sendfile](http://wiki.call-cc.org/eggref/4/sendfile) - eggs
+0. [eggs: smtp](http://wiki.call-cc.org/eggref/4/smtp) - eggs
+0. [eggs: socket](http://wiki.call-cc.org/eggref/4/socket) - eggs
+0. [eggs: tcp-server](http://wiki.call-cc.org/eggref/4/tcp-server) - eggs
+0. [eggs: tcp6](http://wiki.call-cc.org/eggref/4/tcp6) - eggs
+0. [eggs: twilio](http://wiki.call-cc.org/eggref/4/twilio) - eggs
+0. [eggs: udp](http://wiki.call-cc.org/eggref/4/udp) - eggs
+0. [eggs: udp6](http://wiki.call-cc.org/eggref/4/udp6) - eggs
+0. [eggs: unix-sockets](http://wiki.call-cc.org/eggref/4/unix-sockets) - eggs
+0. [eggs: uuid-lib](http://wiki.call-cc.org/eggref/4/uuid-lib) - eggs
+0. [eggs: uuid-ossp](http://wiki.call-cc.org/eggref/4/uuid-ossp) - eggs
+0. [eggs: vandusen](http://wiki.call-cc.org/eggref/4/vandusen) - eggs
+0. [eggs: webgate](http://wiki.call-cc.org/eggref/4/webgate) - eggs
+0. [eggs: zmq](http://wiki.call-cc.org/eggref/4/zmq) - eggs
+0. [eggs: allegro](http://wiki.call-cc.org/eggref/4/allegro) - eggs
+0. [eggs: ansi-escape-sequences](http://wiki.call-cc.org/eggref/4/ansi-escape-sequences) - eggs
+0. [eggs: binary-parse](http://wiki.call-cc.org/eggref/4/binary-parse) - eggs
+0. [eggs: buffer-ports](http://wiki.call-cc.org/eggref/4/buffer-ports) - eggs
+0. [eggs: directory-utils](http://wiki.call-cc.org/eggref/4/directory-utils) - eggs
+0. [eggs: endian-port](http://wiki.call-cc.org/eggref/4/endian-port) - eggs
+0. [eggs: format](http://wiki.call-cc.org/eggref/4/format) - eggs
+0. [eggs: format-compiler](http://wiki.call-cc.org/eggref/4/format-compiler) - eggs
+0. [eggs: format-compiler-base](http://wiki.call-cc.org/eggref/4/format-compiler-base) - eggs
+0. [eggs: format-graph](http://wiki.call-cc.org/eggref/4/format-graph) - eggs
+0. [eggs: format-textdiff](http://wiki.call-cc.org/eggref/4/format-textdiff) - eggs
+0. [eggs: fox](http://wiki.call-cc.org/eggref/4/fox) - eggs
+0. [eggs: fpio](http://wiki.call-cc.org/eggref/4/fpio) - eggs
+0. [eggs: ioctl](http://wiki.call-cc.org/eggref/4/ioctl) - eggs
+0. [eggs: linenoise](http://wiki.call-cc.org/eggref/4/linenoise) - eggs
+0. [eggs: log5scm](http://wiki.call-cc.org/eggref/4/log5scm) - eggs
+0. [eggs: lz4](http://wiki.call-cc.org/eggref/4/lz4) - eggs
+0. [eggs: parley](http://wiki.call-cc.org/eggref/4/parley) - eggs
+0. [eggs: physfs](http://wiki.call-cc.org/eggref/4/physfs) - eggs
+0. [eggs: posix-semaphore](http://wiki.call-cc.org/eggref/4/posix-semaphore) - eggs
+0. [eggs: pty](http://wiki.call-cc.org/eggref/4/pty) - eggs
+0. [eggs: readline](http://wiki.call-cc.org/eggref/4/readline) - eggs
+0. [eggs: soil](http://wiki.call-cc.org/eggref/4/soil) - eggs
+0. [eggs: specialized-io](http://wiki.call-cc.org/eggref/4/specialized-io) - eggs
+0. [eggs: srfi-38](http://wiki.call-cc.org/eggref/4/srfi-38) - eggs
+0. [eggs: strictly-pretty](http://wiki.call-cc.org/eggref/4/strictly-pretty) - eggs
+0. [eggs: stty](http://wiki.call-cc.org/eggref/4/stty) - eggs
+0. [eggs: usb](http://wiki.call-cc.org/eggref/4/usb) - eggs
+0. [eggs: vfs](http://wiki.call-cc.org/eggref/4/vfs) - eggs
+0. [eggs: berkeley-db](http://wiki.call-cc.org/eggref/4/berkeley-db) - eggs
+0. [eggs: call-with-sqlite3-connection](http://wiki.call-cc.org/eggref/4/call-with-sqlite3-connection) - eggs
+0. [eggs: couchdb](http://wiki.call-cc.org/eggref/4/couchdb) - eggs
+0. [eggs: estraier-client](http://wiki.call-cc.org/eggref/4/estraier-client) - eggs
+0. [eggs: freetds](http://wiki.call-cc.org/eggref/4/freetds) - eggs
+0. [eggs: gdbm](http://wiki.call-cc.org/eggref/4/gdbm) - eggs
+0. [eggs: mysql-client](http://wiki.call-cc.org/eggref/4/mysql-client) - eggs
+0. [eggs: neo4j](http://wiki.call-cc.org/eggref/4/neo4j) - eggs
+0. [eggs: nomads](http://wiki.call-cc.org/eggref/4/nomads) - eggs
+0. [eggs: postgresql](http://wiki.call-cc.org/eggref/4/postgresql) - eggs
+0. [eggs: redis](http://wiki.call-cc.org/eggref/4/redis) - eggs
+0. [eggs: redis-client](http://wiki.call-cc.org/eggref/4/redis-client) - eggs
+0. [eggs: sdbm](http://wiki.call-cc.org/eggref/4/sdbm) - eggs
+0. [eggs: sedna](http://wiki.call-cc.org/eggref/4/sedna) - eggs
+0. [eggs: sqdb](http://wiki.call-cc.org/eggref/4/sqdb) - eggs
+0. [eggs: sql-de-lite](http://wiki.call-cc.org/eggref/4/sql-de-lite) - eggs
+0. [eggs: sql-null](http://wiki.call-cc.org/eggref/4/sql-null) - eggs
+0. [eggs: sqlite3](http://wiki.call-cc.org/eggref/4/sqlite3) - eggs
+0. [eggs: ssql](http://wiki.call-cc.org/eggref/4/ssql) - eggs
+0. [eggs: ssql-postgresql](http://wiki.call-cc.org/eggref/4/ssql-postgresql) - eggs
+0. [eggs: tokyocabinet](http://wiki.call-cc.org/eggref/4/tokyocabinet) - eggs
+0. [eggs: call-with-environment-variables](http://wiki.call-cc.org/eggref/4/call-with-environment-variables) - eggs
+0. [eggs: dbus](http://wiki.call-cc.org/eggref/4/dbus) - eggs
+0. [eggs: dot-locking](http://wiki.call-cc.org/eggref/4/dot-locking) - eggs
+0. [eggs: fuse](http://wiki.call-cc.org/eggref/4/fuse) - eggs
+0. [eggs: hfs+](http://wiki.call-cc.org/eggref/4/hfs+) - eggs
+0. [eggs: i3](http://wiki.call-cc.org/eggref/4/i3) - eggs
+0. [eggs: locale](http://wiki.call-cc.org/eggref/4/locale) - eggs
+0. [eggs: macosx](http://wiki.call-cc.org/eggref/4/macosx) - eggs
+0. [eggs: osxattr](http://wiki.call-cc.org/eggref/4/osxattr) - eggs
+0. [eggs: pathfinder](http://wiki.call-cc.org/eggref/4/pathfinder) - eggs
+0. [eggs: posix-extras](http://wiki.call-cc.org/eggref/4/posix-extras) - eggs
+0. [eggs: posix-shm](http://wiki.call-cc.org/eggref/4/posix-shm) - eggs
+0. [eggs: scsh-process](http://wiki.call-cc.org/eggref/4/scsh-process) - eggs
+0. [eggs: statvfs](http://wiki.call-cc.org/eggref/4/statvfs) - eggs
+0. [eggs: sysexits](http://wiki.call-cc.org/eggref/4/sysexits) - eggs
+0. [eggs: syslog](http://wiki.call-cc.org/eggref/4/syslog) - eggs
+0. [eggs: wmiirc](http://wiki.call-cc.org/eggref/4/wmiirc) - eggs
+0. [eggs: R](http://wiki.call-cc.org/eggref/4/R) - eggs
+0. [eggs: bind](http://wiki.call-cc.org/eggref/4/bind) - eggs
+0. [eggs: dollar](http://wiki.call-cc.org/eggref/4/dollar) - eggs
+0. [eggs: javahack](http://wiki.call-cc.org/eggref/4/javahack) - eggs
+0. [eggs: lazy-ffi](http://wiki.call-cc.org/eggref/4/lazy-ffi) - eggs
+0. [eggs: lua](http://wiki.call-cc.org/eggref/4/lua) - eggs
+0. [eggs: matlab](http://wiki.call-cc.org/eggref/4/matlab) - eggs
+0. [eggs: objc](http://wiki.call-cc.org/eggref/4/objc) - eggs
+0. [eggs: pyffi](http://wiki.call-cc.org/eggref/4/pyffi) - eggs
+0. [eggs: amazon-s3](http://wiki.call-cc.org/eggref/4/amazon-s3) - eggs
+0. [eggs: autoform](http://wiki.call-cc.org/eggref/4/autoform) - eggs
+0. [eggs: autoform-jquery](http://wiki.call-cc.org/eggref/4/autoform-jquery) - eggs
+0. [eggs: autoform-postgresql](http://wiki.call-cc.org/eggref/4/autoform-postgresql) - eggs
+0. [eggs: awful](http://wiki.call-cc.org/eggref/4/awful) - eggs
+0. [eggs: awful-postgresql](http://wiki.call-cc.org/eggref/4/awful-postgresql) - eggs
+0. [eggs: awful-sql-de-lite](http://wiki.call-cc.org/eggref/4/awful-sql-de-lite) - eggs
+0. [eggs: awful-sqlite3](http://wiki.call-cc.org/eggref/4/awful-sqlite3) - eggs
+0. [eggs: awful-ssl](http://wiki.call-cc.org/eggref/4/awful-ssl) - eggs
+0. [eggs: breadcrumbs](http://wiki.call-cc.org/eggref/4/breadcrumbs) - eggs
+0. [eggs: call-with-query](http://wiki.call-cc.org/eggref/4/call-with-query) - eggs
+0. [eggs: civet](http://wiki.call-cc.org/eggref/4/civet) - eggs
+0. [eggs: colorize](http://wiki.call-cc.org/eggref/4/colorize) - eggs
+0. [eggs: coq-au-vin](http://wiki.call-cc.org/eggref/4/coq-au-vin) - eggs
+0. [eggs: correios](http://wiki.call-cc.org/eggref/4/correios) - eggs
+0. [eggs: dropbox](http://wiki.call-cc.org/eggref/4/dropbox) - eggs
+0. [eggs: fancypants](http://wiki.call-cc.org/eggref/4/fancypants) - eggs
+0. [eggs: fastcgi](http://wiki.call-cc.org/eggref/4/fastcgi) - eggs
+0. [eggs: gopher](http://wiki.call-cc.org/eggref/4/gopher) - eggs
+0. [eggs: html-form](http://wiki.call-cc.org/eggref/4/html-form) - eggs
+0. [eggs: html-parser](http://wiki.call-cc.org/eggref/4/html-parser) - eggs
+0. [eggs: html-tags](http://wiki.call-cc.org/eggref/4/html-tags) - eggs
+0. [eggs: html-utils](http://wiki.call-cc.org/eggref/4/html-utils) - eggs
+0. [eggs: htmlprag](http://wiki.call-cc.org/eggref/4/htmlprag) - eggs
+0. [eggs: http-session](http://wiki.call-cc.org/eggref/4/http-session) - eggs
+0. [eggs: hyde](http://wiki.call-cc.org/eggref/4/hyde) - eggs
+0. [eggs: intarweb](http://wiki.call-cc.org/eggref/4/intarweb) - eggs
+0. [eggs: isbn](http://wiki.call-cc.org/eggref/4/isbn) - eggs
+0. [eggs: jsmin](http://wiki.call-cc.org/eggref/4/jsmin) - eggs
+0. [eggs: json-rpc](http://wiki.call-cc.org/eggref/4/json-rpc) - eggs
+0. [eggs: mw](http://wiki.call-cc.org/eggref/4/mw) - eggs
+0. [eggs: mw-core](http://wiki.call-cc.org/eggref/4/mw-core) - eggs
+0. [eggs: oauth](http://wiki.call-cc.org/eggref/4/oauth) - eggs
+0. [eggs: pastiche](http://wiki.call-cc.org/eggref/4/pastiche) - eggs
+0. [eggs: phoghorn](http://wiki.call-cc.org/eggref/4/phoghorn) - eggs
+0. [eggs: phricken](http://wiki.call-cc.org/eggref/4/phricken) - eggs
+0. [eggs: pilgrim](http://wiki.call-cc.org/eggref/4/pilgrim) - eggs
+0. [eggs: qwiki](http://wiki.call-cc.org/eggref/4/qwiki) - eggs
+0. [eggs: rest-bind](http://wiki.call-cc.org/eggref/4/rest-bind) - eggs
+0. [eggs: scss](http://wiki.call-cc.org/eggref/4/scss) - eggs
+0. [eggs: send-grid](http://wiki.call-cc.org/eggref/4/send-grid) - eggs
+0. [eggs: spiffy](http://wiki.call-cc.org/eggref/4/spiffy) - eggs
+0. [eggs: spiffy-cgi-handlers](http://wiki.call-cc.org/eggref/4/spiffy-cgi-handlers) - eggs
+0. [eggs: spiffy-cookies](http://wiki.call-cc.org/eggref/4/spiffy-cookies) - eggs
+0. [eggs: spiffy-directory-listing](http://wiki.call-cc.org/eggref/4/spiffy-directory-listing) - eggs
+0. [eggs: spiffy-request-vars](http://wiki.call-cc.org/eggref/4/spiffy-request-vars) - eggs
+0. [eggs: spiffy-sexpr-log](http://wiki.call-cc.org/eggref/4/spiffy-sexpr-log) - eggs
+0. [eggs: spiffy-uri-match](http://wiki.call-cc.org/eggref/4/spiffy-uri-match) - eggs
+0. [eggs: spock](http://wiki.call-cc.org/eggref/4/spock) - eggs
+0. [eggs: striped-zebra](http://wiki.call-cc.org/eggref/4/striped-zebra) - eggs
+0. [eggs: sxml-fu](http://wiki.call-cc.org/eggref/4/sxml-fu) - eggs
+0. [eggs: sxml-informal](http://wiki.call-cc.org/eggref/4/sxml-informal) - eggs
+0. [eggs: templort](http://wiki.call-cc.org/eggref/4/templort) - eggs
+0. [eggs: uri-common](http://wiki.call-cc.org/eggref/4/uri-common) - eggs
+0. [eggs: uri-dispatch](http://wiki.call-cc.org/eggref/4/uri-dispatch) - eggs
+0. [eggs: uri-generic](http://wiki.call-cc.org/eggref/4/uri-generic) - eggs
+0. [eggs: uri-match](http://wiki.call-cc.org/eggref/4/uri-match) - eggs
+0. [eggs: xml-rpc](http://wiki.call-cc.org/eggref/4/xml-rpc) - eggs
+0. [eggs: yelp](http://wiki.call-cc.org/eggref/4/yelp) - eggs
+0. [eggs: atom](http://wiki.call-cc.org/eggref/4/atom) - eggs
+0. [eggs: doctype](http://wiki.call-cc.org/eggref/4/doctype) - eggs
+0. [eggs: expat](http://wiki.call-cc.org/eggref/4/expat) - eggs
+0. [eggs: rss](http://wiki.call-cc.org/eggref/4/rss) - eggs
+0. [eggs: ssax](http://wiki.call-cc.org/eggref/4/ssax) - eggs
+0. [eggs: sxml-modifications](http://wiki.call-cc.org/eggref/4/sxml-modifications) - eggs
+0. [eggs: sxml-serializer](http://wiki.call-cc.org/eggref/4/sxml-serializer) - eggs
+0. [eggs: sxml-templates](http://wiki.call-cc.org/eggref/4/sxml-templates) - eggs
+0. [eggs: sxml-transforms](http://wiki.call-cc.org/eggref/4/sxml-transforms) - eggs
+0. [eggs: sxpath](http://wiki.call-cc.org/eggref/4/sxpath) - eggs
+0. [eggs: chickadee](http://wiki.call-cc.org/eggref/4/chickadee) - eggs
+0. [eggs: chicken-doc](http://wiki.call-cc.org/eggref/4/chicken-doc) - eggs
+0. [eggs: chicken-doc-admin](http://wiki.call-cc.org/eggref/4/chicken-doc-admin) - eggs
+0. [eggs: chicken-doc-html](http://wiki.call-cc.org/eggref/4/chicken-doc-html) - eggs
+0. [eggs: cock](http://wiki.call-cc.org/eggref/4/cock) - eggs
+0. [eggs: cock-utils](http://wiki.call-cc.org/eggref/4/cock-utils) - eggs
+0. [eggs: eggdoc](http://wiki.call-cc.org/eggref/4/eggdoc) - eggs
+0. [eggs: eggdoc-svnwiki](http://wiki.call-cc.org/eggref/4/eggdoc-svnwiki) - eggs
+0. [eggs: manual-labor](http://wiki.call-cc.org/eggref/4/manual-labor) - eggs
+0. [eggs: schematic](http://wiki.call-cc.org/eggref/4/schematic) - eggs
+0. [eggs: setup-helper-cock](http://wiki.call-cc.org/eggref/4/setup-helper-cock) - eggs
+0. [eggs: slatex](http://wiki.call-cc.org/eggref/4/slatex) - eggs
+0. [eggs: svnwiki-sxml](http://wiki.call-cc.org/eggref/4/svnwiki-sxml) - eggs
+0. [eggs: git-egg-author](http://wiki.call-cc.org/eggref/4/git-egg-author) - eggs
+0. [eggs: henrietta](http://wiki.call-cc.org/eggref/4/henrietta) - eggs
+0. [eggs: henrietta-cache](http://wiki.call-cc.org/eggref/4/henrietta-cache) - eggs
+0. [eggs: pseudo-meta-egg-info](http://wiki.call-cc.org/eggref/4/pseudo-meta-egg-info) - eggs
+0. [eggs: salmonella](http://wiki.call-cc.org/eggref/4/salmonella) - eggs
+0. [eggs: salmonella-diff](http://wiki.call-cc.org/eggref/4/salmonella-diff) - eggs
+0. [eggs: salmonella-feeds](http://wiki.call-cc.org/eggref/4/salmonella-feeds) - eggs
+0. [eggs: salmonella-html-report](http://wiki.call-cc.org/eggref/4/salmonella-html-report) - eggs
+0. [eggs: svn-egg-author](http://wiki.call-cc.org/eggref/4/svn-egg-author) - eggs
+0. [eggs: versions](http://wiki.call-cc.org/eggref/4/versions) - eggs
+0. [eggs: AD](http://wiki.call-cc.org/eggref/4/AD) - eggs
+0. [eggs: atlas-lapack](http://wiki.call-cc.org/eggref/4/atlas-lapack) - eggs
+0. [eggs: blas](http://wiki.call-cc.org/eggref/4/blas) - eggs
+0. [eggs: bvsp-spline](http://wiki.call-cc.org/eggref/4/bvsp-spline) - eggs
+0. [eggs: cmaes](http://wiki.call-cc.org/eggref/4/cmaes) - eggs
+0. [eggs: elliptic-curves](http://wiki.call-cc.org/eggref/4/elliptic-curves) - eggs
+0. [eggs: fann](http://wiki.call-cc.org/eggref/4/fann) - eggs
+0. [eggs: ffmpeg-video](http://wiki.call-cc.org/eggref/4/ffmpeg-video) - eggs
+0. [eggs: glm](http://wiki.call-cc.org/eggref/4/glm) - eggs
+0. [eggs: glpk](http://wiki.call-cc.org/eggref/4/glpk) - eggs
+0. [eggs: interp1d](http://wiki.call-cc.org/eggref/4/interp1d) - eggs
+0. [eggs: libsvm](http://wiki.call-cc.org/eggref/4/libsvm) - eggs
+0. [eggs: linear-algebra](http://wiki.call-cc.org/eggref/4/linear-algebra) - eggs
+0. [eggs: lognum](http://wiki.call-cc.org/eggref/4/lognum) - eggs
+0. [eggs: mathh](http://wiki.call-cc.org/eggref/4/mathh) - eggs
+0. [eggs: matrix-utils](http://wiki.call-cc.org/eggref/4/matrix-utils) - eggs
+0. [eggs: modular-arithmetic](http://wiki.call-cc.org/eggref/4/modular-arithmetic) - eggs
+0. [eggs: mpfi](http://wiki.call-cc.org/eggref/4/mpfi) - eggs
+0. [eggs: number-limits](http://wiki.call-cc.org/eggref/4/number-limits) - eggs
+0. [eggs: numbers](http://wiki.call-cc.org/eggref/4/numbers) - eggs
+0. [eggs: parametric-curve](http://wiki.call-cc.org/eggref/4/parametric-curve) - eggs
+0. [eggs: probdist](http://wiki.call-cc.org/eggref/4/probdist) - eggs
+0. [eggs: quaternions](http://wiki.call-cc.org/eggref/4/quaternions) - eggs
+0. [eggs: seulex](http://wiki.call-cc.org/eggref/4/seulex) - eggs
+0. [eggs: statistics](http://wiki.call-cc.org/eggref/4/statistics) - eggs
+0. [eggs: sundials](http://wiki.call-cc.org/eggref/4/sundials) - eggs
+0. [eggs: tween](http://wiki.call-cc.org/eggref/4/tween) - eggs
+0. [eggs: unitconv](http://wiki.call-cc.org/eggref/4/unitconv) - eggs
+0. [eggs: c3](http://wiki.call-cc.org/eggref/4/c3) - eggs
+0. [eggs: coops](http://wiki.call-cc.org/eggref/4/coops) - eggs
+0. [eggs: jso](http://wiki.call-cc.org/eggref/4/jso) - eggs
+0. [eggs: operations](http://wiki.call-cc.org/eggref/4/operations) - eggs
+0. [eggs: prometheus](http://wiki.call-cc.org/eggref/4/prometheus) - eggs
+0. [eggs: protobj](http://wiki.call-cc.org/eggref/4/protobj) - eggs
+0. [eggs: protolk](http://wiki.call-cc.org/eggref/4/protolk) - eggs
+0. [eggs: tinyclos](http://wiki.call-cc.org/eggref/4/tinyclos) - eggs
+0. [eggs: tinyclos-xerox](http://wiki.call-cc.org/eggref/4/tinyclos-xerox) - eggs
+0. [eggs: yasos](http://wiki.call-cc.org/eggref/4/yasos) - eggs
+0. [eggs: accents-substitute](http://wiki.call-cc.org/eggref/4/accents-substitute) - eggs
+0. [eggs: agrep](http://wiki.call-cc.org/eggref/4/agrep) - eggs
+0. [eggs: aima](http://wiki.call-cc.org/eggref/4/aima) - eggs
+0. [eggs: alist-lib](http://wiki.call-cc.org/eggref/4/alist-lib) - eggs
+0. [eggs: amb](http://wiki.call-cc.org/eggref/4/amb) - eggs
+0. [eggs: binary-heap](http://wiki.call-cc.org/eggref/4/binary-heap) - eggs
+0. [eggs: blob-record](http://wiki.call-cc.org/eggref/4/blob-record) - eggs
+0. [eggs: blob-utils](http://wiki.call-cc.org/eggref/4/blob-utils) - eggs
+0. [eggs: bloom-filter](http://wiki.call-cc.org/eggref/4/bloom-filter) - eggs
+0. [eggs: box](http://wiki.call-cc.org/eggref/4/box) - eggs
+0. [eggs: byte-blob](http://wiki.call-cc.org/eggref/4/byte-blob) - eggs
+0. [eggs: byte-blob-stream](http://wiki.call-cc.org/eggref/4/byte-blob-stream) - eggs
+0. [eggs: callable-data-structures](http://wiki.call-cc.org/eggref/4/callable-data-structures) - eggs
+0. [eggs: channel](http://wiki.call-cc.org/eggref/4/channel) - eggs
+0. [eggs: cis](http://wiki.call-cc.org/eggref/4/cis) - eggs
+0. [eggs: coerce](http://wiki.call-cc.org/eggref/4/coerce) - eggs
+0. [eggs: combinatorics](http://wiki.call-cc.org/eggref/4/combinatorics) - eggs
+0. [eggs: combinators](http://wiki.call-cc.org/eggref/4/combinators) - eggs
+0. [eggs: csp](http://wiki.call-cc.org/eggref/4/csp) - eggs
+0. [eggs: defstruct](http://wiki.call-cc.org/eggref/4/defstruct) - eggs
+0. [eggs: digraph](http://wiki.call-cc.org/eggref/4/digraph) - eggs
+0. [eggs: disjoint-set](http://wiki.call-cc.org/eggref/4/disjoint-set) - eggs
+0. [eggs: dyn-vector](http://wiki.call-cc.org/eggref/4/dyn-vector) - eggs
+0. [eggs: endian-blob](http://wiki.call-cc.org/eggref/4/endian-blob) - eggs
+0. [eggs: ftl](http://wiki.call-cc.org/eggref/4/ftl) - eggs
+0. [eggs: gap-buffer](http://wiki.call-cc.org/eggref/4/gap-buffer) - eggs
+0. [eggs: graph-bfs](http://wiki.call-cc.org/eggref/4/graph-bfs) - eggs
+0. [eggs: graph-cycles](http://wiki.call-cc.org/eggref/4/graph-cycles) - eggs
+0. [eggs: graph-dfs](http://wiki.call-cc.org/eggref/4/graph-dfs) - eggs
+0. [eggs: graph-dominators](http://wiki.call-cc.org/eggref/4/graph-dominators) - eggs
+0. [eggs: graph-scc](http://wiki.call-cc.org/eggref/4/graph-scc) - eggs
+0. [eggs: graph-separators](http://wiki.call-cc.org/eggref/4/graph-separators) - eggs
+0. [eggs: graph-ssa](http://wiki.call-cc.org/eggref/4/graph-ssa) - eggs
+0. [eggs: heap](http://wiki.call-cc.org/eggref/4/heap) - eggs
+0. [eggs: interval-digraph](http://wiki.call-cc.org/eggref/4/interval-digraph) - eggs
+0. [eggs: iset](http://wiki.call-cc.org/eggref/4/iset) - eggs
+0. [eggs: kd-tree](http://wiki.call-cc.org/eggref/4/kd-tree) - eggs
+0. [eggs: kvlists](http://wiki.call-cc.org/eggref/4/kvlists) - eggs
+0. [eggs: lazy-lists](http://wiki.call-cc.org/eggref/4/lazy-lists) - eggs
+0. [eggs: lazy-seq](http://wiki.call-cc.org/eggref/4/lazy-seq) - eggs
+0. [eggs: levenshtein](http://wiki.call-cc.org/eggref/4/levenshtein) - eggs
+0. [eggs: lookup-table](http://wiki.call-cc.org/eggref/4/lookup-table) - eggs
+0. [eggs: lru-cache](http://wiki.call-cc.org/eggref/4/lru-cache) - eggs
+0. [eggs: lzma](http://wiki.call-cc.org/eggref/4/lzma) - eggs
+0. [eggs: mat5-lib](http://wiki.call-cc.org/eggref/4/mat5-lib) - eggs
+0. [eggs: monad](http://wiki.call-cc.org/eggref/4/monad) - eggs
+0. [eggs: multi-methods](http://wiki.call-cc.org/eggref/4/multi-methods) - eggs
+0. [eggs: nondeterminism](http://wiki.call-cc.org/eggref/4/nondeterminism) - eggs
+0. [eggs: npdiff](http://wiki.call-cc.org/eggref/4/npdiff) - eggs
+0. [eggs: object-graph](http://wiki.call-cc.org/eggref/4/object-graph) - eggs
+0. [eggs: patch](http://wiki.call-cc.org/eggref/4/patch) - eggs
+0. [eggs: persistent-hash-map](http://wiki.call-cc.org/eggref/4/persistent-hash-map) - eggs
+0. [eggs: pool](http://wiki.call-cc.org/eggref/4/pool) - eggs
+0. [eggs: protobuf](http://wiki.call-cc.org/eggref/4/protobuf) - eggs
+0. [eggs: random-access-lists](http://wiki.call-cc.org/eggref/4/random-access-lists) - eggs
+0. [eggs: random-bsd](http://wiki.call-cc.org/eggref/4/random-bsd) - eggs
+0. [eggs: random-mtzig](http://wiki.call-cc.org/eggref/4/random-mtzig) - eggs
+0. [eggs: random-swb](http://wiki.call-cc.org/eggref/4/random-swb) - eggs
+0. [eggs: random-test](http://wiki.call-cc.org/eggref/4/random-test) - eggs
+0. [eggs: rb-tree](http://wiki.call-cc.org/eggref/4/rb-tree) - eggs
+0. [eggs: records](http://wiki.call-cc.org/eggref/4/records) - eggs
+0. [eggs: rope](http://wiki.call-cc.org/eggref/4/rope) - eggs
+0. [eggs: s](http://wiki.call-cc.org/eggref/4/s) - eggs
+0. [eggs: scbib](http://wiki.call-cc.org/eggref/4/scbib) - eggs
+0. [eggs: sequences](http://wiki.call-cc.org/eggref/4/sequences) - eggs
+0. [eggs: sets](http://wiki.call-cc.org/eggref/4/sets) - eggs
+0. [eggs: sexp-diff](http://wiki.call-cc.org/eggref/4/sexp-diff) - eggs
+0. [eggs: sfht](http://wiki.call-cc.org/eggref/4/sfht) - eggs
+0. [eggs: signal-diagram](http://wiki.call-cc.org/eggref/4/signal-diagram) - eggs
+0. [eggs: simple-units](http://wiki.call-cc.org/eggref/4/simple-units) - eggs
+0. [eggs: skiplists](http://wiki.call-cc.org/eggref/4/skiplists) - eggs
+0. [eggs: slice](http://wiki.call-cc.org/eggref/4/slice) - eggs
+0. [eggs: sparse-vectors](http://wiki.call-cc.org/eggref/4/sparse-vectors) - eggs
+0. [eggs: spatial-trees](http://wiki.call-cc.org/eggref/4/spatial-trees) - eggs
+0. [eggs: srfi-19](http://wiki.call-cc.org/eggref/4/srfi-19) - eggs
+0. [eggs: srfi-25](http://wiki.call-cc.org/eggref/4/srfi-25) - eggs
+0. [eggs: srfi-27](http://wiki.call-cc.org/eggref/4/srfi-27) - eggs
+0. [eggs: srfi-4-comprehensions](http://wiki.call-cc.org/eggref/4/srfi-4-comprehensions) - eggs
+0. [eggs: srfi-4-utils](http://wiki.call-cc.org/eggref/4/srfi-4-utils) - eggs
+0. [eggs: srfi-40](http://wiki.call-cc.org/eggref/4/srfi-40) - eggs
+0. [eggs: srfi-41](http://wiki.call-cc.org/eggref/4/srfi-41) - eggs
+0. [eggs: srfi-42](http://wiki.call-cc.org/eggref/4/srfi-42) - eggs
+0. [eggs: srfi-60](http://wiki.call-cc.org/eggref/4/srfi-60) - eggs
+0. [eggs: srfi-63](http://wiki.call-cc.org/eggref/4/srfi-63) - eggs
+0. [eggs: srfi-95](http://wiki.call-cc.org/eggref/4/srfi-95) - eggs
+0. [eggs: srfi-99](http://wiki.call-cc.org/eggref/4/srfi-99) - eggs
+0. [eggs: stack](http://wiki.call-cc.org/eggref/4/stack) - eggs
+0. [eggs: stemmer](http://wiki.call-cc.org/eggref/4/stemmer) - eggs
+0. [eggs: string-utils](http://wiki.call-cc.org/eggref/4/string-utils) - eggs
+0. [eggs: suffix-tree](http://wiki.call-cc.org/eggref/4/suffix-tree) - eggs
+0. [eggs: symbol-utils](http://wiki.call-cc.org/eggref/4/symbol-utils) - eggs
+0. [eggs: tagged-netstring](http://wiki.call-cc.org/eggref/4/tagged-netstring) - eggs
+0. [eggs: traversal](http://wiki.call-cc.org/eggref/4/traversal) - eggs
+0. [eggs: treap](http://wiki.call-cc.org/eggref/4/treap) - eggs
+0. [eggs: treaps](http://wiki.call-cc.org/eggref/4/treaps) - eggs
+0. [eggs: tree-rewrite](http://wiki.call-cc.org/eggref/4/tree-rewrite) - eggs
+0. [eggs: trie](http://wiki.call-cc.org/eggref/4/trie) - eggs
+0. [eggs: tuples](http://wiki.call-cc.org/eggref/4/tuples) - eggs
+0. [eggs: ugarit](http://wiki.call-cc.org/eggref/4/ugarit) - eggs
+0. [eggs: uuid](http://wiki.call-cc.org/eggref/4/uuid) - eggs
+0. [eggs: varsubst](http://wiki.call-cc.org/eggref/4/varsubst) - eggs
+0. [eggs: vector-lib](http://wiki.call-cc.org/eggref/4/vector-lib) - eggs
+0. [eggs: vlist](http://wiki.call-cc.org/eggref/4/vlist) - eggs
+0. [eggs: z3](http://wiki.call-cc.org/eggref/4/z3) - eggs
+0. [eggs: zlib](http://wiki.call-cc.org/eggref/4/zlib) - eggs
+0. [eggs: abnf](http://wiki.call-cc.org/eggref/4/abnf) - eggs
+0. [eggs: augeas](http://wiki.call-cc.org/eggref/4/augeas) - eggs
+0. [eggs: base64](http://wiki.call-cc.org/eggref/4/base64) - eggs
+0. [eggs: bitstring](http://wiki.call-cc.org/eggref/4/bitstring) - eggs
+0. [eggs: cgi](http://wiki.call-cc.org/eggref/4/cgi) - eggs
+0. [eggs: charconv](http://wiki.call-cc.org/eggref/4/charconv) - eggs
+0. [eggs: comparse](http://wiki.call-cc.org/eggref/4/comparse) - eggs
+0. [eggs: csv](http://wiki.call-cc.org/eggref/4/csv) - eggs
+0. [eggs: csv-xml](http://wiki.call-cc.org/eggref/4/csv-xml) - eggs
+0. [eggs: discount](http://wiki.call-cc.org/eggref/4/discount) - eggs
+0. [eggs: ersatz](http://wiki.call-cc.org/eggref/4/ersatz) - eggs
+0. [eggs: filepath](http://wiki.call-cc.org/eggref/4/filepath) - eggs
+0. [eggs: formular](http://wiki.call-cc.org/eggref/4/formular) - eggs
+0. [eggs: genturfahi](http://wiki.call-cc.org/eggref/4/genturfahi) - eggs
+0. [eggs: honu](http://wiki.call-cc.org/eggref/4/honu) - eggs
+0. [eggs: iconv](http://wiki.call-cc.org/eggref/4/iconv) - eggs
+0. [eggs: iexpr](http://wiki.call-cc.org/eggref/4/iexpr) - eggs
+0. [eggs: ini-file](http://wiki.call-cc.org/eggref/4/ini-file) - eggs
+0. [eggs: input-classes](http://wiki.call-cc.org/eggref/4/input-classes) - eggs
+0. [eggs: input-parse](http://wiki.call-cc.org/eggref/4/input-parse) - eggs
+0. [eggs: internet-message](http://wiki.call-cc.org/eggref/4/internet-message) - eggs
+0. [eggs: internet-timestamp](http://wiki.call-cc.org/eggref/4/internet-timestamp) - eggs
+0. [eggs: json](http://wiki.call-cc.org/eggref/4/json) - eggs
+0. [eggs: json-abnf](http://wiki.call-cc.org/eggref/4/json-abnf) - eggs
+0. [eggs: lalr](http://wiki.call-cc.org/eggref/4/lalr) - eggs
+0. [eggs: lexgen](http://wiki.call-cc.org/eggref/4/lexgen) - eggs
+0. [eggs: lowdown](http://wiki.call-cc.org/eggref/4/lowdown) - eggs
+0. [eggs: magic](http://wiki.call-cc.org/eggref/4/magic) - eggs
+0. [eggs: mbox](http://wiki.call-cc.org/eggref/4/mbox) - eggs
+0. [eggs: medea](http://wiki.call-cc.org/eggref/4/medea) - eggs
+0. [eggs: mistie](http://wiki.call-cc.org/eggref/4/mistie) - eggs
+0. [eggs: msgpack](http://wiki.call-cc.org/eggref/4/msgpack) - eggs
+0. [eggs: nemo](http://wiki.call-cc.org/eggref/4/nemo) - eggs
+0. [eggs: netstring](http://wiki.call-cc.org/eggref/4/netstring) - eggs
+0. [eggs: packedobjects](http://wiki.call-cc.org/eggref/4/packedobjects) - eggs
+0. [eggs: packrat](http://wiki.call-cc.org/eggref/4/packrat) - eggs
+0. [eggs: php-s11n](http://wiki.call-cc.org/eggref/4/php-s11n) - eggs
+0. [eggs: prcc](http://wiki.call-cc.org/eggref/4/prcc) - eggs
+0. [eggs: rfc3339](http://wiki.call-cc.org/eggref/4/rfc3339) - eggs
+0. [eggs: rfc822](http://wiki.call-cc.org/eggref/4/rfc822) - eggs
+0. [eggs: s11n](http://wiki.call-cc.org/eggref/4/s11n) - eggs
+0. [eggs: silex](http://wiki.call-cc.org/eggref/4/silex) - eggs
+0. [eggs: snowdigest](http://wiki.call-cc.org/eggref/4/snowdigest) - eggs
+0. [eggs: snowtar](http://wiki.call-cc.org/eggref/4/snowtar) - eggs
+0. [eggs: sp](http://wiki.call-cc.org/eggref/4/sp) - eggs
+0. [eggs: token-substitution](http://wiki.call-cc.org/eggref/4/token-substitution) - eggs
+0. [eggs: utf8](http://wiki.call-cc.org/eggref/4/utf8) - eggs
+0. [eggs: 9ML-toolkit](http://wiki.call-cc.org/eggref/4/9ML-toolkit) - eggs
+0. [eggs: autocompile](http://wiki.call-cc.org/eggref/4/autocompile) - eggs
+0. [eggs: chicken-belt](http://wiki.call-cc.org/eggref/4/chicken-belt) - eggs
+0. [eggs: egg-pack-sources](http://wiki.call-cc.org/eggref/4/egg-pack-sources) - eggs
+0. [eggs: egg-tarballs](http://wiki.call-cc.org/eggref/4/egg-tarballs) - eggs
+0. [eggs: neurolucida](http://wiki.call-cc.org/eggref/4/neurolucida) - eggs
+0. [eggs: neuromorpho](http://wiki.call-cc.org/eggref/4/neuromorpho) - eggs
+0. [eggs: sigma](http://wiki.call-cc.org/eggref/4/sigma) - eggs
+0. [eggs: slime](http://wiki.call-cc.org/eggref/4/slime) - eggs
+0. [eggs: system](http://wiki.call-cc.org/eggref/4/system) - eggs
+0. [eggs: testdrive](http://wiki.call-cc.org/eggref/4/testdrive) - eggs
+0. [eggs: trace](http://wiki.call-cc.org/eggref/4/trace) - eggs
+0. [eggs: usage](http://wiki.call-cc.org/eggref/4/usage) - eggs
+0. [eggs: mpd-client](http://wiki.call-cc.org/eggref/4/mpd-client) - eggs
+0. [eggs: openal](http://wiki.call-cc.org/eggref/4/openal) - eggs
+0. [eggs: sdl-mixer](http://wiki.call-cc.org/eggref/4/sdl-mixer) - eggs
+0. [eggs: chickumber](http://wiki.call-cc.org/eggref/4/chickumber) - eggs
+0. [eggs: cluckcheck](http://wiki.call-cc.org/eggref/4/cluckcheck) - eggs
+0. [eggs: dummy-user](http://wiki.call-cc.org/eggref/4/dummy-user) - eggs
+0. [eggs: embedded-test](http://wiki.call-cc.org/eggref/4/embedded-test) - eggs
+0. [eggs: logpro](http://wiki.call-cc.org/eggref/4/logpro) - eggs
+0. [eggs: missbehave](http://wiki.call-cc.org/eggref/4/missbehave) - eggs
+0. [eggs: selenium](http://wiki.call-cc.org/eggref/4/selenium) - eggs
+0. [eggs: server-test](http://wiki.call-cc.org/eggref/4/server-test) - eggs
+0. [eggs: simple-tests](http://wiki.call-cc.org/eggref/4/simple-tests) - eggs
+0. [eggs: srfi-78](http://wiki.call-cc.org/eggref/4/srfi-78) - eggs
+0. [eggs: test](http://wiki.call-cc.org/eggref/4/test) - eggs
+0. [eggs: testeez](http://wiki.call-cc.org/eggref/4/testeez) - eggs
+0. [eggs: aes](http://wiki.call-cc.org/eggref/4/aes) - eggs
+0. [eggs: blowfish](http://wiki.call-cc.org/eggref/4/blowfish) - eggs
+0. [eggs: crc](http://wiki.call-cc.org/eggref/4/crc) - eggs
+0. [eggs: crypt](http://wiki.call-cc.org/eggref/4/crypt) - eggs
+0. [eggs: cryptlib](http://wiki.call-cc.org/eggref/4/cryptlib) - eggs
+0. [eggs: crypto-tools](http://wiki.call-cc.org/eggref/4/crypto-tools) - eggs
+0. [eggs: hmac](http://wiki.call-cc.org/eggref/4/hmac) - eggs
+0. [eggs: md5](http://wiki.call-cc.org/eggref/4/md5) - eggs
+0. [eggs: message-digest](http://wiki.call-cc.org/eggref/4/message-digest) - eggs
+0. [eggs: ripemd](http://wiki.call-cc.org/eggref/4/ripemd) - eggs
+0. [eggs: sha1](http://wiki.call-cc.org/eggref/4/sha1) - eggs
+0. [eggs: sha2](http://wiki.call-cc.org/eggref/4/sha2) - eggs
+0. [eggs: simple-sha1](http://wiki.call-cc.org/eggref/4/simple-sha1) - eggs
+0. [eggs: siphash](http://wiki.call-cc.org/eggref/4/siphash) - eggs
+0. [eggs: tiger-hash](http://wiki.call-cc.org/eggref/4/tiger-hash) - eggs
+0. [eggs: bb](http://wiki.call-cc.org/eggref/4/bb) - eggs
+0. [eggs: iup](http://wiki.call-cc.org/eggref/4/iup) - eggs
+0. [eggs: mojo](http://wiki.call-cc.org/eggref/4/mojo) - eggs
+0. [eggs: ncurses](http://wiki.call-cc.org/eggref/4/ncurses) - eggs
+0. [eggs: pstk](http://wiki.call-cc.org/eggref/4/pstk) - eggs
+0. [eggs: qobischeme-ui](http://wiki.call-cc.org/eggref/4/qobischeme-ui) - eggs
+0. [eggs: qt-light](http://wiki.call-cc.org/eggref/4/qt-light) - eggs
+0. [eggs: tk](http://wiki.call-cc.org/eggref/4/tk) - eggs
+0. [eggs: webkit](http://wiki.call-cc.org/eggref/4/webkit) - eggs
+0. [eggs: win32-msgbox](http://wiki.call-cc.org/eggref/4/win32-msgbox) - eggs
+0. [eggs: xosd](http://wiki.call-cc.org/eggref/4/xosd) - eggs
+0. [eggs: crunch](http://wiki.call-cc.org/eggref/4/crunch) - eggs
+0. [eggs: flsim](http://wiki.call-cc.org/eggref/4/flsim) - eggs
+0. [eggs: inline](http://wiki.call-cc.org/eggref/4/inline) - eggs
+0. [eggs: miniML](http://wiki.call-cc.org/eggref/4/miniML) - eggs
+0. [eggs: sassy](http://wiki.call-cc.org/eggref/4/sassy) - eggs
+0. [eggs: inclub](http://wiki.call-cc.org/eggref/4/inclub) - eggs
+0. [eggs: advice](http://wiki.call-cc.org/eggref/4/advice) - eggs
+0. [eggs: apropos](http://wiki.call-cc.org/eggref/4/apropos) - eggs
+0. [eggs: args](http://wiki.call-cc.org/eggref/4/args) - eggs
+0. [eggs: big-chicken](http://wiki.call-cc.org/eggref/4/big-chicken) - eggs
+0. [eggs: check-errors](http://wiki.call-cc.org/eggref/4/check-errors) - eggs
+0. [eggs: condition-utils](http://wiki.call-cc.org/eggref/4/condition-utils) - eggs
+0. [eggs: connman](http://wiki.call-cc.org/eggref/4/connman) - eggs
+0. [eggs: coops-utils](http://wiki.call-cc.org/eggref/4/coops-utils) - eggs
+0. [eggs: describe](http://wiki.call-cc.org/eggref/4/describe) - eggs
+0. [eggs: describe-coops](http://wiki.call-cc.org/eggref/4/describe-coops) - eggs
+0. [eggs: dsssl-utils](http://wiki.call-cc.org/eggref/4/dsssl-utils) - eggs
+0. [eggs: easy-args](http://wiki.call-cc.org/eggref/4/easy-args) - eggs
+0. [eggs: efax](http://wiki.call-cc.org/eggref/4/efax) - eggs
+0. [eggs: error-utils](http://wiki.call-cc.org/eggref/4/error-utils) - eggs
+0. [eggs: expand-full](http://wiki.call-cc.org/eggref/4/expand-full) - eggs
+0. [eggs: free-gettext](http://wiki.call-cc.org/eggref/4/free-gettext) - eggs
+0. [eggs: getopt-long](http://wiki.call-cc.org/eggref/4/getopt-long) - eggs
+0. [eggs: git](http://wiki.call-cc.org/eggref/4/git) - eggs
+0. [eggs: hashes](http://wiki.call-cc.org/eggref/4/hashes) - eggs
+0. [eggs: heap-o-rama](http://wiki.call-cc.org/eggref/4/heap-o-rama) - eggs
+0. [eggs: image-processing](http://wiki.call-cc.org/eggref/4/image-processing) - eggs
+0. [eggs: imperative-command-line-a](http://wiki.call-cc.org/eggref/4/imperative-command-line-a) - eggs
+0. [eggs: kalaha](http://wiki.call-cc.org/eggref/4/kalaha) - eggs
+0. [eggs: latch](http://wiki.call-cc.org/eggref/4/latch) - eggs
+0. [eggs: mowedline](http://wiki.call-cc.org/eggref/4/mowedline) - eggs
+0. [eggs: null](http://wiki.call-cc.org/eggref/4/null) - eggs
+0. [eggs: numspell](http://wiki.call-cc.org/eggref/4/numspell) - eggs
+0. [eggs: oblist](http://wiki.call-cc.org/eggref/4/oblist) - eggs
+0. [eggs: posix-utils](http://wiki.call-cc.org/eggref/4/posix-utils) - eggs
+0. [eggs: proccpuinfo](http://wiki.call-cc.org/eggref/4/proccpuinfo) - eggs
+0. [eggs: procedure-decoration](http://wiki.call-cc.org/eggref/4/procedure-decoration) - eggs
+0. [eggs: progress-indicators](http://wiki.call-cc.org/eggref/4/progress-indicators) - eggs
+0. [eggs: regex](http://wiki.call-cc.org/eggref/4/regex) - eggs
+0. [eggs: s48-modules](http://wiki.call-cc.org/eggref/4/s48-modules) - eggs
+0. [eggs: scheme2c-compatibility](http://wiki.call-cc.org/eggref/4/scheme2c-compatibility) - eggs
+0. [eggs: scron](http://wiki.call-cc.org/eggref/4/scron) - eggs
+0. [eggs: setup-helper](http://wiki.call-cc.org/eggref/4/setup-helper) - eggs
+0. [eggs: shell](http://wiki.call-cc.org/eggref/4/shell) - eggs
+0. [eggs: simple-configuration](http://wiki.call-cc.org/eggref/4/simple-configuration) - eggs
+0. [eggs: sixtyfive-oh-two](http://wiki.call-cc.org/eggref/4/sixtyfive-oh-two) - eggs
+0. [eggs: smsmatrix](http://wiki.call-cc.org/eggref/4/smsmatrix) - eggs
+0. [eggs: srfi-102](http://wiki.call-cc.org/eggref/4/srfi-102) - eggs
+0. [eggs: srfi-29](http://wiki.call-cc.org/eggref/4/srfi-29) - eggs
+0. [eggs: srfi-34](http://wiki.call-cc.org/eggref/4/srfi-34) - eggs
+0. [eggs: srfi-37](http://wiki.call-cc.org/eggref/4/srfi-37) - eggs
+0. [eggs: srfi-7](http://wiki.call-cc.org/eggref/4/srfi-7) - eggs
+0. [eggs: srfi-9-ext](http://wiki.call-cc.org/eggref/4/srfi-9-ext) - eggs
+0. [eggs: srfi-modules](http://wiki.call-cc.org/eggref/4/srfi-modules) - eggs
+0. [eggs: stalin](http://wiki.call-cc.org/eggref/4/stalin) - eggs
+0. [eggs: svn-client](http://wiki.call-cc.org/eggref/4/svn-client) - eggs
+0. [eggs: tabexpand](http://wiki.call-cc.org/eggref/4/tabexpand) - eggs
+0. [eggs: thread-utils](http://wiki.call-cc.org/eggref/4/thread-utils) - eggs
+0. [eggs: timed-resource](http://wiki.call-cc.org/eggref/4/timed-resource) - eggs
+0. [eggs: typed-records](http://wiki.call-cc.org/eggref/4/typed-records) - eggs
+0. [eggs: variable-item](http://wiki.call-cc.org/eggref/4/variable-item) - eggs
+0. [eggs: x11-keysyms](http://wiki.call-cc.org/eggref/4/x11-keysyms) - eggs
+0. [eggs: yahoo-finance](http://wiki.call-cc.org/eggref/4/yahoo-finance) - eggs
+0. [eggs: concurrent-native-callbacks](http://wiki.call-cc.org/eggref/4/concurrent-native-callbacks) - eggs
+0. [eggs: high-load-scheduler](http://wiki.call-cc.org/eggref/4/high-load-scheduler) - eggs
+0. [eggs: mailbox](http://wiki.call-cc.org/eggref/4/mailbox) - eggs
+0. [eggs: mailbox-threads](http://wiki.call-cc.org/eggref/4/mailbox-threads) - eggs
+0. [eggs: remote-mailbox-threads](http://wiki.call-cc.org/eggref/4/remote-mailbox-threads) - eggs
+0. [eggs: synch](http://wiki.call-cc.org/eggref/4/synch) - eggs
+0. [eggs: contracts](http://wiki.call-cc.org/eggref/4/contracts) - eggs
+0. [eggs: couchdb-view-server](http://wiki.call-cc.org/eggref/4/couchdb-view-server) - eggs
+0. [eggs: easyffi](http://wiki.call-cc.org/eggref/4/easyffi) - eggs
+0. [eggs: er-macros](http://wiki.call-cc.org/eggref/4/er-macros) - eggs
+0. [eggs: ir-macros](http://wiki.call-cc.org/eggref/4/ir-macros) - eggs
+0. [eggs: multidoc](http://wiki.call-cc.org/eggref/4/multidoc) - eggs
+0. [eggs: peep](http://wiki.call-cc.org/eggref/4/peep) - eggs
+0. [eggs: qt](http://wiki.call-cc.org/eggref/4/qt) - eggs
+0. [eggs: simple-logging](http://wiki.call-cc.org/eggref/4/simple-logging) - eggs
+0. [eggs: spiffy-dynamic-handlers](http://wiki.call-cc.org/eggref/4/spiffy-dynamic-handlers) - eggs
 0. [code/lang/Thomas-1.0.tar.gz](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/lang/Thomas-1.0.tar.gz) - scheme-repos
 0. [code/lang/atr.scm](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/lang/atr.scm) - scheme-repos
 0. [code/lang/bob.tar.gz](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/lang/bob.tar.gz) - scheme-repos
