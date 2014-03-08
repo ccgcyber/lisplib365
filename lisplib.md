@@ -7,6 +7,8 @@
 0. [anaphora]() - Quicklisp
  - [#2/g000001](#2/g000001)
  - [http://g000001.cddddr.org/3597577200](http://g000001.cddddr.org/3597577200)
+0. [arnesi]() - Quicklisp
+ - [#76/g000001](#76/g000001)
 0. [asdf-install]() - Quicklisp
  - [#13/g000001](#13/g000001)
  - [http://g000001.cddddr.org/3598612200](http://g000001.cddddr.org/3598612200)
@@ -19,6 +21,8 @@
  - [http://qiita.com/l_libra/items/a7b13e033fc699c3abc9](http://qiita.com/l_libra/items/a7b13e033fc699c3abc9)
 0. [cl-closure-template]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
+0. [cl-date-time-parser]() - Quicklisp
+ - [#77/g000001](#77/g000001)
 0. [cl-emacs-if]() - Quicklisp
  - [#5/g000001](#5/g000001)
  - [http://g000001.cddddr.org/3597836400](http://g000001.cddddr.org/3597836400)
@@ -57,6 +61,8 @@
  - [http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525](http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525)
 0. [cl-test-more](https://github.com/fukamachi/cl-test-more) - Quicklisp
  - [http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE](http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE)
+0. [cl-utilities-1.2.4]() - Quicklisp
+ - [#70/g000001](#70/g000001)
 0. [cl-who-1.1.3]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437](http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437)
 0. [cl-yacc]() - Quicklisp
@@ -184,6 +190,7 @@
  - [http://g000001.cddddr.org/3601897200](http://g000001.cddddr.org/3601897200)
 0. [acl-compat]() - Quicklisp
  - [#68/g000001](#68/g000001)
+ - [http://g000001.cddddr.org/3603279600](http://g000001.cddddr.org/3603279600)
 0. [ptester]() - Quicklisp
  - [#47/g000001](#47/g000001)
  - [http://g000001.cddddr.org/3601465200](http://g000001.cddddr.org/3601465200)
@@ -279,8 +286,9 @@
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
  - [http://g000001.cddddr.org/3596108400](http://g000001.cddddr.org/3596108400)
-0. [json-select]() - sagittarius
+0. [json-tools]() - sagittarius
  - [#66/tk_riple](#66/tk_riple)
+ - [http://compassoftime.blogspot.jp/2014/03/json-tools.html](http://compassoftime.blogspot.jp/2014/03/json-tools.html)
 0. [(net oauth) - OAuth library](http://ktakashi.github.io/sagittarius-ref.html#net.oauth) - sagittarius
  - [#54/g000001](#54/g000001)
  - [http://g000001.cddddr.org/3602070000](http://g000001.cddddr.org/3602070000)
@@ -325,17 +333,21 @@
  - [http://g000001.cddddr.org/3602674800](http://g000001.cddddr.org/3602674800)
 0. [time]() - LispM
  - [#63/g000001](#63/g000001)
+ - [http://g000001.cddddr.org/3602847600](http://g000001.cddddr.org/3602847600)
 0. [irregex]() - misc
  - [#64/g000001](#64/g000001)
+ - [http://g000001.cddddr.org/3602934000](http://g000001.cddddr.org/3602934000)
 0. [clml-svm]() - misc
  - [#65/masatoi](#65/masatoi)
-0. [未定]() - misc
+ - [http://d.hatena.ne.jp/masatoi/20140306/1394122922](http://d.hatena.ne.jp/masatoi/20140306/1394122922)
+0. [algebraic-datatypes-instance-streams]() - misc
  - [#67/hatsugai](#67/hatsugai)
+ - [http://www.principia-m.com/ts/0099/index-jp.html](http://www.principia-m.com/ts/0099/index-jp.html)
+0. [PDP-1 LISP: auxiliary lisp functions]() - misc
+ - [#72/g000001](#72/g000001)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
-0. [arnesi]() - Quicklisp
- - g000001が書く予定
 0. [arnesi+]() - Quicklisp
  - g000001が書く予定
 0. [beirc]() - Quicklisp
@@ -357,8 +369,6 @@
 0. [cl-unicode-0.1.4]() - Quicklisp
  - g000001が書く予定
 0. [cl-unification]() - Quicklisp
- - g000001が書く予定
-0. [cl-utilities-1.2.4]() - Quicklisp
  - g000001が書く予定
 0. [climacs]() - Quicklisp
  - g000001が書く予定
@@ -573,7 +583,6 @@
 0. [cl-curlex]() - Quicklisp
 0. [cl-custom-hash-table]() - Quicklisp
 0. [cl-data-format-validation]() - Quicklisp
-0. [cl-date-time-parser]() - Quicklisp
 0. [cl-db3]() - Quicklisp
 0. [cl-dbi]() - Quicklisp
 0. [cl-decimals]() - Quicklisp
