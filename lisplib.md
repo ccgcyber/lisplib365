@@ -9,6 +9,9 @@
  - [http://g000001.cddddr.org/3597577200](http://g000001.cddddr.org/3597577200)
 0. [arnesi]() - Quicklisp
  - [#76/g000001](#76/g000001)
+ - [http://g000001.cddddr.org/3603970800](http://g000001.cddddr.org/3603970800)
+0. [arnesi+]() - Quicklisp
+ - [#82/g000001](#82/g000001)
 0. [asdf-install]() - Quicklisp
  - [#13/g000001](#13/g000001)
  - [http://g000001.cddddr.org/3598612200](http://g000001.cddddr.org/3598612200)
@@ -19,10 +22,14 @@
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [chillax]() - Quicklisp
  - [http://qiita.com/l_libra/items/a7b13e033fc699c3abc9](http://qiita.com/l_libra/items/a7b13e033fc699c3abc9)
+0. [cl-anonfun]() - Quicklisp
+ - [#80/g000001](#80/g000001)
+ - [http://g000001.cddddr.org/3604316400](http://g000001.cddddr.org/3604316400)
 0. [cl-closure-template]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
 0. [cl-date-time-parser]() - Quicklisp
  - [#77/g000001](#77/g000001)
+ - [http://g000001.cddddr.org/3604057200](http://g000001.cddddr.org/3604057200)
 0. [cl-emacs-if]() - Quicklisp
  - [#5/g000001](#5/g000001)
  - [http://g000001.cddddr.org/3597836400](http://g000001.cddddr.org/3597836400)
@@ -63,6 +70,7 @@
  - [http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE](http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE)
 0. [cl-utilities-1.2.4]() - Quicklisp
  - [#70/g000001](#70/g000001)
+ - [http://g000001.cddddr.org/3603452400](http://g000001.cddddr.org/3603452400)
 0. [cl-who-1.1.3]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437](http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437)
 0. [cl-yacc]() - Quicklisp
@@ -86,6 +94,9 @@
 0. [defmacro-enhance]() - Quicklisp
  - [#19/g000001](#19/g000001)
  - [http://g000001.cddddr.org/3599046000](http://g000001.cddddr.org/3599046000)
+0. [defstar]() - Quicklisp
+ - [#74/g000001](#74/g000001)
+ - [http://g000001.cddddr.org/3603801600](http://g000001.cddddr.org/3603801600)
 0. [dlist]() - Quicklisp
  - [#42/g000001](#42/g000001)
  - [http://g000001.cddddr.org/3601033200](http://g000001.cddddr.org/3601033200)
@@ -99,6 +110,7 @@
  - [http://g000001.cddddr.org/3599996400](http://g000001.cddddr.org/3599996400)
 0. [fare-utils]() - Quicklisp
  - [#69/g000001](#69/g000001)
+ - [http://g000001.cddddr.org/3603366000](http://g000001.cddddr.org/3603366000)
 0. [fast-io-release-5f330b97-git]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54](http://qiita.com/nitro_idiot/items/b9048c8aeb6425462a54)
 0. [filtered-functions]() - Quicklisp
@@ -161,6 +173,7 @@
  - [http://g000001.cddddr.org/3601206000](http://g000001.cddddr.org/3601206000)
 0. [metatilities-base]() - Quicklisp
  - [#71/g000001](#71/g000001)
+ - [http://g000001.cddddr.org/3603538800](http://g000001.cddddr.org/3603538800)
 0. [method-combination-utilities]() - Quicklisp
  - [#37/g000001](#37/g000001)
  - [http://g000001.cddddr.org/3600601200](http://g000001.cddddr.org/3600601200)
@@ -198,6 +211,7 @@
  - [@g000001](@g000001)
 0. [readable/srfi 110]() - Quicklisp
  - [#73/g000001](#73/g000001)
+ - [http://g000001.cddddr.org/3603711600](http://g000001.cddddr.org/3603711600)
 0. [rt]() - Quicklisp
  - [#32/g000001](#32/g000001)
  - [http://g000001.cddddr.org/3600169200](http://g000001.cddddr.org/3600169200)
@@ -273,6 +287,10 @@
 0. [srfi-5](http://srfi.schemers.org/srfi-5/) - srfi
  - [#48/tk_riple](#48/tk_riple)
  - [http://compassoftime.blogspot.jp/2014/02/srfi-5.html](http://compassoftime.blogspot.jp/2014/02/srfi-5.html)
+0. [srfi-6](http://srfi.schemers.org/srfi-6/) - srfi
+ - [#81/tk_riple](#81/tk_riple)
+0. [srfi-8](http://srfi.schemers.org/srfi-8/) - srfi
+ - [#88/tk_riple](#88/tk_riple)
 0. [srfi-110](http://srfi.schemers.org/srfi-110/) - srfi
  - [#73/g000001](#73/g000001)
  - [readable](readable)
@@ -299,9 +317,14 @@
  - [http://g000001.cddddr.org/3602588400](http://g000001.cddddr.org/3602588400)
 0. [eggs: fmt](http://wiki.call-cc.org/eggref/4/fmt) - eggs
  - [#=fmt](#=fmt)
+0. [eggs: s](http://wiki.call-cc.org/eggref/4/s) - eggs
+ - [#75/g000001](#75/g000001)
+ - [http://g000001.cddddr.org/3603941100](http://g000001.cddddr.org/3603941100)
 0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
  - [#43/g000001](#43/g000001)
  - [http://g000001.cddddr.org/3601119600](http://g000001.cddddr.org/3601119600)
+0. [Allegro CL: String utility functions in  Allegro CL](http://www.franz.com/support/documentation/9.0/doc/string-utilities.htm) - Allegro CL
+ - [#83/g000001](#83/g000001)
 0. [ttf-ascii]() - misc
  - [http://g000001.cddddr.org/3563708490](http://g000001.cddddr.org/3563708490)
 0. [braille-banner]() - misc
@@ -334,6 +357,8 @@
 0. [time]() - LispM
  - [#63/g000001](#63/g000001)
  - [http://g000001.cddddr.org/3602847600](http://g000001.cddddr.org/3602847600)
+0. [output]() - LispM
+ - [#79/g000001](#79/g000001)
 0. [irregex]() - misc
  - [#64/g000001](#64/g000001)
  - [http://g000001.cddddr.org/3602934000](http://g000001.cddddr.org/3602934000)
@@ -345,11 +370,15 @@
  - [http://www.principia-m.com/ts/0099/index-jp.html](http://www.principia-m.com/ts/0099/index-jp.html)
 0. [PDP-1 LISP: auxiliary lisp functions]() - misc
  - [#72/g000001](#72/g000001)
+ - [http://g000001.cddddr.org/3603625200](http://g000001.cddddr.org/3603625200)
+0. [macho]() - CL
+ - [#78/g000001](#78/g000001)
+ - [http://g000001.cddddr.org/3604143600](http://g000001.cddddr.org/3604143600)
+0. [s]() - elisp
+ - [#75/g000001](#75/g000001)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
-0. [arnesi+]() - Quicklisp
- - g000001が書く予定
 0. [beirc]() - Quicklisp
  - g000001が書く予定
 0. [bordeaux-threads-0.8.3]() - Quicklisp
@@ -539,7 +568,6 @@
 0. [cl-abstract-classes]() - Quicklisp
 0. [cl-algebraic-data-type]() - Quicklisp
 0. [cl-annot]() - Quicklisp
-0. [cl-anonfun]() - Quicklisp
 0. [cl-ansi-text]() - Quicklisp
 0. [cl-api]() - Quicklisp
 0. [cl-apple-plist]() - Quicklisp
@@ -867,7 +895,6 @@
 0. [def-symbol-readmacro]() - Quicklisp
 0. [deflate]() - Quicklisp
 0. [defrec]() - Quicklisp
-0. [defstar]() - Quicklisp
 0. [defsystem-compatibility]() - Quicklisp
 0. [delorean]() - Quicklisp
 0. [deoxybyte-gzip]() - Quicklisp
@@ -1510,9 +1537,7 @@
 0. [util/tags/]() - cmu-ai-repos
 0. [util/tex/]() - cmu-ai-repos
 0. [util/vgrind/]() - cmu-ai-repos
-0. [srfi-6](http://srfi.schemers.org/srfi-6/) - srfi
 0. [srfi-7](http://srfi.schemers.org/srfi-7/) - srfi
-0. [srfi-8](http://srfi.schemers.org/srfi-8/) - srfi
 0. [srfi-9](http://srfi.schemers.org/srfi-9/) - srfi
 0. [srfi-10](http://srfi.schemers.org/srfi-10/) - srfi
 0. [srfi-11](http://srfi.schemers.org/srfi-11/) - srfi
@@ -2960,7 +2985,6 @@
 0. [eggs: rb-tree](http://wiki.call-cc.org/eggref/4/rb-tree) - eggs
 0. [eggs: records](http://wiki.call-cc.org/eggref/4/records) - eggs
 0. [eggs: rope](http://wiki.call-cc.org/eggref/4/rope) - eggs
-0. [eggs: s](http://wiki.call-cc.org/eggref/4/s) - eggs
 0. [eggs: scbib](http://wiki.call-cc.org/eggref/4/scbib) - eggs
 0. [eggs: sequences](http://wiki.call-cc.org/eggref/4/sequences) - eggs
 0. [eggs: sets](http://wiki.call-cc.org/eggref/4/sets) - eggs
@@ -3373,7 +3397,6 @@
 0. [Allegro CL: The shell module interface](http://www.franz.com/support/documentation/9.0/doc/shell-module.htm) - Allegro CL
 0. [Allegro CL: Symmetric Multiprocessing in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/smp.htm) - Allegro CL
 0. [Allegro CL: Streams in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/streams.htm) - Allegro CL
-0. [Allegro CL: String utility functions in  Allegro CL](http://www.franz.com/support/documentation/9.0/doc/string-utilities.htm) - Allegro CL
 0. [Allegro CL: Lisp as a Shared Library](http://www.franz.com/support/documentation/9.0/doc/unix-shared-library.htm) - Allegro CL
 0. [html.arc]() - arc
 0. [app.arc]() - arc
