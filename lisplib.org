@@ -1,4 +1,5 @@
 - [X] ("misc" "ttf-ascii" "" "http://g000001.cddddr.org/3563708490" "")  
+- [X] ("Python compiler" "deftransform" "" "#118/g000001" "http://g000001.cddddr.org/3607599600" "")  
 - [X] ("misc" "braille-banner" "" "http://g000001.cddddr.org/3564247803" "") 
 - [X] ("misc" "sytes" "" "http://qiita.com/nitro_idiot/items/3e552e6b7c36f345fb8d") 
 - [X] ("cltl2" "cltl2 pp" "" "http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d" "http://qiita.com/seijikoide/items/c8223c9cb825e064130a" "http://qiita.com/seijikoide/items/43193bd72e57b388f82f")
@@ -25,9 +26,46 @@
 - [X] ("misc" "algebraic-datatypes-instance-streams" "" "#67/hatsugai" "http://www.principia-m.com/ts/0099/index-jp.html")
 - [X] ("misc" "PDP-1 LISP: auxiliary lisp functions" "" "#72/g000001" "http://g000001.cddddr.org/3603625200")
 - [X] ("CL" "macho" "" "#78/g000001" "http://g000001.cddddr.org/3604143600")
+- [ ] ("ql" "asdf-linguist" "" "")
+- [ ] ("ql" "cl-base58" "" "")
+- [ ] ("ql" "cl-data-frame" "" "")
+- [ ] ("ql" "cl-influxdb" "" "")
+- [ ] ("ql" "cl-logic" "" "")
+- [ ] ("ql" "cl-slp" "" "")
+- [ ] ("ql" "cl-splicing-macro" "" "")
+- [ ] ("ql" "colleen" "" "")
+- [ ] ("ql" "crane" "" "")
+- [ ] ("ql" "dartsclmessagepack" "" "")
+- [ ] ("ql" "datafly" "" "")
+- [ ] ("ql" "lol-re" "" "")
+- [ ] ("ql" "packet" "" "")
+- [ ] ("ql" "piping" "" "")
+- [ ] ("ql" "plump" "" "")
+- [ ] ("ql" "sdl2kit" "" "")
+- [ ] ("ql" "verbose" "" "")
 - [ ] ("ql" "3b-swf" "" "")
+- [ ] ("ql" "chirp" "" "")
+- [ ] ("ql" "cl-flowd" "" "")
+- [ ] ("ql" "defvariant" "" "")
+- [ ] ("ql" "delta-debug" "" "")
+- [ ] ("ql" "random" "" "")
+- [ ] ("ql" "architecture.service-provider" "" "")
+- [ ] ("ql" "cl-ana" "" "")
+- [ ] ("ql" "cl-cron" "" "")
+- [ ] ("ql" "cl-sdl2" "" "")
+- [ ] ("ql" "cl-yaclyaml" "" "")
+- [ ] ("ql" "define-json-expander" "" "")
+- [ ] ("ql" "esrap-liquid" "" "")
+- [ ] ("ql" "hermetic" "" "")
+- [ ] ("ql" "hu.dwim.web-server" "" "")
+- [ ] ("ql" "integral" "" "")
+- [ ] ("ql" "montezuma" "" "")
+- [ ] ("ql" "projectured" "" "")
+- [ ] ("ql" "secret-values" "" "")
+- [ ] ("ql" "swap-bytes" "" "")
+- [ ] ("ql" "trivial-download" "" "")
 - [ ] ("ql" "3bil" "" "")
-- [ ] ("ql" "3bmd" "" "")
+- [X] ("ql" "3bmd" "" "#110/g000001" "http://g000001.cddddr.org/3606976800")
 - [ ] ("ql" "able" "" "")
 - [ ] ("ql" "access" "" "")
 - [ ] ("ql" "advanced-readtable" "" "")
@@ -53,11 +91,11 @@
 - [ ] ("ql" "asdf-utils" "" "")
 - [ ] ("ql" "asn.1-4.14" "" "@g000001")
 - [ ] ("ql" "atdoc" "" "")
-- [ ] ("ql" "autoproject-20111105-svn" "" "")
+- [ ] ("ql" "autoproject" "" "")
 - [ ] ("ql" "ayah-captcha" "" "")
 - [X] ("ql" "babel" "" "http://qiita.com/zptmtr/items/175b97844046b83fc5f2" "")
 - [ ] ("ql" "backports" "" "")
-- [ ] ("ql" "beirc-20101107-cvs" "" "@g000001")
+- [ ] ("ql" "beirc" "" "@g000001")
 - [ ] ("ql" "big-string" "" "")
 - [ ] ("ql" "binary-types" "" "")
 - [ ] ("ql" "binascii" "" "")
@@ -72,7 +110,7 @@
 - [ ] ("ql" "bordeaux-fft" "" "")
 - [ ] ("ql" "bordeaux-threads-0.8.3" "" "@g000001")
 - [ ] ("ql" "bourbaki" "" "")
-- [ ] ("ql" "brlapi-20110619-svn" "" "")
+- [ ] ("ql" "brlapi" "" "")
 - [ ] ("ql" "bt-semaphore" "" "")
 - [ ] ("ql" "btrie" "" "")
 - [ ] ("ql" "bubble-operator-upwards-1.0" "" "")
@@ -86,7 +124,7 @@
 - [ ] ("ql" "cells" "" "@g000001")
 - [ ] ("ql" "cells-gtk3" "" "@g000001")
 - [X] ("ql" "cffi_0.11.2" "" "http://cl.cddddr.org/index.cgi?CFFI" "http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896" "")
-- [ ] ("ql" "cffi-objects-20130128-svn" "" "")
+- [ ] ("ql" "cffi-objects" "" "")
 - [ ] ("ql" "cgn008" "" "")
 - [ ] ("ql" "ch-image" "" "")
 - [ ] ("ql" "changed-stream" "" "")
@@ -97,7 +135,7 @@
 - [X] ("ql" "chillax" "" "http://qiita.com/l_libra/items/a7b13e033fc699c3abc9")
 - [ ] ("ql" "chipz" "" "")
 - [ ] ("ql" "chronicity" "" "")
-- [ ] ("ql" "chtml-matcher" "" "")
+- [X] ("ql" "chtml-matcher" "" "#112/g000001" "http://g000001.cddddr.org/3607081200")
 - [ ] ("ql" "chunga" "" "")
 - [ ] ("ql" "circular-streams" "" "")
 - [ ] ("ql" "city-hash" "" "")
@@ -109,7 +147,7 @@
 - [ ] ("ql" "cl-annot" "" "")
 - [X] ("ql" "cl-anonfun" "" "#80/g000001" "http://g000001.cddddr.org/3604316400")
 - [ ] ("ql" "cl-ansi-text" "" "")
-- [ ] ("ql" "cl-api" "" "")
+- [X] ("ql" "cl-api" "" "#103/g000001" "http://g000001.cddddr.org/3606303600")
 - [ ] ("ql" "cl-apple-plist" "" "")
 - [ ] ("ql" "cl-arff-parser" "" "")
 - [ ] ("ql" "cl-arrows" "" "")
@@ -124,7 +162,7 @@
 - [ ] ("ql" "cl-beanstalk" "" "")
 - [ ] ("ql" "cl-bencode" "" "")
 - [ ] ("ql" "cl-bert" "" "")
-- [ ] ("ql" "cl-bibtex-20120909-cvs" "" "")
+- [ ] ("ql" "cl-bibtex" "" "")
 - [ ] ("ql" "cl-binary-file-0.4" "" "")
 - [ ] ("ql" "cl-binaural" "" "")
 - [ ] ("ql" "cl-blapack" "" "")
@@ -136,7 +174,7 @@
 - [ ] ("ql" "cl-case-control" "" "")
 - [ ] ("ql" "cl-charms" "" "")
 - [ ] ("ql" "cl-cheshire-cat" "" "")
-- [ ] ("ql" "cl-cli-parser-20120305-cvs" "" "")
+- [ ] ("ql" "cl-cli-parser" "" "")
 - [ ] ("ql" "clon-1.0b23" "" "")
 - [X] ("ql" "cl-closure-template" "" "http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39" "")
 - [ ] ("ql" "cl-colors" "" "")
@@ -165,7 +203,7 @@
 - [X] ("ql" "cl-emacs-if" "" "#5/g000001" "http://g000001.cddddr.org/3597836400")
 - [X] ("ql" "cl-emb" "" "http://qiita.com/nitro_idiot/items/76477e06fb03cde57392" "")
 - [ ] ("ql" "cl-enchant" "" "")
-- [ ] ("ql" "cl-enumeration-20130128-cvs" "" "")
+- [ ] ("ql" "cl-enumeration" "" "")
 - [ ] ("ql" "cl-epmd" "" "")
 - [ ] ("ql" "cl-epoch" "" "")
 - [ ] ("ql" "cl-erlang-term" "" "")
@@ -183,7 +221,7 @@
 - [ ] ("ql" "cl-ftp" "" "")
 - [ ] ("ql" "cl-fuse" "" "")
 - [ ] ("ql" "cl-fuse-meta-fs" "" "")
-- [ ] ("ql" "cl-gambol-20130128-svn" "" "")
+- [ ] ("ql" "cl-gambol" "" "")
 - [ ] ("ql" "cl-gap-buffer" "" "")
 - [ ] ("ql" "cl-gd-0.6.0" "" "")
 - [ ] ("ql" "cl-gdata" "" "")
@@ -209,7 +247,7 @@
 - [X] ("ql" "cl-haml" "" "http://blog.hiyamugi.net/2012/12/23/0001" "")
 - [ ] ("ql" "cl-heap-0.1.6" "" "")
 - [ ] ("ql" "cl-heredoc" "" "")
-- [ ] ("ql" "cl-hooks-20120407-bzr" "" "")
+- [X] ("ql" "cl-hooks" "" "#117/g000001" "http://g000001.cddddr.org/3607513200")
 - [ ] ("ql" "cl-html-diff" "" "")
 - [ ] ("ql" "cl-html-parse" "" "")
 - [ ] ("ql" "cl-html5-parser" "" "")
@@ -226,7 +264,7 @@
 - [ ] ("ql" "cl-jpl-util-0.4" "" "")
 - [ ] ("ql" "cl-json" "" "")
 - [ ] ("ql" "cl-json-template" "" "")
-- [ ] ("ql" "cl-kanren-trs-20120305-svn" "" "")
+- [ ] ("ql" "cl-kanren-trs" "" "")
 - [ ] ("ql" "cl-kyoto-cabinet" "" "")
 - [ ] ("ql" "cl-l10n" "" "")
 - [ ] ("ql" "cl-l10n-cldr" "" "")
@@ -247,7 +285,7 @@
 - [ ] ("ql" "cl-log.1.0.1" "" "")
 - [ ] ("ql" "cl-ltsv" "" "")
 - [X] ("ql" "cl-m4" "" "#53/g000001" "http://g000001.cddddr.org/3601983600")
-- [ ] ("ql" "cl-markdown" "" "@g000001" "")
+- [X] ("ql" "cl-markdown" "" "#109/g000001" "http://g000001.cddddr.org/3606872400")
 - [X] ("ql" "cl-markup" "" "http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab" "")
 - [ ] ("ql" "cl-marshal" "" "")
 - [ ] ("ql" "cl-match" "" "")
@@ -259,7 +297,7 @@
 - [ ] ("ql" "cl-migrations" "" "")
 - [ ] ("ql" "cl-mime" "" "")
 - [ ] ("ql" "cl-modlisp" "" "")
-- [ ] ("ql" "cl-monad-macros-20110619-svn" "" "")
+- [ ] ("ql" "cl-monad-macros" "" "")
 - [ ] ("ql" "cl-moneris" "" "")
 - [ ] ("ql" "cl-mongo" "" "")
 - [ ] ("ql" "cl-mongo-id" "" "")
@@ -278,7 +316,7 @@
 - [ ] ("ql" "cl-odesk" "" "")
 - [ ] ("ql" "cl-olefs" "" "")
 - [ ] ("ql" "cl-one-time-passwords" "" "")
-- [X] ("ql" "cl-op-20120407-svn" "" "#7/g00001" "http://g000001.cddddr.org/3598009200")
+- [X] ("ql" "cl-op" "" "#7/g00001" "http://g000001.cddddr.org/3598009200")
 - [ ] ("ql" "cl-openal" "" "")
 - [ ] ("ql" "cl-opengl" "" "")
 - [ ] ("ql" "cl-openid" "" "")
@@ -325,7 +363,7 @@
 - [ ] ("ql" "cl-routes" "" "")
 - [ ] ("ql" "cl-rrd" "" "")
 - [ ] ("ql" "cl-rrt" "" "")
-- [ ] ("ql" "cl-rss" "" "")
+- [X] ("ql" "cl-rss" "" "#108/g000001" "http://g000001.cddddr.org/3606739200")
 - [ ] ("ql" "cl-rsvg2" "" "")
 - [ ] ("ql" "cl-s3" "" "")
 - [ ] ("ql" "cl-sam" "" "")
@@ -341,7 +379,7 @@
 - [ ] ("ql" "cl-simple-table" "" "")
 - [ ] ("ql" "cl-skip-list" "" "")
 - [ ] ("ql" "cl-slice" "" "")
-- [ ] ("ql" "cl-smtp-20131003-cvs" "" "")
+- [ ] ("ql" "cl-smtp" "" "")
 - [ ] ("ql" "cl-spark" "" "")
 - [ ] ("ql" "cl-speedy-queue" "" "")
 - [ ] ("ql" "cl-sphinx" "" "")
@@ -352,12 +390,12 @@
 - [ ] ("ql" "cl-stopwatch" "" "")
 - [ ] ("ql" "cl-store" "" "")
 - [X] ("ql" "cl-string-complete" "" "http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525" "")
-- [ ] ("ql" "cl-string-match" "" "")
+- [X] ("ql" "cl-string-match" "" "#104/g000001" "http://g000001.cddddr.org/3606390000")
 - [ ] ("ql" "cl-svg" "" "")
 - [ ] ("ql" "cl-svm" "" "")
 - [ ] ("ql" "cl-swap-file-0.5" "" "")
 - [ ] ("ql" "cl-syntax" "" "")
-- [ ] ("ql" "cl-syslog-20121125-cvs" "" "")
+- [ ] ("ql" "cl-syslog" "" "")
 - [ ] ("ql" "cl-table" "" "")
 - [ ] ("ql" "cl-tcod" "" "")
 - [ ] ("ql" "cl-template" "" "")
@@ -371,13 +409,13 @@
 - [ ] ("ql" "cl-typesetting" "" "")
 - [ ] ("ql" "cl-uglify-js" "" "")
 - [ ] ("ql" "cl-unicode-0.1.4" "" "@g000001")
-- [ ] ("ql" "cl-unification-20130128-cvs" "" "@g000001")
+- [ ] ("ql" "cl-unification" "" "@g000001")
 - [X] ("ql" "cl-utilities" "" "#70/g000001" "http://g000001.cddddr.org/3603452400")
 - [ ] ("ql" "cl-v4l2" "" "")
 - [ ] ("ql" "cl-variates" "" "")
 - [ ] ("ql" "cl-vectors" "" "")
 - [ ] ("ql" "cl-wal-0.4" "" "")
-- [ ] ("ql" "cl-web-crawler-20130128-svn" "" "")
+- [ ] ("ql" "cl-web-crawler" "" "")
 - [ ] ("ql" "cl-webdav-0.2.0" "" "")
 - [X] ("ql" "cl-who-1.1.3" "" "http://qiita.com/nitro_idiot/items/69c8d3df1727ea471437" "")
 - [ ] ("ql" "cl-wkb-0.1" "" "")
@@ -392,7 +430,7 @@
 - [ ] ("ql" "clack-errors" "" "")
 - [ ] ("ql" "clavatar" "" "")
 - [ ] ("ql" "clawk" "" "")
-- [ ] ("ql" "clazy-20130128-cvs" "" "")
+- [ ] ("ql" "clazy" "" "")
 - [ ] ("ql" "clem" "" "")
 - [ ] ("ql" "cleric" "" "")
 - [ ] ("ql" "clesh" "" "")
@@ -400,7 +438,7 @@
 - [X] ("ql" "clfswm" "" "#58/g000001" "http://g000001.cddddr.org/3602415600")
 - [ ] ("ql" "clhs-0.6.1" "" "")
 - [ ] ("ql" "clickr" "" "")
-- [ ] ("ql" "climacs-20101006-cvs" "" "@g000001")
+- [ ] ("ql" "climacs" "" "@g000001")
 - [ ] ("ql" "climc" "" "")
 - [ ] ("ql" "climon" "" "")
 - [ ] ("ql" "clinch" "" "")
@@ -536,16 +574,16 @@
 - [ ] ("ql" "floating-point" "" "")
 - [ ] ("ql" "fnv" "" "")
 - [ ] ("ql" "folio" "" "")
-- [ ] ("ql" "fomus-20120909-svn" "" "")
+- [ ] ("ql" "fomus" "" "")
 - [ ] ("ql" "formlets" "" "")
 - [ ] ("ql" "fs-watcher" "" "")
-- [ ] ("ql" "fset-20130128-svn" "" "")
+- [ ] ("ql" "fset" "" "")
 - [ ] ("ql" "fsvd" "" "")
 - [ ] ("ql" "fucc_0.2.1" "" "")
 - [ ] ("ql" "function-cache" "" "")
 - [ ] ("ql" "funds" "" "")
 - [ ] ("ql" "garbage-pools" "" "")
-- [ ] ("ql" "gbbopen-20131211-svn" "" "")
+- [ ] ("ql" "gbbopen" "" "")
 - [ ] ("ql" "gendl" "" "")
 - [ ] ("ql" "generators" "" "")
 - [ ] ("ql" "generic-sequences" "" "@g000001")
@@ -572,7 +610,7 @@
 - [ ] ("ql" "hinge" "" "")
 - [ ] ("ql" "ht-simple-ajax" "" "")
 - [ ] ("ql" "html-encode-1.2" "" "")
-- [ ] ("ql" "html-entities-20110829-svn" "" "")
+- [ ] ("ql" "html-entities" "" "")
 - [ ] ("ql" "html-sugar" "" "")
 - [ ] ("ql" "html-template-0.9.1" "" "")
 - [ ] ("ql" "http-parse" "" "")
@@ -607,7 +645,7 @@
 - [ ] ("ql" "ie3fp" "" "")
 - [ ] ("ql" "ieee-floats" "" "")
 - [ ] ("ql" "image" "" "")
-- [ ] ("ql" "imago-20120909-cvs" "" "")
+- [ ] ("ql" "imago" "" "")
 - [ ] ("ql" "incf-cl" "" "")
 - [ ] ("ql" "incognito-keywords-1.1" "" "")
 - [X] ("ql" "incongruent-methods" "" "#45/g000001" "http://g000001.cddddr.org/3601292400")
@@ -632,7 +670,7 @@
 - [ ] ("ql" "km-2-5-33" "" "")
 - [X] ("ql" "kmrcl" "" "#51/g000001" "http://g000001.cddddr.org/3601810800")
 - [ ] ("ql" "l-math" "" "")
-- [ ] ("ql" "lambda-gtk-20120909-cvs" "" "")
+- [ ] ("ql" "lambda-gtk" "" "")
 - [X] ("ql" "lambda-reader" "" "#39/g000001" "http://g000001.cddddr.org/3600774000")
 - [ ] ("ql" "lassie" "" "")
 - [ ] ("ql" "latex-table" "" "")
@@ -652,7 +690,7 @@
 - [ ] ("ql" "lisp-matrix" "" "")
 - [X] ("ql" "lisp-unit" "" "http://g000001.cddddr.org/3563622030" "")
 - [ ] ("ql" "lisp-zmq-1.1.0" "" "")
-- [ ] ("ql" "lispbuilder-20131211-svn" "" "")
+- [ ] ("ql" "lispbuilder" "" "")
 - [ ] ("ql" "lisphys" "" "")
 - [ ] ("ql" "listoflist" "" "")
 - [ ] ("ql" "lla" "" "")
@@ -681,7 +719,7 @@
 - [ ] ("ql" "map-set" "" "")
 - [ ] ("ql" "marching-cubes" "" "")
 - [ ] ("ql" "marshal" "" "")
-- [ ] ("ql" "mcclim-20130813-cvs" "" "@g000001")
+- [ ] ("ql" "mcclim" "" "@g000001")
 - [ ] ("ql" "md5" "" "")
 - [ ] ("ql" "mel-base" "" "")
 - [X] ("ql" "memoize" "" "#44/g000001" "http://g000001.cddddr.org/3601206000")
@@ -701,7 +739,7 @@
 - [ ] ("ql" "mime4cl" "" "")
 - [ ] ("ql" "minheap" "" "")
 - [ ] ("ql" "mini-cas" "" "")
-- [ ] ("ql" "misc-extensions-20120208-cvs" "" "")
+- [ ] ("ql" "misc-extensions" "" "")
 - [ ] ("ql" "mixalot" "" "")
 - [X] ("ql" "modf" "" "#99/g000001" "http://g000001.cddddr.org/3605958000")
 - [ ] ("ql" "modf-fset" "" "")
@@ -739,7 +777,7 @@
 - [ ] ("ql" "npg" "" "")
 - [X] ("ql" "nst-4.0.1" "" "@g000001")
 - [ ] ("ql" "nuclblog" "" "")
-- [ ] ("ql" "oct-20110219-cvs" "" "")
+- [ ] ("ql" "oct" "" "")
 - [ ] ("ql" "odd-streams-0.1.2" "" "")
 - [ ] ("ql" "ods4cl" "" "")
 - [ ] ("ql" "okra" "" "")
@@ -754,7 +792,7 @@
 - [ ] ("ql" "pack" "" "")
 - [X] ("ql" "package-renaming" "" "#21/g000001" "http://g000001.cddddr.org/3599218800")
 - [ ] ("ql" "paiprolog" "" "")
-- [ ] ("ql" "pal-20111203-cvs" "" "")
+- [ ] ("ql" "pal" "" "")
 - [ ] ("ql" "paren-files" "" "")
 - [ ] ("ql" "paren-util" "" "")
 - [ ] ("ql" "parenscript-2.5" "" "")
@@ -776,14 +814,14 @@
 - [ ] ("ql" "petit.package-utils" "" "")
 - [ ] ("ql" "pettomato-deque" "" "")
 - [ ] ("ql" "pettomato-indexed-priority-queue" "" "")
-- [ ] ("ql" "pg-20120305-cvs" "" "")
-- [X] ("ql" "phemlock-20120909-cvs" "" "#=hemlock")
+- [ ] ("ql" "pg" "" "")
+- [X] ("ql" "phemlock" "" "#=hemlock")
 - [ ] ("ql" "pileup" "" "")
 - [ ] ("ql" "pipes" "" "")
 - [ ] ("ql" "pithy-xml" "" "")
 - [ ] ("ql" "place-modifiers-2.1" "" "")
 - [ ] ("ql" "place-utils-0.1" "" "")
-- [ ] ("ql" "plain-odbc-20120909-svn" "" "")
+- [ ] ("ql" "plain-odbc" "" "")
 - [ ] ("ql" "planks" "" "")
 - [ ] ("ql" "plexippus-xpath" "" "@g000001")
 - [ ] ("ql" "plokami" "" "")
@@ -802,7 +840,7 @@
 - [ ] ("ql" "psgraph-1.2" "" "")
 - [X] ("ql" "ptester" "" "#47/g000001" "http://g000001.cddddr.org/3601465200")
 - [ ] ("ql" "puri" "" "@g000001")
-- [ ] ("ql" "py-configparser-20131003-svn" "" "")
+- [ ] ("ql" "py-configparser" "" "")
 - [ ] ("ql" "py-configvalidator" "" "")
 - [X] ("ql" "pythonic-string-reader" "" "#98/g000001" "http://g000001.cddddr.org/3605871600")
 - [ ] ("ql" "pzmq" "" "")
@@ -841,7 +879,7 @@
 - [ ] ("ql" "rpc4cl" "" "")
 - [ ] ("ql" "rpm" "" "")
 - [X] ("ql" "rt" "" "#32/g000001" "http://g000001.cddddr.org/3600169200")
-- [ ] ("ql" "rucksack-20120305-cvs" "" "")
+- [ ] ("ql" "rucksack" "" "")
 - [ ] ("ql" "rutils" "" "")
 - [ ] ("ql" "s-base64" "" "")
 - [ ] ("ql" "s-dot-1.2" "" "")
@@ -850,7 +888,7 @@
 - [ ] ("ql" "s-protobuf" "" "")
 - [ ] ("ql" "s-sysdeps" "" "")
 - [ ] ("ql" "s-utils" "" "")
-- [ ] ("ql" "s-xml-20120909-cvs" "" "")
+- [ ] ("ql" "s-xml" "" "")
 - [ ] ("ql" "s-xml-rpc" "" "")
 - [ ] ("ql" "salza2-2.0.9" "" "")
 - [ ] ("ql" "sapaclisp-1.0a" "" "")
@@ -873,12 +911,12 @@
 - [ ] ("ql" "simple-currency" "" "")
 - [ ] ("ql" "simple-date-time" "" "")
 - [ ] ("ql" "simple-finalizer" "" "")
-- [ ] ("ql" "simple-rgb-20121125-svn" "" "")
+- [ ] ("ql" "simple-rgb" "" "")
 - [ ] ("ql" "simpsamp-0.1" "" "")
 - [ ] ("ql" "single-threaded-ccl" "" "")
 - [ ] ("ql" "sip-hash" "" "")
 - [ ] ("ql" "skippy-1.3.8" "" "")
-- [ ] ("ql" "slime-20131211-cvs" "" "")
+- [ ] ("ql" "slime" "" "")
 - [ ] ("ql" "smackjack" "" "")
 - [ ] ("ql" "smtp4cl" "" "")
 - [ ] ("ql" "snappy" "" "")
@@ -920,7 +958,7 @@
 - [ ] ("ql" "thread-pool" "" "")
 - [ ] ("ql" "thread.comm.rendezvous" "" "")
 - [ ] ("ql" "time-interval" "" "")
-- [ ] ("ql" "tinaa" "" "")
+- [X] ("ql" "tinaa" "" "#115/g000001" "http://g000001.cddddr.org/3607349400")
 - [X] ("ql" "toadstool" "" "#10/g000001" "http://g000001.cddddr.org/3598268400")
 - [ ] ("ql" "toot" "" "")
 - [ ] ("ql" "torta" "" "")
@@ -997,8 +1035,8 @@
 - [ ] ("ql" "yason-0.6.5" "" "")
 - [ ] ("ql" "zaws" "" "")
 - [ ] ("ql" "zcdb-1.0.3" "" "@g000001")
-- [ ] ("ql" "zip-20101107-cvs" "" "")
-- [ ] ("ql" "zlib-20101006-cvs" "" "")
+- [ ] ("ql" "zip" "" "")
+- [ ] ("ql" "zlib" "" "")
 - [ ] ("ql" "zpb-exif-1.2.2" "" "")
 - [ ] ("ql" "zpb-ttf-1.0.3" "" "")
 - [ ] ("ql" "zpng-1.2.1" "" "")
@@ -1058,12 +1096,12 @@
 - [ ] ("cmu-ai-repos" "code/iter/loop/cmu/" "" "")
 - [ ] ("cmu-ai-repos" "code/iter/loop/mit/" "" "")
 - [ ] ("cmu-ai-repos" "code/iter/loop/mit/original/" "" "")
-- [ ] ("cmu-ai-repos" "code/iter/loop/sloop/" "" "")
+- [X] ("cmu-ai-repos" "sloop" "" "#107/g000001" "http://g000001.cddddr.org/3606649200")
 - [ ] ("cmu-ai-repos" "code/iter/loop/symbolix/" "" "")
 - [ ] ("cmu-ai-repos" "code/iter/loop/yloop/" "" "")
 - [ ] ("cmu-ai-repos" "code/iter/series/" "" "@g000001")
 - [ ] ("cmu-ai-repos" "code/match/matcher/" "" "")
-- [X] ("cmu-ai-repos" "code/match/miranda/select.cl" "" "#85/g000001" "http://g000001.cddddr.org/3604748400")
+- [X] ("cmu-ai-repos" "select-match" "" "#85/g000001" "http://g000001.cddddr.org/3604748400")
 - [ ] ("cmu-ai-repos" "code/match/miranda/miranda.cl" "" "")
 - [ ] ("cmu-ai-repos" "code/match/nregex/" "" "")
 - [ ] ("cmu-ai-repos" "code/match/regexp/" "" "")
@@ -1194,12 +1232,12 @@
 - [ ] ("cmu-ai-repos" "gui/yy/" "" "")
 - [ ] ("cmu-ai-repos" "gui/yy/v13a/" "" "")
 - [ ] ("cmu-ai-repos" "gui/yy/v15a3/" "" "")
-- [X] ("cmu-ai-repos" "oop/clos/closette/" "" "#18/g000001" "http://g000001.cddddr.org/3598959600")
+- [X] ("cmu-ai-repos" "closette" "" "#18/g000001" "http://g000001.cddddr.org/3598959600")
 - [ ] ("cmu-ai-repos" "oop/clos/code/" "" "")
 - [ ] ("cmu-ai-repos" "oop/clos/kee/" "" "")
 - [ ] ("cmu-ai-repos" "oop/clos/pcl/" "" "")
-- [X] ("cmu-ai-repos" "oop/non_clos/artificial-flavors" "" "#49/g000001" "http://g000001.cddddr.org/3601638000")
-- [X] ("cmu-ai-repos" "oop/non_clos/cool/" "" "#56/g000001" "http://g000001.cddddr.org/3602242800")
+- [X] ("cmu-ai-repos" "artificial-flavors" "" "#49/g000001" "http://g000001.cddddr.org/3601638000")
+- [X] ("cmu-ai-repos" "cool" "" "#56/g000001" "http://g000001.cddddr.org/3602242800")
 - [ ] ("cmu-ai-repos" "oop/non_clos/corbit/" "" "@g000001")
 - [ ] ("cmu-ai-repos" "oop/non_clos/mcs/" "" "")
 - [ ] ("cmu-ai-repos" "oop/non_clos/mcs/v130/" "" "")
@@ -1230,8 +1268,8 @@
 - [ ] ("srfi" "srfi-7" "http://srfi.schemers.org/srfi-7/")
 - [X] ("srfi" "srfi-8" "http://srfi.schemers.org/srfi-8/" "#88/tk_riple" "http://compassoftime.blogspot.jp/2014/03/srfi-8.html")
 - [X] ("srfi" "srfi-9" "http://srfi.schemers.org/srfi-9/" "#95/tk_riple" "http://compassoftime.blogspot.jp/2014/04/srfi-9.html")
-- [X] ("srfi" "srfi-10" "http://srfi.schemers.org/srfi-10/" "#102/tk_riple")
-- [X] ("srfi" "srfi-11" "http://srfi.schemers.org/srfi-11/" "#116/tk_riple")
+- [X] ("srfi" "srfi-10" "http://srfi.schemers.org/srfi-10/" "#102/tk_riple" "http://compassoftime.blogspot.jp/2014/04/srfi-10.html")
+- [X] ("srfi" "srfi-11" "http://srfi.schemers.org/srfi-11/" "#116/tk_riple" "http://compassoftime.blogspot.jp/2014/04/srfi-11.html")
 - [ ] ("srfi" "srfi-13" "http://srfi.schemers.org/srfi-13/")
 - [ ] ("srfi" "srfi-14" "http://srfi.schemers.org/srfi-14/")
 - [ ] ("srfi" "srfi-16" "http://srfi.schemers.org/srfi-16/")
@@ -1460,7 +1498,7 @@
 - [ ] ("gauche" "text.gettext" "http://practical-scheme.net/gauche/man/?l=jp&p=text.gettext")
 - [ ] ("gauche" "text.html-lite" "http://practical-scheme.net/gauche/man/?l=jp&p=text.html-lite")
 - [ ] ("gauche" "text.parse" "http://practical-scheme.net/gauche/man/?l=jp&p=text.parse")
-- [ ] ("gauche" "text.progress" "http://practical-scheme.net/gauche/man/?l=jp&p=text.progress")
+- [X] ("gauche" "text.progress" "http://practical-scheme.net/gauche/man/?l=jp&p=text.progress" "#105/g000001" "http://g000001.cddddr.org/3606476400")
 - [ ] ("gauche" "text.sql" "http://practical-scheme.net/gauche/man/?l=jp&p=text.sql")
 - [ ] ("gauche" "text.tr" "http://practical-scheme.net/gauche/man/?l=jp&p=text.tr")
 - [ ] ("gauche" "text.tree" "http://practical-scheme.net/gauche/man/?l=jp&p=text.tree")
@@ -2629,7 +2667,7 @@
 - [ ] ("eggs" "eggs: miniML" "http://wiki.call-cc.org/eggref/4/miniML")
 - [ ] ("eggs" "eggs: sassy" "http://wiki.call-cc.org/eggref/4/sassy")
 - [ ] ("eggs" "eggs: inclub" "http://wiki.call-cc.org/eggref/4/inclub")
-- [ ] ("eggs" "eggs: advice" "http://wiki.call-cc.org/eggref/4/advice")
+- [X] ("eggs" "eggs: advice" "http://wiki.call-cc.org/eggref/4/advice" "#114/g000001" "http://g000001.cddddr.org/3607255800")
 - [ ] ("eggs" "eggs: apropos" "http://wiki.call-cc.org/eggref/4/apropos")
 - [ ] ("eggs" "eggs: args" "http://wiki.call-cc.org/eggref/4/args")
 - [ ] ("eggs" "eggs: big-chicken" "http://wiki.call-cc.org/eggref/4/big-chicken")
@@ -2660,7 +2698,7 @@
 - [ ] ("eggs" "eggs: posix-utils" "http://wiki.call-cc.org/eggref/4/posix-utils")
 - [ ] ("eggs" "eggs: proccpuinfo" "http://wiki.call-cc.org/eggref/4/proccpuinfo")
 - [ ] ("eggs" "eggs: procedure-decoration" "http://wiki.call-cc.org/eggref/4/procedure-decoration")
-- [ ] ("eggs" "eggs: progress-indicators" "http://wiki.call-cc.org/eggref/4/progress-indicators")
+- [X] ("eggs" "eggs: progress-indicators" "http://wiki.call-cc.org/eggref/4/progress-indicators" "#106/g000001" "http://g000001.cddddr.org/3606562800")
 - [ ] ("eggs" "eggs: regex" "http://wiki.call-cc.org/eggref/4/regex")
 - [ ] ("eggs" "eggs: s48-modules" "http://wiki.call-cc.org/eggref/4/s48-modules")
 - [ ] ("eggs" "eggs: scheme2c-compatibility" "http://wiki.call-cc.org/eggref/4/scheme2c-compatibility")
@@ -2803,57 +2841,57 @@
 - [ ] ("scheme-repos" "code/sys/mawk.tar.gz" "ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/sys/mawk.tar.gz")
 - [ ] ("scheme-repos" "code/sys/pathname.tar.gz" "ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/sys/pathname.tar.gz")
 - [ ] ("scheme-repos" "code/sys/tail-f.tar.gz" "ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/sys/tail-f.tar.gz")
-- [ ] ("dylan" "binary-data" "https://github.com/dylan-lang/binary-data") ;Dylan
-- [ ] ("dylan" "melange" "https://github.com/dylan-lang/melange") ;Dylan
-- [ ] ("dylan" "http" "https://github.com/dylan-lang/http") ;Dylan
-- [ ] ("dylan" "hash-algorithms" "https://github.com/dylan-lang/hash-algorithms") ;C
-- [ ] ("dylan" "testworks" "https://github.com/dylan-lang/testworks") ;Dylan
-- [ ] ("dylan" "sphinx-extensions" "https://github.com/dylan-lang/sphinx-extensions") ;Python
-- [ ] ("dylan" "logging" "https://github.com/dylan-lang/logging") ;Dylan
-- [ ] ("dylan" "command-line-parser" "https://github.com/dylan-lang/command-line-parser") ;Dylan
-- [ ] ("dylan" "dylan-programming-book" "https://github.com/dylan-lang/dylan-programming-book") ;Python
-- [ ] ("dylan" "meta" "https://github.com/dylan-lang/meta") ;Dylan
-- [ ] ("dylan" "xml-parser" "https://github.com/dylan-lang/xml-parser") ;Dylan
-- [ ] ("dylan" "json" "https://github.com/dylan-lang/json") ;Dylan
-- [ ] ("dylan" "regular-expressions" "https://github.com/dylan-lang/regular-expressions") ;Dylan
-- [ ] ("dylan" "doctower" "https://github.com/dylan-lang/doctower") ;Dylan
-- [ ] ("dylan" "shootout" "https://github.com/dylan-lang/shootout") ;Dylan
-- [ ] ("dylan" "slot-visitor" "https://github.com/dylan-lang/slot-visitor") ;Dylan
-- [ ] ("dylan" "template-engine" "https://github.com/dylan-lang/template-engine") ;Dylan
-- [ ] ("dylan" "registry" "https://github.com/dylan-lang/registry") ;PHP
-- [ ] ("dylan" "peg-parser" "https://github.com/dylan-lang/peg-parser") ;Dylan
-- [ ] ("dylan" "base64" "https://github.com/dylan-lang/base64") ;Dylan
-- [ ] ("dylan" "strings" "https://github.com/dylan-lang/strings") ;Dylan
-- [ ] ("dylan" "mime" "https://github.com/dylan-lang/mime") ;Dylan
-- [ ] ("dylan" "web-framework" "https://github.com/dylan-lang/web-framework") ;Dylan
-- [ ] ("dylan" "wiki" "https://github.com/dylan-lang/wiki") ;Dylan
-- [ ] ("dylan" "xml-rpc" "https://github.com/dylan-lang/xml-rpc") ;Dylan
-- [ ] ("dylan" "uri" "https://github.com/dylan-lang/uri") ;Dylan
-- [ ] ("dylan" "sequence-stream" "https://github.com/dylan-lang/sequence-stream") ;Dylan
-- [ ] ("dylan" "dynamic-binding" "https://github.com/dylan-lang/dynamic-binding") ;Dylan
-- [X] ("dylan" "lisp-to-dylan" "https://github.com/dylan-lang/lisp-to-dylan" "#43/g000001" "http://g000001.cddddr.org/3601119600") ;Dylan
-- [ ] ("dylan" "uncommon-dylan" "https://github.com/dylan-lang/uncommon-dylan") ;Dylan
-- [ ] ("dylan" "anaphora" "https://github.com/dylan-lang/anaphora") ;Dylan
-- [ ] ("dylan" "dylan.tmbundle" "https://github.com/dylan-lang/dylan.tmbundle") ;nil
-- [ ] ("dylan" "dylan-reference-manual" "https://github.com/dylan-lang/dylan-reference-manual") ;nil
-- [ ] ("dylan" "web-ide-backend" "https://github.com/dylan-lang/web-ide-backend") ;Dylan
-- [ ] ("dylan" "gui-testworks" "https://github.com/dylan-lang/gui-testworks") ;Dylan
-- [ ] ("dylan" "monday" "https://github.com/dylan-lang/monday") ;Dylan
-- [ ] ("dylan" "examples" "https://github.com/dylan-lang/examples") ;Java
-- [ ] ("dylan" "zlib" "https://github.com/dylan-lang/zlib") ;nil
-- [ ] ("dylan" "testworks-specs" "https://github.com/dylan-lang/testworks-specs") ;nil
-- [ ] ("dylan" "testworks-report" "https://github.com/dylan-lang/testworks-report") ;nil
-- [ ] ("dylan" "priority-queue" "https://github.com/dylan-lang/priority-queue") ;nil
-- [ ] ("dylan" "xmpp-bot" "https://github.com/dylan-lang/xmpp-bot") ;nil
-- [ ] ("dylan" "xmpp" "https://github.com/dylan-lang/xmpp") ;nil
-- [ ] ("dylan" "turboblog" "https://github.com/dylan-lang/turboblog") ;nil
-- [ ] ("dylan" "inertia" "https://github.com/dylan-lang/inertia") ;nil
-- [ ] ("dylan" "graphviz-renderer" "https://github.com/dylan-lang/graphviz-renderer") ;nil
-- [ ] ("dylan" "graph-viewer" "https://github.com/dylan-lang/graph-viewer") ;nil
-- [ ] ("dylan" "wrapper-streams" "https://github.com/dylan-lang/wrapper-streams") ;nil
-- [ ] ("dylan" "skip-list" "https://github.com/dylan-lang/skip-list") ;nil
-- [ ] ("dylan" "collection-extensions" "https://github.com/dylan-lang/collection-extensions") ;nil
-- [ ] ("dylan" "matrix" "https://github.com/dylan-lang/matrix") ;nil
+- [ ] ("dylan" "Dylan: binary-data" "https://github.com/dylan-lang/binary-data") ;Dylan
+- [ ] ("dylan" "Dylan: melange" "https://github.com/dylan-lang/melange") ;Dylan
+- [ ] ("dylan" "Dylan: http" "https://github.com/dylan-lang/http") ;Dylan
+- [ ] ("dylan" "Dylan: hash-algorithms" "https://github.com/dylan-lang/hash-algorithms") ;C
+- [ ] ("dylan" "Dylan: testworks" "https://github.com/dylan-lang/testworks") ;Dylan
+- [ ] ("dylan" "Dylan: sphinx-extensions" "https://github.com/dylan-lang/sphinx-extensions") ;Python
+- [ ] ("dylan" "Dylan: logging" "https://github.com/dylan-lang/logging") ;Dylan
+- [ ] ("dylan" "Dylan: command-line-parser" "https://github.com/dylan-lang/command-line-parser") ;Dylan
+- [ ] ("dylan" "Dylan: dylan-programming-book" "https://github.com/dylan-lang/dylan-programming-book") ;Python
+- [ ] ("dylan" "Dylan: meta" "https://github.com/dylan-lang/meta") ;Dylan
+- [ ] ("dylan" "Dylan: xml-parser" "https://github.com/dylan-lang/xml-parser") ;Dylan
+- [ ] ("dylan" "Dylan: json" "https://github.com/dylan-lang/json") ;Dylan
+- [ ] ("dylan" "Dylan: regular-expressions" "https://github.com/dylan-lang/regular-expressions") ;Dylan
+- [ ] ("dylan" "Dylan: doctower" "https://github.com/dylan-lang/doctower") ;Dylan
+- [ ] ("dylan" "Dylan: shootout" "https://github.com/dylan-lang/shootout") ;Dylan
+- [ ] ("dylan" "Dylan: slot-visitor" "https://github.com/dylan-lang/slot-visitor") ;Dylan
+- [ ] ("dylan" "Dylan: template-engine" "https://github.com/dylan-lang/template-engine") ;Dylan
+- [ ] ("dylan" "Dylan: registry" "https://github.com/dylan-lang/registry") ;PHP
+- [ ] ("dylan" "Dylan: peg-parser" "https://github.com/dylan-lang/peg-parser") ;Dylan
+- [ ] ("dylan" "Dylan: base64" "https://github.com/dylan-lang/base64") ;Dylan
+- [ ] ("dylan" "Dylan: strings" "https://github.com/dylan-lang/strings") ;Dylan
+- [ ] ("dylan" "Dylan: mime" "https://github.com/dylan-lang/mime") ;Dylan
+- [ ] ("dylan" "Dylan: web-framework" "https://github.com/dylan-lang/web-framework") ;Dylan
+- [ ] ("dylan" "Dylan: wiki" "https://github.com/dylan-lang/wiki") ;Dylan
+- [ ] ("dylan" "Dylan: xml-rpc" "https://github.com/dylan-lang/xml-rpc") ;Dylan
+- [ ] ("dylan" "Dylan: uri" "https://github.com/dylan-lang/uri") ;Dylan
+- [ ] ("dylan" "Dylan: sequence-stream" "https://github.com/dylan-lang/sequence-stream") ;Dylan
+- [ ] ("dylan" "Dylan: dynamic-binding" "https://github.com/dylan-lang/dynamic-binding") ;Dylan
+- [X] ("dylan" "Dylan: lisp-to-dylan" "https://github.com/dylan-lang/lisp-to-dylan" "#43/g000001" "http://g000001.cddddr.org/3601119600") ;Dylan
+- [ ] ("dylan" "Dylan: uncommon-dylan" "https://github.com/dylan-lang/uncommon-dylan") ;Dylan
+- [ ] ("dylan" "Dylan: anaphora" "https://github.com/dylan-lang/anaphora") ;Dylan
+- [ ] ("dylan" "Dylan: dylan.tmbundle" "https://github.com/dylan-lang/dylan.tmbundle") ;nil
+- [ ] ("dylan" "Dylan: dylan-reference-manual" "https://github.com/dylan-lang/dylan-reference-manual") ;nil
+- [ ] ("dylan" "Dylan: web-ide-backend" "https://github.com/dylan-lang/web-ide-backend") ;Dylan
+- [ ] ("dylan" "Dylan: gui-testworks" "https://github.com/dylan-lang/gui-testworks") ;Dylan
+- [ ] ("dylan" "Dylan: monday" "https://github.com/dylan-lang/monday") ;Dylan
+- [ ] ("dylan" "Dylan: examples" "https://github.com/dylan-lang/examples") ;Java
+- [ ] ("dylan" "Dylan: zlib" "https://github.com/dylan-lang/zlib") ;nil
+- [ ] ("dylan" "Dylan: testworks-specs" "https://github.com/dylan-lang/testworks-specs") ;nil
+- [ ] ("dylan" "Dylan: testworks-report" "https://github.com/dylan-lang/testworks-report") ;nil
+- [ ] ("dylan" "Dylan: priority-queue" "https://github.com/dylan-lang/priority-queue") ;nil
+- [ ] ("dylan" "Dylan: xmpp-bot" "https://github.com/dylan-lang/xmpp-bot") ;nil
+- [ ] ("dylan" "Dylan: xmpp" "https://github.com/dylan-lang/xmpp") ;nil
+- [ ] ("dylan" "Dylan: turboblog" "https://github.com/dylan-lang/turboblog") ;nil
+- [ ] ("dylan" "Dylan: inertia" "https://github.com/dylan-lang/inertia") ;nil
+- [ ] ("dylan" "Dylan: graphviz-renderer" "https://github.com/dylan-lang/graphviz-renderer") ;nil
+- [ ] ("dylan" "Dylan: graph-viewer" "https://github.com/dylan-lang/graph-viewer") ;nil
+- [ ] ("dylan" "Dylan: wrapper-streams" "https://github.com/dylan-lang/wrapper-streams") ;nil
+- [ ] ("dylan" "Dylan: skip-list" "https://github.com/dylan-lang/skip-list") ;nil
+- [ ] ("dylan" "Dylan: collection-extensions" "https://github.com/dylan-lang/collection-extensions") ;nil
+- [ ] ("dylan" "Dylan: matrix" "https://github.com/dylan-lang/matrix") ;nil
 - [ ] ("LispWorks" "LispWorks: CLOS Package" "http://www.lispworks.com/documentation/lw61/LW/html/lw-559.htm#pgfId-886156")
 - [ ] ("LispWorks" "LispWorks: COMM Package" "http://www.lispworks.com/documentation/lw61/LW/html/lw-579.htm#pgfId-884490")
 - [ ] ("LispWorks" "LispWorks: COMMON-LISP Package" "http://www.lispworks.com/documentation/lw61/LW/html/lw-628.htm#pgfId-1038824")
@@ -2877,7 +2915,8 @@
 - [ ] ("Allegro CL" "Allegro CL: Errors" "http://www.franz.com/support/documentation/9.0/doc/errors.htm")
 - [ ] ("Allegro CL" "Allegro CL: Foreign Function Interface" "http://www.franz.com/support/documentation/9.0/doc/foreign-functions.htm")
 - [ ] ("Allegro CL" "Allegro CL: Foreign Types" "http://www.franz.com/support/documentation/9.0/doc/ftype.htm")
-- [ ] ("Allegro CL" "Allegro CL: Fwrapping and Advice" "http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm")
+- [X] ("Allegro CL" "Allegro CL: Fwrap" "http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm" "#111/g000001" "http://g000001.cddddr.org/3606994800")
+- [ ] ("Allegro CL" "Allegro CL: Advice" "http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm")
 - [ ] ("Allegro CL" "Allegro CL: Garbage Collection" "http://www.franz.com/support/documentation/9.0/doc/gc.htm")
 - [ ] ("Allegro CL" "Allegro CL: Gray Streams in Allegro CL" "http://www.franz.com/support/documentation/9.0/doc/gray-streams.htm")
 - [ ] ("Allegro CL" "Allegro CL: International Character Support in Allegro CL" "http://www.franz.com/support/documentation/9.0/doc/iacl.htm")
@@ -2909,3 +2948,82 @@
 - [ ] ("SBCL" "SBCL: Extensible Sequences" "http://www.sbcl.org/manual/index.html#Extensible-Sequences")
 - [ ] ("SBCL" "SBCL: Iterator Protocol" "http://www.sbcl.org/manual/index.html#Iterator-Protocol")
 - [ ] ("dorai" "ScmObj" "http://www.ccs.neu.edu/home/dorai/scmobj/scmobj.html")
+- [ ] ("CDR" "CDR 1: The CLOS Metaobject Protocol" "http://cdr.eurolisp.org/document/1/index.html" "")
+- [ ] ("CDR" "CDR 2: A generic hash table interface specification for Common Lisp" "http://cdr.eurolisp.org/document/2/index.html" "")
+- [ ] ("CDR" "CDR 3: Revisiting CONCATENATE-SEQUENCE" "http://cdr.eurolisp.org/document/3/index.html" "")
+- [ ] ("CDR" "CDR 5: Sub-interval Numerical Types for Common Lisp" "http://cdr.eurolisp.org/document/5/index.html" "")
+- [ ] ("CDR" "CDR 6: Inspector-Hook" "http://cdr.eurolisp.org/document/6/index.html" "")
+- [ ] ("CDR" "CDR 7: Clarification Proposal for CLHS Section 22.3" "http://cdr.eurolisp.org/document/7/index.html" "")
+- [ ] ("CDR" "CDR 8: Generic Equality and Comparison for Common Lisp" "http://cdr.eurolisp.org/document/8/index.html" "")
+- [ ] ("CDR" "CDR 9: File-local variables" "http://cdr.eurolisp.org/document/9/index.html" "")
+- [ ] ("CDR" "CDR 10: Functions COMPILED-FILE-P and ABI-VERSION" "http://cdr.eurolisp.org/document/10/index.html" "")
+- [ ] ("CDR" "CDR 11: Standard output streams default behavior in terminal sessions" "http://cdr.eurolisp.org/document/11/index.html" "")
+- [ ] ("CDR" "CDR 13: Priority Queues for Common Lisp" "http://cdr.eurolisp.org/document/13/index.html" "")
+- [ ] ("CDR" "CDR 14: Detecting Implementation of CDR's in Common Lisp Runtimes" "http://cdr.eurolisp.org/document/14/index.html" "")
+- [X] ("CLOCC" "CLOCC/cllib exporting" "" "#113/g000001" "http://g000001.cddddr.org/3607174800")
+- [ ] ("CLOCC" "CLOCC/cllib animals" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib autoload" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib base" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib base64" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib card" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib check" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib clhs" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib closio" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib csv" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib cvs" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib data" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib date" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib datedl" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib doall" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib elisp" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib fileio" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib fin" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib geo" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib getopt" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib gnuplot" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib gq" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib h2lisp" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib html" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib htmlgen" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib inspect" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib iter" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib laser" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib lift" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib list" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib log" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib math" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib matrix" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib miscprint" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib munkres" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib bayes" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib ocaml" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib prompt" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib rng" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib rpm" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib server" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib simple" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib sorted" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib stat" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib string" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib symb" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib tests" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib tilsla" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib url" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib withtype" "" "" "")
+- [ ] ("CLOCC" "CLOCC/cllib xml" "" "" "")
+- [ ] ("CLOCC" "CLOCC port" "" "" "")
+- [ ] ("CLOCC" "CLOCC screamer" "" "" "")
+- [ ] ("CLOCC" "CLOCC typedecl" "" "" "")
+- [ ] ("CLOCC" "CLOCC onlisp" "" "" "")
+- [ ] ("CLOCC" "CLOCC xp" "" "" "")
+- [ ] ("CLOCC" "CLOCC clue" "" "" "")
+- [ ] ("CLOCC" "CLOCC clx" "" "" "")
+- [ ] ("CLOCC" "CLOCC cil" "" "" "")
+- [ ] ("CLOCC" "CLOCC f2cl" "" "" "")
+- [ ] ("CLOCC" "CLOCC queues" "" "" "")
+- [ ] ("CLOCC" "CLOCC sequences" "" "" "")
+- [ ] ("CLOCC" "CLOCC union-find" "" "" "")
+- [ ] ("CLOCC" "CLOCC donc" "" "" "")
+- [ ] ("CLOCC" "CLOCC defsystem-3" "" "" "")
+- [ ] ("CLOCC" "CLOCC defsystem-4" "" "" "")
+- [ ] ("CLRFI" "featurep" "" "#119/g000001" "")

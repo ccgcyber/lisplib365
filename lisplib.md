@@ -2,6 +2,9 @@
 
 0. [ttf-ascii]() - misc
  - [http://g000001.cddddr.org/3563708490](http://g000001.cddddr.org/3563708490)
+0. [deftransform]() - Python compiler
+ - [#118/g000001](#118/g000001)
+ - [http://g000001.cddddr.org/3607599600](http://g000001.cddddr.org/3607599600)
 0. [braille-banner]() - misc
  - [http://g000001.cddddr.org/3564247803](http://g000001.cddddr.org/3564247803)
 0. [sytes]() - misc
@@ -50,6 +53,9 @@
 0. [macho]() - CL
  - [#78/g000001](#78/g000001)
  - [http://g000001.cddddr.org/3604143600](http://g000001.cddddr.org/3604143600)
+0. [3bmd]() - Quicklisp
+ - [#110/g000001](#110/g000001)
+ - [http://g000001.cddddr.org/3606976800](http://g000001.cddddr.org/3606976800)
 0. [alexandria]() - Quicklisp
  - [#1/g000001](#1/g000001)
  - [http://g000001.cddddr.org/3597490800](http://g000001.cddddr.org/3597490800)
@@ -73,9 +79,15 @@
  - [http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896](http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896)
 0. [chillax]() - Quicklisp
  - [http://qiita.com/l_libra/items/a7b13e033fc699c3abc9](http://qiita.com/l_libra/items/a7b13e033fc699c3abc9)
+0. [chtml-matcher]() - Quicklisp
+ - [#112/g000001](#112/g000001)
+ - [http://g000001.cddddr.org/3607081200](http://g000001.cddddr.org/3607081200)
 0. [cl-anonfun]() - Quicklisp
  - [#80/g000001](#80/g000001)
  - [http://g000001.cddddr.org/3604316400](http://g000001.cddddr.org/3604316400)
+0. [cl-api]() - Quicklisp
+ - [#103/g000001](#103/g000001)
+ - [http://g000001.cddddr.org/3606303600](http://g000001.cddddr.org/3606303600)
 0. [cl-closure-template]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39](http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39)
 0. [cl-date-time-parser]() - Quicklisp
@@ -102,6 +114,9 @@
  - [http://g000001.cddddr.org/3605698800](http://g000001.cddddr.org/3605698800)
 0. [cl-haml]() - Quicklisp
  - [http://blog.hiyamugi.net/2012/12/23/0001](http://blog.hiyamugi.net/2012/12/23/0001)
+0. [cl-hooks]() - Quicklisp
+ - [#117/g000001](#117/g000001)
+ - [http://g000001.cddddr.org/3607513200](http://g000001.cddddr.org/3607513200)
 0. [cl-irregsexp]() - Quicklisp
  - [http://tips.lisp-users.org/common-lisp/index.cgi?cl-irregsexp](http://tips.lisp-users.org/common-lisp/index.cgi?cl-irregsexp)
 0. [cl-lastfm]() - Quicklisp
@@ -113,6 +128,9 @@
 0. [cl-m4]() - Quicklisp
  - [#53/g000001](#53/g000001)
  - [http://g000001.cddddr.org/3601983600](http://g000001.cddddr.org/3601983600)
+0. [cl-markdown]() - Quicklisp
+ - [#109/g000001](#109/g000001)
+ - [http://g000001.cddddr.org/3606872400](http://g000001.cddddr.org/3606872400)
 0. [cl-markup]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab](http://qiita.com/nitro_idiot/items/5422a37de55c3b568cab)
 0. [cl-mustache]() - Quicklisp
@@ -127,8 +145,14 @@
  - [http://cl.cddddr.org/index.cgi?CL-PPCRE](http://cl.cddddr.org/index.cgi?CL-PPCRE)
 0. [cl-prevalence]() - Quicklisp
  - [http://lispuser.net/commonlisp/cl-prevalence.html](http://lispuser.net/commonlisp/cl-prevalence.html)
+0. [cl-rss]() - Quicklisp
+ - [#108/g000001](#108/g000001)
+ - [http://g000001.cddddr.org/3606739200](http://g000001.cddddr.org/3606739200)
 0. [cl-string-complete]() - Quicklisp
  - [http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525](http://qiita.com/nitro_idiot/items/3d3ed48f57db065f8525)
+0. [cl-string-match]() - Quicklisp
+ - [#104/g000001](#104/g000001)
+ - [http://g000001.cddddr.org/3606390000](http://g000001.cddddr.org/3606390000)
 0. [cl-test-more](https://github.com/fukamachi/cl-test-more) - Quicklisp
  - [http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE](http://tips.lisp-users.org/common-lisp/index.cgi?CL-TEST-MORE)
 0. [cl-utilities]() - Quicklisp
@@ -323,6 +347,9 @@
 0. [temporary-file]() - Quicklisp
  - [#20/g000001](#20/g000001)
  - [http://g000001.cddddr.org/3599132400](http://g000001.cddddr.org/3599132400)
+0. [tinaa]() - Quicklisp
+ - [#115/g000001](#115/g000001)
+ - [http://g000001.cddddr.org/3607349400](http://g000001.cddddr.org/3607349400)
 0. [toadstool]() - Quicklisp
  - [#10/g000001](#10/g000001)
  - [http://g000001.cddddr.org/3598268400](http://g000001.cddddr.org/3598268400)
@@ -346,18 +373,21 @@
  - [http://blog.hiyamugi.net/2012/12/07/0001](http://blog.hiyamugi.net/2012/12/07/0001)
 0. [code/bench/gabriel/]() - cmu-ai-repos
  - [#=Gabriel Benchmarks](#=Gabriel Benchmarks)
-0. [code/match/miranda/select.cl]() - cmu-ai-repos
+0. [sloop]() - cmu-ai-repos
+ - [#107/g000001](#107/g000001)
+ - [http://g000001.cddddr.org/3606649200](http://g000001.cddddr.org/3606649200)
+0. [select-match]() - cmu-ai-repos
  - [#85/g000001](#85/g000001)
  - [http://g000001.cddddr.org/3604748400](http://g000001.cddddr.org/3604748400)
 0. [code/testing/rt/]() - cmu-ai-repos
  - [#=rt](#=rt)
-0. [oop/clos/closette/]() - cmu-ai-repos
+0. [closette]() - cmu-ai-repos
  - [#18/g000001](#18/g000001)
  - [http://g000001.cddddr.org/3598959600](http://g000001.cddddr.org/3598959600)
-0. [oop/non_clos/artificial-flavors]() - cmu-ai-repos
+0. [artificial-flavors]() - cmu-ai-repos
  - [#49/g000001](#49/g000001)
  - [http://g000001.cddddr.org/3601638000](http://g000001.cddddr.org/3601638000)
-0. [oop/non_clos/cool/]() - cmu-ai-repos
+0. [cool]() - cmu-ai-repos
  - [#56/g000001](#56/g000001)
  - [http://g000001.cddddr.org/3602242800](http://g000001.cddddr.org/3602242800)
 0. [srfi-0](http://srfi.schemers.org/srfi-0/) - srfi
@@ -386,8 +416,10 @@
  - [http://compassoftime.blogspot.jp/2014/04/srfi-9.html](http://compassoftime.blogspot.jp/2014/04/srfi-9.html)
 0. [srfi-10](http://srfi.schemers.org/srfi-10/) - srfi
  - [#102/tk_riple](#102/tk_riple)
+ - [http://compassoftime.blogspot.jp/2014/04/srfi-10.html](http://compassoftime.blogspot.jp/2014/04/srfi-10.html)
 0. [srfi-11](http://srfi.schemers.org/srfi-11/) - srfi
  - [#116/tk_riple](#116/tk_riple)
+ - [http://compassoftime.blogspot.jp/2014/04/srfi-11.html](http://compassoftime.blogspot.jp/2014/04/srfi-11.html)
 0. [srfi-110](http://srfi.schemers.org/srfi-110/) - srfi
  - [#=readable](#=readable)
 0. [snow: list](http://snow.iro.umontreal.ca/?viewpkg=list) - snow
@@ -396,6 +428,9 @@
 0. [Macro by Example](http://people.csail.mit.edu/jaffer/slib/Macro-by-Example.html#Macro-by-Example) - slib
  - [#50/g000001](#50/g000001)
  - [http://g000001.cddddr.org/3601724400](http://g000001.cddddr.org/3601724400)
+0. [text.progress](http://practical-scheme.net/gauche/man/?l=jp&p=text.progress) - gauche
+ - [#105/g000001](#105/g000001)
+ - [http://g000001.cddddr.org/3606476400](http://g000001.cddddr.org/3606476400)
 0. [gauche.mop.propagate](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate) - gauche
  - [http://blog.practical-scheme.net/shiro/20131208-propagated-slot](http://blog.practical-scheme.net/shiro/20131208-propagated-slot)
 0. [gauche.mop.validator](http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.validator) - gauche
@@ -425,11 +460,20 @@
 0. [eggs: s](http://wiki.call-cc.org/eggref/4/s) - eggs
  - [#75/g000001](#75/g000001)
  - [http://g000001.cddddr.org/3603941100](http://g000001.cddddr.org/3603941100)
+0. [eggs: advice](http://wiki.call-cc.org/eggref/4/advice) - eggs
+ - [#114/g000001](#114/g000001)
+ - [http://g000001.cddddr.org/3607255800](http://g000001.cddddr.org/3607255800)
+0. [eggs: progress-indicators](http://wiki.call-cc.org/eggref/4/progress-indicators) - eggs
+ - [#106/g000001](#106/g000001)
+ - [http://g000001.cddddr.org/3606562800](http://g000001.cddddr.org/3606562800)
 0. [code/misc/gabriel-scm.tar.gz](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/misc/gabriel-scm.tar.gz) - scheme-repos
  - [#=Gabriel Benchmarks](#=Gabriel Benchmarks)
-0. [lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
+0. [Dylan: lisp-to-dylan](https://github.com/dylan-lang/lisp-to-dylan) - dylan
  - [#43/g000001](#43/g000001)
  - [http://g000001.cddddr.org/3601119600](http://g000001.cddddr.org/3601119600)
+0. [Allegro CL: Fwrap](http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm) - Allegro CL
+ - [#111/g000001](#111/g000001)
+ - [http://g000001.cddddr.org/3606994800](http://g000001.cddddr.org/3606994800)
 0. [Allegro CL: String utility functions in  Allegro CL](http://www.franz.com/support/documentation/9.0/doc/string-utilities.htm) - Allegro CL
  - [#83/g000001](#83/g000001)
  - [http://g000001.cddddr.org/3604575600](http://g000001.cddddr.org/3604575600)
@@ -440,6 +484,9 @@
  - [#75/g000001](#75/g000001)
 0. [mbe]() - misc
  - [#50/g000001](#50/g000001)
+0. [CLOCC/cllib exporting]() - CLOCC
+ - [#113/g000001](#113/g000001)
+ - [http://g000001.cddddr.org/3607174800](http://g000001.cddddr.org/3607174800)
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
@@ -464,8 +511,6 @@
 0. [cl-glfw]() - Quicklisp
  - g000001が書く予定
 0. [cl-irc-0.9.1]() - Quicklisp
- - g000001が書く予定
-0. [cl-markdown]() - Quicklisp
  - g000001が書く予定
 0. [cl-unicode-0.1.4]() - Quicklisp
  - g000001が書く予定
@@ -565,9 +610,45 @@
 0. [imho]() - misc
 0. [defenum](http://defenum.sourceforge.net/) - misc
 0. [common-idioms](http://www.cliki.net/common-idioms) - misc
+0. [asdf-linguist]() - Quicklisp
+0. [cl-base58]() - Quicklisp
+0. [cl-data-frame]() - Quicklisp
+0. [cl-influxdb]() - Quicklisp
+0. [cl-logic]() - Quicklisp
+0. [cl-slp]() - Quicklisp
+0. [cl-splicing-macro]() - Quicklisp
+0. [colleen]() - Quicklisp
+0. [crane]() - Quicklisp
+0. [dartsclmessagepack]() - Quicklisp
+0. [datafly]() - Quicklisp
+0. [lol-re]() - Quicklisp
+0. [packet]() - Quicklisp
+0. [piping]() - Quicklisp
+0. [plump]() - Quicklisp
+0. [sdl2kit]() - Quicklisp
+0. [verbose]() - Quicklisp
 0. [3b-swf]() - Quicklisp
+0. [chirp]() - Quicklisp
+0. [cl-flowd]() - Quicklisp
+0. [defvariant]() - Quicklisp
+0. [delta-debug]() - Quicklisp
+0. [random]() - Quicklisp
+0. [architecture.service-provider]() - Quicklisp
+0. [cl-ana]() - Quicklisp
+0. [cl-cron]() - Quicklisp
+0. [cl-sdl2]() - Quicklisp
+0. [cl-yaclyaml]() - Quicklisp
+0. [define-json-expander]() - Quicklisp
+0. [esrap-liquid]() - Quicklisp
+0. [hermetic]() - Quicklisp
+0. [hu.dwim.web-server]() - Quicklisp
+0. [integral]() - Quicklisp
+0. [montezuma]() - Quicklisp
+0. [projectured]() - Quicklisp
+0. [secret-values]() - Quicklisp
+0. [swap-bytes]() - Quicklisp
+0. [trivial-download]() - Quicklisp
 0. [3bil]() - Quicklisp
-0. [3bmd]() - Quicklisp
 0. [able]() - Quicklisp
 0. [access]() - Quicklisp
 0. [advanced-readtable]() - Quicklisp
@@ -624,7 +705,6 @@
 0. [chemical-compounds-1.0.2]() - Quicklisp
 0. [chipz]() - Quicklisp
 0. [chronicity]() - Quicklisp
-0. [chtml-matcher]() - Quicklisp
 0. [chunga]() - Quicklisp
 0. [circular-streams]() - Quicklisp
 0. [city-hash]() - Quicklisp
@@ -635,7 +715,6 @@
 0. [cl-algebraic-data-type]() - Quicklisp
 0. [cl-annot]() - Quicklisp
 0. [cl-ansi-text]() - Quicklisp
-0. [cl-api]() - Quicklisp
 0. [cl-apple-plist]() - Quicklisp
 0. [cl-arff-parser]() - Quicklisp
 0. [cl-arrows]() - Quicklisp
@@ -724,7 +803,6 @@
 0. [cl-gtk2]() - Quicklisp
 0. [cl-heap-0.1.6]() - Quicklisp
 0. [cl-heredoc]() - Quicklisp
-0. [cl-hooks]() - Quicklisp
 0. [cl-html-diff]() - Quicklisp
 0. [cl-html-parse]() - Quicklisp
 0. [cl-html5-parser]() - Quicklisp
@@ -828,7 +906,6 @@
 0. [cl-routes]() - Quicklisp
 0. [cl-rrd]() - Quicklisp
 0. [cl-rrt]() - Quicklisp
-0. [cl-rss]() - Quicklisp
 0. [cl-rsvg2]() - Quicklisp
 0. [cl-s3]() - Quicklisp
 0. [cl-sam]() - Quicklisp
@@ -854,7 +931,6 @@
 0. [cl-stomp]() - Quicklisp
 0. [cl-stopwatch]() - Quicklisp
 0. [cl-store]() - Quicklisp
-0. [cl-string-match]() - Quicklisp
 0. [cl-svg]() - Quicklisp
 0. [cl-svm]() - Quicklisp
 0. [cl-swap-file-0.5]() - Quicklisp
@@ -1324,7 +1400,6 @@
 0. [thread-pool]() - Quicklisp
 0. [thread.comm.rendezvous]() - Quicklisp
 0. [time-interval]() - Quicklisp
-0. [tinaa]() - Quicklisp
 0. [toot]() - Quicklisp
 0. [torta]() - Quicklisp
 0. [towers]() - Quicklisp
@@ -1443,7 +1518,6 @@
 0. [code/iter/loop/cmu/]() - cmu-ai-repos
 0. [code/iter/loop/mit/]() - cmu-ai-repos
 0. [code/iter/loop/mit/original/]() - cmu-ai-repos
-0. [code/iter/loop/sloop/]() - cmu-ai-repos
 0. [code/iter/loop/symbolix/]() - cmu-ai-repos
 0. [code/iter/loop/yloop/]() - cmu-ai-repos
 0. [code/match/matcher/]() - cmu-ai-repos
@@ -1819,7 +1893,6 @@
 0. [text.gettext](http://practical-scheme.net/gauche/man/?l=jp&p=text.gettext) - gauche
 0. [text.html-lite](http://practical-scheme.net/gauche/man/?l=jp&p=text.html-lite) - gauche
 0. [text.parse](http://practical-scheme.net/gauche/man/?l=jp&p=text.parse) - gauche
-0. [text.progress](http://practical-scheme.net/gauche/man/?l=jp&p=text.progress) - gauche
 0. [text.sql](http://practical-scheme.net/gauche/man/?l=jp&p=text.sql) - gauche
 0. [text.tr](http://practical-scheme.net/gauche/man/?l=jp&p=text.tr) - gauche
 0. [text.tree](http://practical-scheme.net/gauche/man/?l=jp&p=text.tree) - gauche
@@ -2977,7 +3050,6 @@
 0. [eggs: miniML](http://wiki.call-cc.org/eggref/4/miniML) - eggs
 0. [eggs: sassy](http://wiki.call-cc.org/eggref/4/sassy) - eggs
 0. [eggs: inclub](http://wiki.call-cc.org/eggref/4/inclub) - eggs
-0. [eggs: advice](http://wiki.call-cc.org/eggref/4/advice) - eggs
 0. [eggs: apropos](http://wiki.call-cc.org/eggref/4/apropos) - eggs
 0. [eggs: args](http://wiki.call-cc.org/eggref/4/args) - eggs
 0. [eggs: big-chicken](http://wiki.call-cc.org/eggref/4/big-chicken) - eggs
@@ -3008,7 +3080,6 @@
 0. [eggs: posix-utils](http://wiki.call-cc.org/eggref/4/posix-utils) - eggs
 0. [eggs: proccpuinfo](http://wiki.call-cc.org/eggref/4/proccpuinfo) - eggs
 0. [eggs: procedure-decoration](http://wiki.call-cc.org/eggref/4/procedure-decoration) - eggs
-0. [eggs: progress-indicators](http://wiki.call-cc.org/eggref/4/progress-indicators) - eggs
 0. [eggs: regex](http://wiki.call-cc.org/eggref/4/regex) - eggs
 0. [eggs: s48-modules](http://wiki.call-cc.org/eggref/4/s48-modules) - eggs
 0. [eggs: scheme2c-compatibility](http://wiki.call-cc.org/eggref/4/scheme2c-compatibility) - eggs
@@ -3150,56 +3221,56 @@
 0. [code/sys/mawk.tar.gz](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/sys/mawk.tar.gz) - scheme-repos
 0. [code/sys/pathname.tar.gz](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/sys/pathname.tar.gz) - scheme-repos
 0. [code/sys/tail-f.tar.gz](ftp://ftp.gr.freebsd.org/pub/lang/scheme/code/sys/tail-f.tar.gz) - scheme-repos
-0. [binary-data](https://github.com/dylan-lang/binary-data) - dylan
-0. [melange](https://github.com/dylan-lang/melange) - dylan
-0. [http](https://github.com/dylan-lang/http) - dylan
-0. [hash-algorithms](https://github.com/dylan-lang/hash-algorithms) - dylan
-0. [testworks](https://github.com/dylan-lang/testworks) - dylan
-0. [sphinx-extensions](https://github.com/dylan-lang/sphinx-extensions) - dylan
-0. [logging](https://github.com/dylan-lang/logging) - dylan
-0. [command-line-parser](https://github.com/dylan-lang/command-line-parser) - dylan
-0. [dylan-programming-book](https://github.com/dylan-lang/dylan-programming-book) - dylan
-0. [meta](https://github.com/dylan-lang/meta) - dylan
-0. [xml-parser](https://github.com/dylan-lang/xml-parser) - dylan
-0. [json](https://github.com/dylan-lang/json) - dylan
-0. [regular-expressions](https://github.com/dylan-lang/regular-expressions) - dylan
-0. [doctower](https://github.com/dylan-lang/doctower) - dylan
-0. [shootout](https://github.com/dylan-lang/shootout) - dylan
-0. [slot-visitor](https://github.com/dylan-lang/slot-visitor) - dylan
-0. [template-engine](https://github.com/dylan-lang/template-engine) - dylan
-0. [registry](https://github.com/dylan-lang/registry) - dylan
-0. [peg-parser](https://github.com/dylan-lang/peg-parser) - dylan
-0. [base64](https://github.com/dylan-lang/base64) - dylan
-0. [strings](https://github.com/dylan-lang/strings) - dylan
-0. [mime](https://github.com/dylan-lang/mime) - dylan
-0. [web-framework](https://github.com/dylan-lang/web-framework) - dylan
-0. [wiki](https://github.com/dylan-lang/wiki) - dylan
-0. [xml-rpc](https://github.com/dylan-lang/xml-rpc) - dylan
-0. [uri](https://github.com/dylan-lang/uri) - dylan
-0. [sequence-stream](https://github.com/dylan-lang/sequence-stream) - dylan
-0. [dynamic-binding](https://github.com/dylan-lang/dynamic-binding) - dylan
-0. [uncommon-dylan](https://github.com/dylan-lang/uncommon-dylan) - dylan
-0. [anaphora](https://github.com/dylan-lang/anaphora) - dylan
-0. [dylan.tmbundle](https://github.com/dylan-lang/dylan.tmbundle) - dylan
-0. [dylan-reference-manual](https://github.com/dylan-lang/dylan-reference-manual) - dylan
-0. [web-ide-backend](https://github.com/dylan-lang/web-ide-backend) - dylan
-0. [gui-testworks](https://github.com/dylan-lang/gui-testworks) - dylan
-0. [monday](https://github.com/dylan-lang/monday) - dylan
-0. [examples](https://github.com/dylan-lang/examples) - dylan
-0. [zlib](https://github.com/dylan-lang/zlib) - dylan
-0. [testworks-specs](https://github.com/dylan-lang/testworks-specs) - dylan
-0. [testworks-report](https://github.com/dylan-lang/testworks-report) - dylan
-0. [priority-queue](https://github.com/dylan-lang/priority-queue) - dylan
-0. [xmpp-bot](https://github.com/dylan-lang/xmpp-bot) - dylan
-0. [xmpp](https://github.com/dylan-lang/xmpp) - dylan
-0. [turboblog](https://github.com/dylan-lang/turboblog) - dylan
-0. [inertia](https://github.com/dylan-lang/inertia) - dylan
-0. [graphviz-renderer](https://github.com/dylan-lang/graphviz-renderer) - dylan
-0. [graph-viewer](https://github.com/dylan-lang/graph-viewer) - dylan
-0. [wrapper-streams](https://github.com/dylan-lang/wrapper-streams) - dylan
-0. [skip-list](https://github.com/dylan-lang/skip-list) - dylan
-0. [collection-extensions](https://github.com/dylan-lang/collection-extensions) - dylan
-0. [matrix](https://github.com/dylan-lang/matrix) - dylan
+0. [Dylan: binary-data](https://github.com/dylan-lang/binary-data) - dylan
+0. [Dylan: melange](https://github.com/dylan-lang/melange) - dylan
+0. [Dylan: http](https://github.com/dylan-lang/http) - dylan
+0. [Dylan: hash-algorithms](https://github.com/dylan-lang/hash-algorithms) - dylan
+0. [Dylan: testworks](https://github.com/dylan-lang/testworks) - dylan
+0. [Dylan: sphinx-extensions](https://github.com/dylan-lang/sphinx-extensions) - dylan
+0. [Dylan: logging](https://github.com/dylan-lang/logging) - dylan
+0. [Dylan: command-line-parser](https://github.com/dylan-lang/command-line-parser) - dylan
+0. [Dylan: dylan-programming-book](https://github.com/dylan-lang/dylan-programming-book) - dylan
+0. [Dylan: meta](https://github.com/dylan-lang/meta) - dylan
+0. [Dylan: xml-parser](https://github.com/dylan-lang/xml-parser) - dylan
+0. [Dylan: json](https://github.com/dylan-lang/json) - dylan
+0. [Dylan: regular-expressions](https://github.com/dylan-lang/regular-expressions) - dylan
+0. [Dylan: doctower](https://github.com/dylan-lang/doctower) - dylan
+0. [Dylan: shootout](https://github.com/dylan-lang/shootout) - dylan
+0. [Dylan: slot-visitor](https://github.com/dylan-lang/slot-visitor) - dylan
+0. [Dylan: template-engine](https://github.com/dylan-lang/template-engine) - dylan
+0. [Dylan: registry](https://github.com/dylan-lang/registry) - dylan
+0. [Dylan: peg-parser](https://github.com/dylan-lang/peg-parser) - dylan
+0. [Dylan: base64](https://github.com/dylan-lang/base64) - dylan
+0. [Dylan: strings](https://github.com/dylan-lang/strings) - dylan
+0. [Dylan: mime](https://github.com/dylan-lang/mime) - dylan
+0. [Dylan: web-framework](https://github.com/dylan-lang/web-framework) - dylan
+0. [Dylan: wiki](https://github.com/dylan-lang/wiki) - dylan
+0. [Dylan: xml-rpc](https://github.com/dylan-lang/xml-rpc) - dylan
+0. [Dylan: uri](https://github.com/dylan-lang/uri) - dylan
+0. [Dylan: sequence-stream](https://github.com/dylan-lang/sequence-stream) - dylan
+0. [Dylan: dynamic-binding](https://github.com/dylan-lang/dynamic-binding) - dylan
+0. [Dylan: uncommon-dylan](https://github.com/dylan-lang/uncommon-dylan) - dylan
+0. [Dylan: anaphora](https://github.com/dylan-lang/anaphora) - dylan
+0. [Dylan: dylan.tmbundle](https://github.com/dylan-lang/dylan.tmbundle) - dylan
+0. [Dylan: dylan-reference-manual](https://github.com/dylan-lang/dylan-reference-manual) - dylan
+0. [Dylan: web-ide-backend](https://github.com/dylan-lang/web-ide-backend) - dylan
+0. [Dylan: gui-testworks](https://github.com/dylan-lang/gui-testworks) - dylan
+0. [Dylan: monday](https://github.com/dylan-lang/monday) - dylan
+0. [Dylan: examples](https://github.com/dylan-lang/examples) - dylan
+0. [Dylan: zlib](https://github.com/dylan-lang/zlib) - dylan
+0. [Dylan: testworks-specs](https://github.com/dylan-lang/testworks-specs) - dylan
+0. [Dylan: testworks-report](https://github.com/dylan-lang/testworks-report) - dylan
+0. [Dylan: priority-queue](https://github.com/dylan-lang/priority-queue) - dylan
+0. [Dylan: xmpp-bot](https://github.com/dylan-lang/xmpp-bot) - dylan
+0. [Dylan: xmpp](https://github.com/dylan-lang/xmpp) - dylan
+0. [Dylan: turboblog](https://github.com/dylan-lang/turboblog) - dylan
+0. [Dylan: inertia](https://github.com/dylan-lang/inertia) - dylan
+0. [Dylan: graphviz-renderer](https://github.com/dylan-lang/graphviz-renderer) - dylan
+0. [Dylan: graph-viewer](https://github.com/dylan-lang/graph-viewer) - dylan
+0. [Dylan: wrapper-streams](https://github.com/dylan-lang/wrapper-streams) - dylan
+0. [Dylan: skip-list](https://github.com/dylan-lang/skip-list) - dylan
+0. [Dylan: collection-extensions](https://github.com/dylan-lang/collection-extensions) - dylan
+0. [Dylan: matrix](https://github.com/dylan-lang/matrix) - dylan
 0. [LispWorks: CLOS Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-559.htm#pgfId-886156) - LispWorks
 0. [LispWorks: COMM Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-579.htm#pgfId-884490) - LispWorks
 0. [LispWorks: COMMON-LISP Package](http://www.lispworks.com/documentation/lw61/LW/html/lw-628.htm#pgfId-1038824) - LispWorks
@@ -3223,7 +3294,7 @@
 0. [Allegro CL: Errors](http://www.franz.com/support/documentation/9.0/doc/errors.htm) - Allegro CL
 0. [Allegro CL: Foreign Function Interface](http://www.franz.com/support/documentation/9.0/doc/foreign-functions.htm) - Allegro CL
 0. [Allegro CL: Foreign Types](http://www.franz.com/support/documentation/9.0/doc/ftype.htm) - Allegro CL
-0. [Allegro CL: Fwrapping and Advice](http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm) - Allegro CL
+0. [Allegro CL: Advice](http://www.franz.com/support/documentation/9.0/doc/fwrappers-and-advice.htm) - Allegro CL
 0. [Allegro CL: Garbage Collection](http://www.franz.com/support/documentation/9.0/doc/gc.htm) - Allegro CL
 0. [Allegro CL: Gray Streams in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/gray-streams.htm) - Allegro CL
 0. [Allegro CL: International Character Support in Allegro CL](http://www.franz.com/support/documentation/9.0/doc/iacl.htm) - Allegro CL
@@ -3251,3 +3322,82 @@
 0. [SBCL: Extensible Sequences](http://www.sbcl.org/manual/index.html#Extensible-Sequences) - SBCL
 0. [SBCL: Iterator Protocol](http://www.sbcl.org/manual/index.html#Iterator-Protocol) - SBCL
 0. [ScmObj](http://www.ccs.neu.edu/home/dorai/scmobj/scmobj.html) - dorai
+0. [CDR 1: The CLOS Metaobject Protocol](http://cdr.eurolisp.org/document/1/index.html) - CDR
+0. [CDR 2: A generic hash table interface specification for Common Lisp](http://cdr.eurolisp.org/document/2/index.html) - CDR
+0. [CDR 3: Revisiting CONCATENATE-SEQUENCE](http://cdr.eurolisp.org/document/3/index.html) - CDR
+0. [CDR 5: Sub-interval Numerical Types for Common Lisp](http://cdr.eurolisp.org/document/5/index.html) - CDR
+0. [CDR 6: Inspector-Hook](http://cdr.eurolisp.org/document/6/index.html) - CDR
+0. [CDR 7: Clarification Proposal for CLHS Section 22.3](http://cdr.eurolisp.org/document/7/index.html) - CDR
+0. [CDR 8: Generic Equality and Comparison for Common Lisp](http://cdr.eurolisp.org/document/8/index.html) - CDR
+0. [CDR 9: File-local variables](http://cdr.eurolisp.org/document/9/index.html) - CDR
+0. [CDR 10: Functions COMPILED-FILE-P and ABI-VERSION](http://cdr.eurolisp.org/document/10/index.html) - CDR
+0. [CDR 11: Standard output streams default behavior in terminal sessions](http://cdr.eurolisp.org/document/11/index.html) - CDR
+0. [CDR 13: Priority Queues for Common Lisp](http://cdr.eurolisp.org/document/13/index.html) - CDR
+0. [CDR 14: Detecting Implementation of CDR's in Common Lisp Runtimes](http://cdr.eurolisp.org/document/14/index.html) - CDR
+0. [CLOCC/cllib animals]() - CLOCC
+0. [CLOCC/cllib autoload]() - CLOCC
+0. [CLOCC/cllib base]() - CLOCC
+0. [CLOCC/cllib base64]() - CLOCC
+0. [CLOCC/cllib card]() - CLOCC
+0. [CLOCC/cllib check]() - CLOCC
+0. [CLOCC/cllib clhs]() - CLOCC
+0. [CLOCC/cllib closio]() - CLOCC
+0. [CLOCC/cllib csv]() - CLOCC
+0. [CLOCC/cllib cvs]() - CLOCC
+0. [CLOCC/cllib data]() - CLOCC
+0. [CLOCC/cllib date]() - CLOCC
+0. [CLOCC/cllib datedl]() - CLOCC
+0. [CLOCC/cllib doall]() - CLOCC
+0. [CLOCC/cllib elisp]() - CLOCC
+0. [CLOCC/cllib fileio]() - CLOCC
+0. [CLOCC/cllib fin]() - CLOCC
+0. [CLOCC/cllib geo]() - CLOCC
+0. [CLOCC/cllib getopt]() - CLOCC
+0. [CLOCC/cllib gnuplot]() - CLOCC
+0. [CLOCC/cllib gq]() - CLOCC
+0. [CLOCC/cllib h2lisp]() - CLOCC
+0. [CLOCC/cllib html]() - CLOCC
+0. [CLOCC/cllib htmlgen]() - CLOCC
+0. [CLOCC/cllib inspect]() - CLOCC
+0. [CLOCC/cllib iter]() - CLOCC
+0. [CLOCC/cllib laser]() - CLOCC
+0. [CLOCC/cllib lift]() - CLOCC
+0. [CLOCC/cllib list]() - CLOCC
+0. [CLOCC/cllib log]() - CLOCC
+0. [CLOCC/cllib math]() - CLOCC
+0. [CLOCC/cllib matrix]() - CLOCC
+0. [CLOCC/cllib miscprint]() - CLOCC
+0. [CLOCC/cllib munkres]() - CLOCC
+0. [CLOCC/cllib bayes]() - CLOCC
+0. [CLOCC/cllib ocaml]() - CLOCC
+0. [CLOCC/cllib prompt]() - CLOCC
+0. [CLOCC/cllib rng]() - CLOCC
+0. [CLOCC/cllib rpm]() - CLOCC
+0. [CLOCC/cllib server]() - CLOCC
+0. [CLOCC/cllib simple]() - CLOCC
+0. [CLOCC/cllib sorted]() - CLOCC
+0. [CLOCC/cllib stat]() - CLOCC
+0. [CLOCC/cllib string]() - CLOCC
+0. [CLOCC/cllib symb]() - CLOCC
+0. [CLOCC/cllib tests]() - CLOCC
+0. [CLOCC/cllib tilsla]() - CLOCC
+0. [CLOCC/cllib url]() - CLOCC
+0. [CLOCC/cllib withtype]() - CLOCC
+0. [CLOCC/cllib xml]() - CLOCC
+0. [CLOCC port]() - CLOCC
+0. [CLOCC screamer]() - CLOCC
+0. [CLOCC typedecl]() - CLOCC
+0. [CLOCC onlisp]() - CLOCC
+0. [CLOCC xp]() - CLOCC
+0. [CLOCC clue]() - CLOCC
+0. [CLOCC clx]() - CLOCC
+0. [CLOCC cil]() - CLOCC
+0. [CLOCC f2cl]() - CLOCC
+0. [CLOCC queues]() - CLOCC
+0. [CLOCC sequences]() - CLOCC
+0. [CLOCC union-find]() - CLOCC
+0. [CLOCC donc]() - CLOCC
+0. [CLOCC defsystem-3]() - CLOCC
+0. [CLOCC defsystem-4]() - CLOCC
+0. [featurep]() - CLRFI
+ - [#119/g000001](#119/g000001)
