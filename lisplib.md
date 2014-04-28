@@ -288,7 +288,6 @@
 0. [ningle](http://fukamachi.github.com/ningle/) - Quicklisp
  - [http://blog.8arrow.org/entry/20120403/1333455934](http://blog.8arrow.org/entry/20120403/1333455934)
 0. [nst-4.0.1]() - Quicklisp
- - [@g000001](@g000001)
 0. [optima]() - Quicklisp
  - [http://qiita.com/m2ym/items/a2e00c79984750958e8a](http://qiita.com/m2ym/items/a2e00c79984750958e8a)
 0. [package-renaming]() - Quicklisp
@@ -312,7 +311,6 @@
  - [#100/g000001](#100/g000001)
  - [http://g000001.cddddr.org/3606044400](http://g000001.cddddr.org/3606044400)
 0. [quid-pro-quo]() - Quicklisp
- - [@g000001](@g000001)
 0. [readable/srfi 110]() - Quicklisp
  - [#73/g000001](#73/g000001)
  - [http://g000001.cddddr.org/3603711600](http://g000001.cddddr.org/3603711600)
@@ -490,121 +488,13 @@
 
 ## 誰かが書く紹介を書く予定のライブラリ
 
-0. [lisp-critic]() - misc
- - g000001が書く予定
-0. [cl-audioscrobbler]() - misc
- - g000001が書く予定
-0. [cl-sparsematrix]() - misc
- - g000001が書く予定
-0. [loop]() - misc
- - g000001が書く予定
-0. [asn.1-4.14]() - Quicklisp
- - g000001が書く予定
-0. [beirc]() - Quicklisp
- - g000001が書く予定
-0. [bordeaux-threads-0.8.3]() - Quicklisp
- - g000001が書く予定
-0. [cells]() - Quicklisp
- - g000001が書く予定
-0. [cells-gtk3]() - Quicklisp
- - g000001が書く予定
-0. [cl-glfw]() - Quicklisp
- - g000001が書く予定
-0. [cl-irc-0.9.1]() - Quicklisp
- - g000001が書く予定
-0. [cl-unicode-0.1.4]() - Quicklisp
- - g000001が書く予定
-0. [cl-unification]() - Quicklisp
- - g000001が書く予定
-0. [climacs]() - Quicklisp
- - g000001が書く予定
-0. [clpython]() - Quicklisp
- - g000001が書く予定
-0. [com.informatimago]() - Quicklisp
- - g000001が書く予定
-0. [curly]() - Quicklisp
- - g000001が書く予定
-0. [defmemo]() - Quicklisp
- - g000001が書く予定
-0. [f-underscore]() - Quicklisp
- - g000001が書く予定
-0. [fare-memoization]() - Quicklisp
- - g000001が書く予定
-0. [generic-sequences]() - Quicklisp
- - g000001が書く予定
-0. [group-by]() - Quicklisp
- - g000001が書く予定
-0. [hu.dwim.computed-class]() - Quicklisp
- - g000001が書く予定
-0. [lift]() - Quicklisp
- - g000001が書く予定
-0. [local-package-aliases]() - Quicklisp
- - g000001が書く予定
-0. [mcclim]() - Quicklisp
- - g000001が書く予定
-0. [metatilities]() - Quicklisp
- - g000001が書く予定
-0. [plexippus-xpath]() - Quicklisp
- - g000001が書く予定
-0. [puri]() - Quicklisp
- - g000001が書く予定
-0. [quickproject-1.2]() - Quicklisp
- - g000001が書く予定
-0. [sclf]() - Quicklisp
- - g000001が書く予定
-0. [series]() - Quicklisp
- - g000001が書く予定
-0. [stefil]() - Quicklisp
- - g000001が書く予定
-0. [swank-client]() - Quicklisp
- - g000001が書く予定
-0. [swank-crew]() - Quicklisp
- - g000001が書く予定
-0. [tagger]() - Quicklisp
- - g000001が書く予定
-0. [teepeedee2]() - Quicklisp
- - g000001が書く予定
-0. [trivial-shell]() - Quicklisp
- - g000001が書く予定
-0. [xml-mop]() - Quicklisp
- - g000001が書く予定
-0. [yaclml]() - Quicklisp
- - g000001が書く予定
-0. [zcdb-1.0.3]() - Quicklisp
- - g000001が書く予定
-0. [source-compare]() - cmu-ai-repos
- - g000001が書く予定
-0. [uranus]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/ext/library/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/ext/tables/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/ext/types/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/iter/for/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/iter/series/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/parsing/time/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/parsing/zebu/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/syntax/infix/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/testing/cover/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/tools/lint/]() - cmu-ai-repos
- - g000001が書く予定
-0. [code/tools/xref/]() - cmu-ai-repos
- - g000001が書く予定
-0. [oop/non_clos/corbit/]() - cmu-ai-repos
- - g000001が書く予定
-0. [oop/non_clos/mcs/v141/]() - cmu-ai-repos
- - g000001が書く予定
 
 ## まだ紹介が書かれていないライブラリ
 
+0. [lisp-critic]() - misc
+0. [cl-audioscrobbler]() - misc
+0. [cl-sparsematrix]() - misc
+0. [loop]() - misc
 0. [jfli]() - misc
 0. [swclos]() - misc
 0. [imho]() - misc
@@ -667,10 +557,12 @@
 0. [asdf-project-helper]() - Quicklisp
 0. [asdf-system-connections]() - Quicklisp
 0. [asdf-utils]() - Quicklisp
+0. [asn.1-4.14]() - Quicklisp
 0. [atdoc]() - Quicklisp
 0. [autoproject]() - Quicklisp
 0. [ayah-captcha]() - Quicklisp
 0. [backports]() - Quicklisp
+0. [beirc]() - Quicklisp
 0. [big-string]() - Quicklisp
 0. [binary-types]() - Quicklisp
 0. [binascii]() - Quicklisp
@@ -683,6 +575,7 @@
 0. [black-tie]() - Quicklisp
 0. [blackthorn-engine]() - Quicklisp
 0. [bordeaux-fft]() - Quicklisp
+0. [bordeaux-threads-0.8.3]() - Quicklisp
 0. [bourbaki]() - Quicklisp
 0. [brlapi]() - Quicklisp
 0. [bt-semaphore]() - Quicklisp
@@ -695,6 +588,8 @@
 0. [caramel]() - Quicklisp
 0. [cartesian-product-switch-2.0]() - Quicklisp
 0. [caveman]() - Quicklisp
+0. [cells]() - Quicklisp
+0. [cells-gtk3]() - Quicklisp
 0. [cffi-objects]() - Quicklisp
 0. [cgn008]() - Quicklisp
 0. [ch-image]() - Quicklisp
@@ -794,6 +689,7 @@
 0. [cl-geoip]() - Quicklisp
 0. [cl-geometry]() - Quicklisp
 0. [cl-github-v3]() - Quicklisp
+0. [cl-glfw]() - Quicklisp
 0. [cl-glfw3]() - Quicklisp
 0. [cl-gpu]() - Quicklisp
 0. [cl-grace]() - Quicklisp
@@ -812,6 +708,7 @@
 0. [cl-inflector]() - Quicklisp
 0. [cl-inotify]() - Quicklisp
 0. [cl-interpol-0.2.1]() - Quicklisp
+0. [cl-irc-0.9.1]() - Quicklisp
 0. [cl-isaac]() - Quicklisp
 0. [cl-jpeg]() - Quicklisp
 0. [cl-jpl-util-0.4]() - Quicklisp
@@ -947,6 +844,8 @@
 0. [cl-twitter]() - Quicklisp
 0. [cl-typesetting]() - Quicklisp
 0. [cl-uglify-js]() - Quicklisp
+0. [cl-unicode-0.1.4]() - Quicklisp
+0. [cl-unification]() - Quicklisp
 0. [cl-v4l2]() - Quicklisp
 0. [cl-variates]() - Quicklisp
 0. [cl-vectors]() - Quicklisp
@@ -971,6 +870,7 @@
 0. [cletris]() - Quicklisp
 0. [clhs-0.6.1]() - Quicklisp
 0. [clickr]() - Quicklisp
+0. [climacs]() - Quicklisp
 0. [climc]() - Quicklisp
 0. [climon]() - Quicklisp
 0. [clinch]() - Quicklisp
@@ -985,6 +885,7 @@
 0. [clot]() - Quicklisp
 0. [clouchdb_0.0.16]() - Quicklisp
 0. [clpmr]() - Quicklisp
+0. [clpython]() - Quicklisp
 0. [clsql-fluid]() - Quicklisp
 0. [clsql-helper]() - Quicklisp
 0. [clsql-orm]() - Quicklisp
@@ -1003,6 +904,7 @@
 0. [com.clearly-useful.iterate-plus]() - Quicklisp
 0. [com.clearly-useful.iterator-protocol]() - Quicklisp
 0. [com.clearly-useful.protocols]() - Quicklisp
+0. [com.informatimago]() - Quicklisp
 0. [command-line-arguments]() - Quicklisp
 0. [common-lisp-actors]() - Quicklisp
 0. [common-lisp-stat]() - Quicklisp
@@ -1015,6 +917,7 @@
 0. [css-lite]() - Quicklisp
 0. [css-selectors]() - Quicklisp
 0. [csv-parser]() - Quicklisp
+0. [curly]() - Quicklisp
 0. [curry-compose-reader-macros]() - Quicklisp
 0. [curve]() - Quicklisp
 0. [cxml]() - Quicklisp
@@ -1032,6 +935,7 @@
 0. [declt-1.0]() - Quicklisp
 0. [def-symbol-readmacro]() - Quicklisp
 0. [deflate]() - Quicklisp
+0. [defmemo]() - Quicklisp
 0. [defrec]() - Quicklisp
 0. [defsystem-compatibility]() - Quicklisp
 0. [delorean]() - Quicklisp
@@ -1073,7 +977,10 @@
 0. [ext-blog]() - Quicklisp
 0. [extended-reals]() - Quicklisp
 0. [external-program]() - Quicklisp
+0. [f-underscore]() - Quicklisp
+ - [http://d.hatena.ne.jp/inuzini-jiro/20101207/1291697201](http://d.hatena.ne.jp/inuzini-jiro/20101207/1291697201)
 0. [f2cl]() - Quicklisp
+0. [fare-memoization]() - Quicklisp
 0. [femlisp-0-9-10]() - Quicklisp
 0. [ffa]() - Quicklisp
 0. [fft]() - Quicklisp
@@ -1095,6 +1002,7 @@
 0. [gbbopen]() - Quicklisp
 0. [gendl]() - Quicklisp
 0. [generators]() - Quicklisp
+0. [generic-sequences]() - Quicklisp
 0. [getopt]() - Quicklisp
 0. [gettext]() - Quicklisp
 0. [glaw]() - Quicklisp
@@ -1104,6 +1012,7 @@
 0. [graph]() - Quicklisp
 0. [graylex]() - Quicklisp
 0. [green-threads]() - Quicklisp
+0. [group-by]() - Quicklisp
 0. [gsharp]() - Quicklisp
 0. [gtfl_0.1.3]() - Quicklisp
 0. [gtk-cffi]() - Quicklisp
@@ -1122,6 +1031,7 @@
 0. [hu.dwim.asdf]() - Quicklisp
 0. [hu.dwim.common]() - Quicklisp
 0. [hu.dwim.common-lisp]() - Quicklisp
+0. [hu.dwim.computed-class]() - Quicklisp
 0. [hu.dwim.debug]() - Quicklisp
 0. [hu.dwim.defclass-star]() - Quicklisp
 0. [hu.dwim.delico]() - Quicklisp
@@ -1174,6 +1084,7 @@
 0. [levenshtein-1.0]() - Quicklisp
 0. [lfarm]() - Quicklisp
 0. [lhstats]() - Quicklisp
+0. [lift]() - Quicklisp
 0. [linedit]() - Quicklisp
 0. [lisp-executable]() - Quicklisp
 0. [lisp-gflags]() - Quicklisp
@@ -1187,6 +1098,7 @@
 0. [lla]() - Quicklisp
 0. [lml]() - Quicklisp
 0. [lml2]() - Quicklisp
+0. [local-package-aliases]() - Quicklisp
 0. [local-time]() - Quicklisp
 0. [log5]() - Quicklisp
 0. [lowlight]() - Quicklisp
@@ -1205,6 +1117,7 @@
 0. [map-set]() - Quicklisp
 0. [marching-cubes]() - Quicklisp
 0. [marshal]() - Quicklisp
+0. [mcclim]() - Quicklisp
 0. [md5]() - Quicklisp
 0. [mel-base]() - Quicklisp
 0. [message-oo]() - Quicklisp
@@ -1213,6 +1126,7 @@
 0. [metabang-bind]() - Quicklisp
 0. [metacopy]() - Quicklisp
 0. [metafs]() - Quicklisp
+0. [metatilities]() - Quicklisp
 0. [mgl]() - Quicklisp
 0. [micmac-0.0.2]() - Quicklisp
 0. [midi-20070618]() - Quicklisp
@@ -1293,6 +1207,7 @@
 0. [place-utils-0.1]() - Quicklisp
 0. [plain-odbc]() - Quicklisp
 0. [planks]() - Quicklisp
+0. [plexippus-xpath]() - Quicklisp
 0. [plokami]() - Quicklisp
 0. [png-read]() - Quicklisp
 0. [pooler]() - Quicklisp
@@ -1305,6 +1220,7 @@
 0. [priority-queue]() - Quicklisp
 0. [protobuf]() - Quicklisp
 0. [psgraph-1.2]() - Quicklisp
+0. [puri]() - Quicklisp
 0. [py-configparser]() - Quicklisp
 0. [py-configvalidator]() - Quicklisp
 0. [pzmq]() - Quicklisp
@@ -1313,6 +1229,7 @@
 0. [query-fs]() - Quicklisp
 0. [queues]() - Quicklisp
 0. [quicklisp-slime-helper]() - Quicklisp
+0. [quickproject-1.2]() - Quicklisp
 0. [quickutil]() - Quicklisp
 0. [quux-time]() - Quicklisp
 0. [random-access-lists]() - Quicklisp
@@ -1353,11 +1270,13 @@
 0. [sb-cga]() - Quicklisp
 0. [sb-fastcgi]() - Quicklisp
 0. [sb-vector-io]() - Quicklisp
+0. [sclf]() - Quicklisp
 0. [screamer]() - Quicklisp
 0. [scribble]() - Quicklisp
 0. [scriptl]() - Quicklisp
 0. [secure-random]() - Quicklisp
 0. [sequence-iterators]() - Quicklisp
+0. [series]() - Quicklisp
 0. [sexml]() - Quicklisp
 0. [sha3]() - Quicklisp
 0. [shadchen]() - Quicklisp
@@ -1384,15 +1303,20 @@
 0. [sqnc]() - Quicklisp
 0. [st-json]() - Quicklisp
 0. [static-vectors-1.4]() - Quicklisp
+0. [stefil]() - Quicklisp
 0. [stem]() - Quicklisp
 0. [stmx-stable]() - Quicklisp
 0. [stringprep]() - Quicklisp
 0. [submarine]() - Quicklisp
+0. [swank-client]() - Quicklisp
+0. [swank-crew]() - Quicklisp
 0. [sxql]() - Quicklisp
 0. [symbol-namespaces-1.0]() - Quicklisp
+0. [tagger]() - Quicklisp
 0. [talcl]() - Quicklisp
 0. [tap-unit-test]() - Quicklisp
 0. [tbnl-0.11.4]() - Quicklisp
+0. [teepeedee2]() - Quicklisp
 0. [telnetlib]() - Quicklisp
 0. [testbild]() - Quicklisp
 0. [text-query-1.1]() - Quicklisp
@@ -1418,6 +1342,7 @@
 0. [trivial-ldap]() - Quicklisp
 0. [trivial-octet-streams]() - Quicklisp
 0. [trivial-raw-io]() - Quicklisp
+0. [trivial-shell]() - Quicklisp
 0. [trivial-timeout]() - Quicklisp
 0. [trivial-timers]() - Quicklisp
 0. [trivial-types]() - Quicklisp
@@ -1456,14 +1381,17 @@
 0. [xhtmlgen]() - Quicklisp
 0. [xlunit]() - Quicklisp
 0. [xml-emitter-1.0.2]() - Quicklisp
+0. [xml-mop]() - Quicklisp
 0. [xml.location]() - Quicklisp
 0. [xmls-1.5]() - Quicklisp
 0. [xmls-tools]() - Quicklisp
 0. [xptest]() - Quicklisp
 0. [xuriella]() - Quicklisp
 0. [yaclanapht]() - Quicklisp
+0. [yaclml]() - Quicklisp
 0. [yason-0.6.5]() - Quicklisp
 0. [zaws]() - Quicklisp
+0. [zcdb-1.0.3]() - Quicklisp
 0. [zip]() - Quicklisp
 0. [zlib]() - Quicklisp
 0. [zpb-exif-1.2.2]() - Quicklisp
@@ -1471,6 +1399,8 @@
 0. [zpng-1.2.1]() - Quicklisp
 0. [zs3-1.2.2]() - Quicklisp
 0. [zsort]() - Quicklisp
+0. [source-compare]() - cmu-ai-repos
+0. [uranus]() - cmu-ai-repos
 0. [bookcode/dst/eval_trc/]() - cmu-ai-repos
 0. [bookcode/dst/lisp/]() - cmu-ai-repos
 0. [bookcode/graham/]() - cmu-ai-repos
@@ -1489,13 +1419,16 @@
 0. [code/ext/enum/]() - cmu-ai-repos
 0. [code/ext/errors/]() - cmu-ai-repos
 0. [code/ext/init/]() - cmu-ai-repos
+0. [code/ext/library/]() - cmu-ai-repos
 0. [code/ext/lp/]() - cmu-ai-repos
 0. [code/ext/memoize/]() - cmu-ai-repos
 0. [code/ext/packages/]() - cmu-ai-repos
 0. [code/ext/resource/]() - cmu-ai-repos
 0. [code/ext/save_obj/]() - cmu-ai-repos
 0. [code/ext/screamer/]() - cmu-ai-repos
+0. [code/ext/tables/]() - cmu-ai-repos
 0. [code/ext/trees/]() - cmu-ai-repos
+0. [code/ext/types/]() - cmu-ai-repos
 0. [code/ext/wood/]() - cmu-ai-repos
 0. [code/fun/]() - cmu-ai-repos
 0. [code/ilu/]() - cmu-ai-repos
@@ -1513,6 +1446,7 @@
 0. [code/io/sockets/]() - cmu-ai-repos
 0. [code/io/tl/]() - cmu-ai-repos
 0. [code/io/xp/]() - cmu-ai-repos
+0. [code/iter/for/]() - cmu-ai-repos
 0. [code/iter/iterate/]() - cmu-ai-repos
 0. [code/iter/loop/]() - cmu-ai-repos
 0. [code/iter/loop/cmu/]() - cmu-ai-repos
@@ -1520,6 +1454,7 @@
 0. [code/iter/loop/mit/original/]() - cmu-ai-repos
 0. [code/iter/loop/symbolix/]() - cmu-ai-repos
 0. [code/iter/loop/yloop/]() - cmu-ai-repos
+0. [code/iter/series/]() - cmu-ai-repos
 0. [code/match/matcher/]() - cmu-ai-repos
 0. [code/match/miranda/miranda.cl]() - cmu-ai-repos
 0. [code/match/nregex/]() - cmu-ai-repos
@@ -1545,13 +1480,16 @@
 0. [code/math/simplex/]() - cmu-ai-repos
 0. [code/parsing/lalr/]() - cmu-ai-repos
 0. [code/parsing/taylor/]() - cmu-ai-repos
+0. [code/parsing/time/]() - cmu-ai-repos
 0. [code/parsing/tree_fmt/]() - cmu-ai-repos
+0. [code/parsing/zebu/]() - cmu-ai-repos
 0. [code/search/minimax/]() - cmu-ai-repos
 0. [code/search/queues/]() - cmu-ai-repos
 0. [code/syntax/cgol/]() - cmu-ai-repos
 0. [code/syntax/fontstrp/]() - cmu-ai-repos
 0. [code/syntax/glisp/]() - cmu-ai-repos
 0. [code/syntax/haskell/]() - cmu-ai-repos
+0. [code/syntax/infix/]() - cmu-ai-repos
 0. [code/syntax/infix/old/]() - cmu-ai-repos
 0. [code/syntax/measures/]() - cmu-ai-repos
 0. [code/syntax/name_spc/]() - cmu-ai-repos
@@ -1561,9 +1499,11 @@
 0. [code/syntax/trans/ilisp/]() - cmu-ai-repos
 0. [code/syntax/trans/mclaclpc/]() - cmu-ai-repos
 0. [code/syntax/trans/mclaclpc/old/]() - cmu-ai-repos
+0. [code/testing/cover/]() - cmu-ai-repos
 0. [code/tools/defsys/]() - cmu-ai-repos
 0. [code/tools/defsys/laubsch/]() - cmu-ai-repos
 0. [code/tools/defsys/mkant/]() - cmu-ai-repos
+0. [code/tools/lint/]() - cmu-ai-repos
 0. [code/tools/metering/]() - cmu-ai-repos
 0. [code/tools/psgraph/]() - cmu-ai-repos
 0. [code/tools/sequel/]() - cmu-ai-repos
@@ -1574,6 +1514,7 @@
 0. [code/tools/step/]() - cmu-ai-repos
 0. [code/tools/user_man/]() - cmu-ai-repos
 0. [code/tools/user_man/old/]() - cmu-ai-repos
+0. [code/tools/xref/]() - cmu-ai-repos
 0. [com/]() - cmu-ai-repos
 0. [gui/clim/clib/]() - cmu-ai-repos
 0. [gui/clim/clim_1/browsers/]() - cmu-ai-repos
@@ -1648,9 +1589,11 @@
 0. [oop/clos/code/]() - cmu-ai-repos
 0. [oop/clos/kee/]() - cmu-ai-repos
 0. [oop/clos/pcl/]() - cmu-ai-repos
+0. [oop/non_clos/corbit/]() - cmu-ai-repos
 0. [oop/non_clos/mcs/]() - cmu-ai-repos
 0. [oop/non_clos/mcs/v130/]() - cmu-ai-repos
 0. [oop/non_clos/mcs/v131/]() - cmu-ai-repos
+0. [oop/non_clos/mcs/v141/]() - cmu-ai-repos
 0. [txt/gabriel/]() - cmu-ai-repos
 0. [txt/garbage/]() - cmu-ai-repos
 0. [util/emacs/cl_shell/]() - cmu-ai-repos
