@@ -1,3 +1,4 @@
+- [X] ("Clojars" "Clojars: clj-iter" "https://clojars.org/clj-iter" "#184/g000001" "")
 - [ ] ("Allegro CL Examples and Utilities" "ACLEU: AddCaps-5.18" "http://examples.franz.com/index.html" "" "")
 - [ ] ("Allegro CL Examples and Utilities" "ACLEU: AddCaps5-80" "http://examples.franz.com/index.html" "" "")
 - [ ] ("Allegro CL Examples and Utilities" "ACLEU: English-Word-Stemmer-1.0" "http://examples.franz.com/index.html" "" "")
