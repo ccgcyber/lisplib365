@@ -1114,7 +1114,7 @@
 - [ ] ("planet" "alt-bracket-workaround.plt" "http://planet.racket-lang.org//display.ss?package=alt-bracket-workaround.plt&owner=mflatt")
 - [ ] ("planet" "amb.plt" "http://planet.racket-lang.org//display.ss?package=amb.plt&owner=murphy")
 - [ ] ("planet" "amb.plt" "http://planet.racket-lang.org//display.ss?package=amb.plt&owner=wmfarr")
-- [ ] ("planet" "anaphora.plt" "http://planet.racket-lang.org//display.ss?package=anaphora.plt&owner=wcy")
+- [X] ("planet" "anaphora.plt" "http://planet.racket-lang.org//display.ss?package=anaphora.plt&owner=wcy" "#200/g000001" "http://g000001.cddddr.org/3614749200")
 - [ ] ("planet" "animated-canvas.plt" "http://planet.racket-lang.org//display.ss?package=animated-canvas.plt&owner=williams")
 - [ ] ("planet" "annotated-snip.plt" "http://planet.racket-lang.org//display.ss?package=annotated-snip.plt&owner=jmj")
 - [ ] ("planet" "ao.plt" "http://planet.racket-lang.org//display.ss?package=ao.plt&owner=synx")
