@@ -2187,7 +2187,7 @@
 - [ ] ("ql" "local-package-aliases" "" "")
 - [ ] ("ql" "local-time" "" "")
 - [ ] ("ql" "log5" "" "")
-- [ ] ("ql" "lol-re" "" "")
+- [X] ("ql" "lol-re" "" "#201/g000001" "http://g000001.cddddr.org/3614856600")
 - [ ] ("ql" "lowlight" "" "")
 - [ ] ("ql" "lquery" "" "")
 - [ ] ("ql" "lredis" "" "")
