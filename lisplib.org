@@ -395,7 +395,7 @@
 - [ ] ("dylan" "Dylan: testworks-report" "https://github.com/dylan-lang/testworks-report") ;nil
 - [ ] ("dylan" "Dylan: testworks-specs" "https://github.com/dylan-lang/testworks-specs") ;nil
 - [ ] ("dylan" "Dylan: turboblog" "https://github.com/dylan-lang/turboblog") ;nil
-- [ ] ("dylan" "Dylan: uncommon-dylan" "https://github.com/dylan-lang/uncommon-dylan") ;Dylan
+- [X] ("dylan" "Dylan: uncommon-dylan" "https://github.com/dylan-lang/uncommon-dylan" "#203/g000001" "http://g000001.cddddr.org/3615003000") ;Dylan
 - [ ] ("dylan" "Dylan: uri" "https://github.com/dylan-lang/uri") ;Dylan
 - [ ] ("dylan" "Dylan: web-framework" "https://github.com/dylan-lang/web-framework") ;Dylan
 - [ ] ("dylan" "Dylan: web-ide-backend" "https://github.com/dylan-lang/web-ide-backend") ;Dylan
@@ -2891,7 +2891,7 @@
 - [X] ("ql" "asdf-system-connections" "" "#132/g000001" "http://g000001.cddddr.org/3608809200")
 - [X] ("ql" "babel" "" "http://qiita.com/zptmtr/items/175b97844046b83fc5f2" "")
 - [X] ("ql" "bordeaux-threads" "" "#168/g000001" "http://g000001.cddddr.org/3611919600")
-- [X] ("ql" "cffi_0.11.2" "" "http://cl.cddddr.org/index.cgi?CFFI" "http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896" "")
+- [X] ("ql" "cffi" "" "http://cl.cddddr.org/index.cgi?CFFI" "http://qiita.com/snmsts@github/items/fc5f657ac1892e73a896" "")
 - [X] ("ql" "chillax" "" "http://qiita.com/l_libra/items/a7b13e033fc699c3abc9")
 - [X] ("ql" "chtml-matcher" "" "#112/g000001" "http://g000001.cddddr.org/3607081200")
 - [X] ("ql" "cl-anonfun" "" "#80/g000001" "http://g000001.cddddr.org/3604316400")
@@ -2903,7 +2903,7 @@
 - [X] ("ql" "cl-emacs-if" "" "#5/g000001" "http://g000001.cddddr.org/3597836400")
 - [X] ("ql" "cl-emb" "" "http://qiita.com/nitro_idiot/items/76477e06fb03cde57392" "")
 - [X] ("ql" "cl-enumeration" "" "#161/g000001" "http://g000001.cddddr.org/3611314800")
-- [X] ("ql" "cl-fad-0.7.2" "" "http://sakito.jp/cl/cl-fad.html" "http://d.hatena.ne.jp/Isuzu_T/20120711/1342012278")
+- [X] ("ql" "cl-fad" "" "http://sakito.jp/cl/cl-fad.html" "http://d.hatena.ne.jp/Isuzu_T/20120711/1342012278")
 - [X] ("ql" "cl-ftp" "" "#154/g000001" "http://g000001.cddddr.org/3610789200")
 - [X] ("ql" "cl-gearman" "" "http://mojavy.com/blog/2012/12/16/common-lisp-libraries-advent-calendar-2012-16/" "")
 - [X] ("ql" "cl-gravatar" "" "#96/g000001" "http://g000001.cddddr.org/3605698800")
