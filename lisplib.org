@@ -1962,7 +1962,6 @@
 - [ ] ("ql" "clobber" "" "")
 - [ ] ("ql" "clod" "" "")
 - [ ] ("ql" "clon" "" "")
-- [ ] ("ql" "clon-1.0b23" "" "")
 - [ ] ("ql" "clonsigna" "" "")
 - [ ] ("ql" "closure-common" "" "")
 - [ ] ("ql" "closure-html" "" "")
@@ -2122,7 +2121,6 @@
 - [ ] ("ql" "hu.dwim.partial-eval" "" "")
 - [ ] ("ql" "hu.dwim.perec" "" "")
 - [ ] ("ql" "hu.dwim.rdbms" "" "")
-- [ ] ("ql" "hu.dwim.reiterate" "" "")
 - [ ] ("ql" "hu.dwim.stefil" "" "")
 - [ ] ("ql" "hu.dwim.syntax-sugar" "" "")
 - [ ] ("ql" "hu.dwim.uri" "" "")
@@ -2830,6 +2828,7 @@
 - [X] ("dylan" "Dylan: cl" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/cl" "#204/g000001" "http://g000001.cddddr.org/3615033600") ;Dylan
 - [X] ("dylan" "Dylan: lisp-to-dylan" "https://github.com/dylan-lang/lisp-to-dylan" "#43/g000001" "http://g000001.cddddr.org/3601119600") ;Dylan
 - [X] ("dylan" "Dylan: strings" "https://github.com/dylan-lang/strings" "#205/g000001" "http://g000001.cddddr.org/3615116400") ;Dylan
+- [X] ("dylan" "Dylan: t-list" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/t-list" "#208/g000001" "http://g000001.cddddr.org/3615381900") ;Dylan
 - [X] ("dylan" "Dylan: uncommon-dylan" "https://github.com/dylan-lang/uncommon-dylan" "#203/g000001" "http://g000001.cddddr.org/3615003000") ;Dylan
 - [X] ("eggs" "eggs: advice" "http://wiki.call-cc.org/eggref/4/advice" "#114/g000001" "http://g000001.cddddr.org/3607255800")
 - [X] ("eggs" "eggs: anaphora" "http://wiki.call-cc.org/eggref/4/anaphora" "#197/g000001" "http://g000001.cddddr.org/3614482800")
@@ -2970,6 +2969,7 @@
 - [X] ("ql" "hu.dwim.def" "" "#28/g000001" "http://g000001.cddddr.org/3599823600")
 - [X] ("ql" "hu.dwim.defclass-star" "" "#158/g000001" "http://g000001.cddddr.org/3611136600")
 - [X] ("ql" "hu.dwim.quasi-quote" "" "#202/g000001" "http://g000001.cddddr.org/3614932800")
+- [X] ("ql" "hu.dwim.reiterate" "" "#206/g000001" "http://g000001.cddddr.org/3615280200")
 - [X] ("ql" "hu.dwim.serializer" "" "#4/g000001" "http://g000001.cddddr.org/3597750000") ;cl-serializer?
 - [X] ("ql" "hu.dwim.util.temporary-files" "" "#22/g000001" "http://g000001.cddddr.org/3599305200")
 - [X] ("ql" "incf-cl" "" "#172/g000001" "http://g000001.cddddr.org/3612337200")
@@ -3058,7 +3058,7 @@
 - [X] ("srfi" "srfi-18" "http://srfi.schemers.org/srfi-18/" "#186/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-18.html")
 - [X] ("srfi" "srfi-19" "http://srfi.schemers.org/srfi-19/" "#193/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-19.html")
 - [X] ("srfi" "srfi-2" "http://srfi.schemers.org/srfi-2/" "#24/tk_riple" "http://compassoftime.blogspot.jp/2014/01/srfi-2.html")
-- [X] ("srfi" "srfi-22" "http://srfi.schemers.org/srfi-22/" "#207/tk_riple")
+- [X] ("srfi" "srfi-22" "http://srfi.schemers.org/srfi-22/" "#207/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-22.html")
 - [X] ("srfi" "srfi-4" "http://srfi.schemers.org/srfi-4/" "#41/tk_riple""http://compassoftime.blogspot.jp/2014/02/srfi-4.html")
 - [X] ("srfi" "srfi-5" "http://srfi.schemers.org/srfi-5/" "#48/tk_riple" "http://compassoftime.blogspot.jp/2014/02/srfi-5.html")
 - [X] ("srfi" "srfi-6" "http://srfi.schemers.org/srfi-6/" "#81/tk_riple" "http://compassoftime.blogspot.jp/2014/03/srfi-6.html")
