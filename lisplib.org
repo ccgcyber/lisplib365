@@ -391,7 +391,6 @@
 - [ ] ("dylan" "Dylan: sphinx-extensions" "https://github.com/dylan-lang/sphinx-extensions") ;Python
 - [ ] ("dylan" "Dylan: strings" "https://github.com/dylan-lang/strings") ;Dylan
 - [ ] ("dylan" "Dylan: template-engine" "https://github.com/dylan-lang/template-engine") ;Dylan
-- [ ] ("dylan" "Dylan: testworks" "https://github.com/dylan-lang/testworks") ;Dylan
 - [ ] ("dylan" "Dylan: testworks-report" "https://github.com/dylan-lang/testworks-report") ;nil
 - [ ] ("dylan" "Dylan: testworks-specs" "https://github.com/dylan-lang/testworks-specs") ;nil
 - [ ] ("dylan" "Dylan: turboblog" "https://github.com/dylan-lang/turboblog") ;nil
@@ -564,7 +563,6 @@
 - [ ] ("eggs" "eggs: fluids" "http://wiki.call-cc.org/eggref/4/fluids")
 - [ ] ("eggs" "eggs: foof-loop" "http://wiki.call-cc.org/eggref/4/foof-loop")
 - [ ] ("eggs" "eggs: foreigners" "http://wiki.call-cc.org/eggref/4/foreigners")
-- [ ] ("eggs" "eggs: format" "http://wiki.call-cc.org/eggref/4/format")
 - [ ] ("eggs" "eggs: format-compiler" "http://wiki.call-cc.org/eggref/4/format-compiler")
 - [ ] ("eggs" "eggs: format-compiler-base" "http://wiki.call-cc.org/eggref/4/format-compiler-base")
 - [ ] ("eggs" "eggs: format-graph" "http://wiki.call-cc.org/eggref/4/format-graph")
@@ -2739,8 +2737,6 @@
 - [ ] ("srfi" "srfi-109" "http://srfi.schemers.org/srfi-109/")
 - [ ] ("srfi" "srfi-111" "http://srfi.schemers.org/srfi-111/")
 - [ ] ("srfi" "srfi-21" "http://srfi.schemers.org/srfi-21/")
-- [ ] ("srfi" "srfi-23" "http://srfi.schemers.org/srfi-23/")
-- [ ] ("srfi" "srfi-25" "http://srfi.schemers.org/srfi-25/")
 - [ ] ("srfi" "srfi-26" "http://srfi.schemers.org/srfi-26/")
 - [ ] ("srfi" "srfi-27" "http://srfi.schemers.org/srfi-27/")
 - [ ] ("srfi" "srfi-28" "http://srfi.schemers.org/srfi-28/")
@@ -2825,9 +2821,11 @@
 - [X] ("cmu-ai-repos" "sloop" "" "#107/g000001" "http://g000001.cddddr.org/3606649200")
 - [X] ("dylan" "Dylan: anaphora" "https://github.com/dylan-lang/anaphora" "#199/g000001" "http://g000001.cddddr.org/3614677200") ;Dylan
 - [X] ("dylan" "Dylan: cl" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/cl" "#204/g000001" "http://g000001.cddddr.org/3615033600") ;Dylan
+- [X] ("dylan" "Dylan: lisp-reader" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/lisp-reader" "#212/g000001" "http://g000001.cddddr.org/3615772500") ;Dylan
 - [X] ("dylan" "Dylan: lisp-to-dylan" "https://github.com/dylan-lang/lisp-to-dylan" "#43/g000001" "http://g000001.cddddr.org/3601119600") ;Dylan
 - [X] ("dylan" "Dylan: strings" "https://github.com/dylan-lang/strings" "#205/g000001" "http://g000001.cddddr.org/3615116400") ;Dylan
 - [X] ("dylan" "Dylan: t-list" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/t-list" "#208/g000001" "http://g000001.cddddr.org/3615381900") ;Dylan
+- [X] ("dylan" "Dylan: testworks" "https://github.com/dylan-lang/testworks" "#211/g000001" "http://g000001.cddddr.org/3615719400") ;Dylan
 - [X] ("dylan" "Dylan: uncommon-dylan" "https://github.com/dylan-lang/uncommon-dylan" "#203/g000001" "http://g000001.cddddr.org/3615003000") ;Dylan
 - [X] ("eggs" "eggs: advice" "http://wiki.call-cc.org/eggref/4/advice" "#114/g000001" "http://g000001.cddddr.org/3607255800")
 - [X] ("eggs" "eggs: anaphora" "http://wiki.call-cc.org/eggref/4/anaphora" "#197/g000001" "http://g000001.cddddr.org/3614482800")
@@ -2838,6 +2836,7 @@
 - [X] ("eggs" "eggs: coerce" "http://wiki.call-cc.org/eggref/4/coerce" "#159/g000001" "http://g000001.cddddr.org/3611208600")
 - [X] ("eggs" "eggs: date-literals" "http://wiki.call-cc.org/eggref/4/date-literals" "#174/g000001" "http://g000001.cddddr.org/3612438000")
 - [X] ("eggs" "eggs: fmt" "http://wiki.call-cc.org/eggref/4/fmt" "#=fmt")
+- [X] ("eggs" "eggs: format" "http://wiki.call-cc.org/eggref/4/format" "#210/g000001" "http://g000001.cddddr.org/3615633000")
 - [X] ("eggs" "eggs: kvlists" "http://wiki.call-cc.org/eggref/3/kvlists" "#126/g000001" "http://g000001.cddddr.org/3608290800")
 - [X] ("eggs" "eggs: oblist" "http://wiki.call-cc.org/eggref/4/oblist" "#121/g000001" "http://g000001.cddddr.org/3607858800")
 - [X] ("eggs" "eggs: progress-indicators" "http://wiki.call-cc.org/eggref/4/progress-indicators" "#106/g000001" "http://g000001.cddddr.org/3606562800")
@@ -3059,6 +3058,8 @@
 - [X] ("srfi" "srfi-19" "http://srfi.schemers.org/srfi-19/" "#193/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-19.html")
 - [X] ("srfi" "srfi-2" "http://srfi.schemers.org/srfi-2/" "#24/tk_riple" "http://compassoftime.blogspot.jp/2014/01/srfi-2.html")
 - [X] ("srfi" "srfi-22" "http://srfi.schemers.org/srfi-22/" "#207/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-22.html")
+- [X] ("srfi" "srfi-23" "http://srfi.schemers.org/srfi-23/" "#214/tk_riple")
+- [X] ("srfi" "srfi-25" "http://srfi.schemers.org/srfi-25/" "#221/tk_riple")
 - [X] ("srfi" "srfi-4" "http://srfi.schemers.org/srfi-4/" "#41/tk_riple""http://compassoftime.blogspot.jp/2014/02/srfi-4.html")
 - [X] ("srfi" "srfi-5" "http://srfi.schemers.org/srfi-5/" "#48/tk_riple" "http://compassoftime.blogspot.jp/2014/02/srfi-5.html")
 - [X] ("srfi" "srfi-6" "http://srfi.schemers.org/srfi-6/" "#81/tk_riple" "http://compassoftime.blogspot.jp/2014/03/srfi-6.html")
