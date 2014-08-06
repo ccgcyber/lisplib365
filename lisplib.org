@@ -2805,6 +2805,7 @@
 - [X] ("MacLISP" "laugh" "" "#124/g000001" "http://g000001.cddddr.org/3608118000")
 - [X] ("Python compiler" "deftransform" "" "#118/g000001" "http://g000001.cddddr.org/3607599600" "")  
 - [X] ("Schluessel" "Schluessel: net.morilib.lingua" "http://schluessel.sourceforge.jp/schluessel/schluessel_82.html" "#182/g000001" "http://g000001.cddddr.org/3613129200")
+- [X] ("Symbolics Genera" "Symbolics: compiler:style-checker" "http://bitsavers.informatik.uni-stuttgart.de/pdf/symbolics/software/genera_8/Program_Development_Utilities.pdf" "#219/g000001" "http://g000001.cddddr.org/3616356600")
 - [X] ("arc" "strings.arc" "" "#135/g000001" "http://g000001.cddddr.org/3609068400")
 - [X] ("cltl2" "cltl2 pp" "" "http://qiita.com/seijikoide/items/57d0d77f368e1d201b0d" "http://qiita.com/seijikoide/items/c8223c9cb825e064130a" "http://qiita.com/seijikoide/items/43193bd72e57b388f82f")
 - [X] ("cmu-ai-repos" "CommonORBIT" "" "#134/g000001" "http://g000001.cddddr.org/3608982000")
