@@ -365,7 +365,6 @@
 - [ ] ("dylan" "Dylan: dylan-programming-book" "https://github.com/dylan-lang/dylan-programming-book") ;Python
 - [ ] ("dylan" "Dylan: dylan-reference-manual" "https://github.com/dylan-lang/dylan-reference-manual") ;nil
 - [ ] ("dylan" "Dylan: dylan.tmbundle" "https://github.com/dylan-lang/dylan.tmbundle") ;nil
-- [ ] ("dylan" "Dylan: dynamic-binding" "https://github.com/dylan-lang/dynamic-binding") ;Dylan
 - [ ] ("dylan" "Dylan: examples" "https://github.com/dylan-lang/examples") ;Java
 - [ ] ("dylan" "Dylan: graph-viewer" "https://github.com/dylan-lang/graph-viewer") ;nil
 - [ ] ("dylan" "Dylan: graphviz-renderer" "https://github.com/dylan-lang/graphviz-renderer") ;nil
@@ -1702,7 +1701,6 @@
 - [ ] ("ql" "cl-autowrap" "" "")
 - [ ] ("ql" "cl-azure" "" "")
 - [ ] ("ql" "cl-base32" "" "")
-- [ ] ("ql" "cl-base58" "" "")
 - [ ] ("ql" "cl-base64" "" "")
 - [ ] ("ql" "cl-bayesnet" "" "")
 - [ ] ("ql" "cl-beanstalk" "" "")
@@ -2383,7 +2381,6 @@
 - [ ] ("ql" "static-vectors-1.4" "" "")
 - [ ] ("ql" "stem" "" "")
 - [ ] ("ql" "stmx-stable" "" "")
-- [ ] ("ql" "stringprep" "" "")
 - [ ] ("ql" "submarine" "" "")
 - [ ] ("ql" "swank-client" "" "")
 - [ ] ("ql" "swank-crew" "" "")
@@ -2821,6 +2818,7 @@
 - [X] ("cmu-ai-repos" "sloop" "" "#107/g000001" "http://g000001.cddddr.org/3606649200")
 - [X] ("dylan" "Dylan: anaphora" "https://github.com/dylan-lang/anaphora" "#199/g000001" "http://g000001.cddddr.org/3614677200") ;Dylan
 - [X] ("dylan" "Dylan: cl" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/cl" "#204/g000001" "http://g000001.cddddr.org/3615033600") ;Dylan
+- [X] ("dylan" "Dylan: dynamic-binding" "https://github.com/dylan-lang/dynamic-binding" "#216/g000001" "http://g000001.cddddr.org/3616069200") ;Dylan
 - [X] ("dylan" "Dylan: lisp-reader" "https://github.com/dylan-lang/opendylan/tree/master/sources/lib/lisp-reader" "#212/g000001" "http://g000001.cddddr.org/3615772500") ;Dylan
 - [X] ("dylan" "Dylan: lisp-to-dylan" "https://github.com/dylan-lang/lisp-to-dylan" "#43/g000001" "http://g000001.cddddr.org/3601119600") ;Dylan
 - [X] ("dylan" "Dylan: strings" "https://github.com/dylan-lang/strings" "#205/g000001" "http://g000001.cddddr.org/3615116400") ;Dylan
@@ -2831,6 +2829,7 @@
 - [X] ("eggs" "eggs: anaphora" "http://wiki.call-cc.org/eggref/4/anaphora" "#197/g000001" "http://g000001.cddddr.org/3614482800")
 - [X] ("eggs" "eggs: apropos" "http://wiki.call-cc.org/eggref/4/apropos" "#183/g000001" "http://g000001.cddddr.org/3613215600")
 - [X] ("eggs" "eggs: big-chicken" "http://wiki.call-cc.org/eggref/4/big-chicken" "#167/g000001" "http://g000001.cddddr.org/3611833200")
+- [X] ("eggs" "eggs: cells" "http://wiki.call-cc.org/eggref/4/cells" "#218/g000001" "http://g000001.cddddr.org/3616303200")
 - [X] ("eggs" "eggs: channel" "http://wiki.call-cc.org/eggref/4/channel" "#189/g000001" "http://g000001.cddddr.org/3613750200")
 - [X] ("eggs" "eggs: clojurian" "http://wiki.call-cc.org/eggref/4/clojurian" "#195/g000001" "http://g000001.cddddr.org/3614295600")
 - [X] ("eggs" "eggs: coerce" "http://wiki.call-cc.org/eggref/4/coerce" "#159/g000001" "http://g000001.cddddr.org/3611208600")
@@ -2845,6 +2844,7 @@
 - [X] ("eggs" "eggs: s" "http://wiki.call-cc.org/eggref/4/s" "#75/g000001" "http://g000001.cddddr.org/3603941100")
 - [X] ("eggs" "eggs: special-case" "http://wiki.call-cc.org/eggref/4/special-case" "#60/g000001" "http://g000001.cddddr.org/3602588400")
 - [X] ("eggs" "eggs: srfi-7" "http://wiki.call-cc.org/eggref/4/srfi-7" "#=srfi-7")
+- [X] ("eggs" "eggs: typed-lists" "http://wiki.call-cc.org/eggref/4/typed-lists" "#217/g000001" "http://g000001.cddddr.org/3616183800")
 - [X] ("elisp" "s" "" "#75/g000001")
 - [X] ("gauche" "gauche.collection" "http://practical-scheme.net/gauche/man/?l=jp&p=gauche.collection" "#171/g000001" "http://g000001.cddddr.org/3612256200")
 - [X] ("gauche" "gauche.mop.propagate" "http://practical-scheme.net/gauche/man/?l=jp&p=gauche.mop.propagate" "http://blog.practical-scheme.net/shiro/20131208-propagated-slot")
@@ -2895,6 +2895,7 @@
 - [X] ("ql" "cl-anonfun" "" "#80/g000001" "http://g000001.cddddr.org/3604316400")
 - [X] ("ql" "cl-ansi-text" "" "#148/g000001" "http://g000001.cddddr.org/3610242000")
 - [X] ("ql" "cl-api" "" "#103/g000001" "http://g000001.cddddr.org/3606303600")
+- [X] ("ql" "cl-base58" "" "#213/g000001" "http://g000001.cddddr.org/3615888600")
 - [X] ("ql" "cl-closure-template" "" "http://qiita.com/nitro_idiot/items/620d997e3f6cb3461f39" "")
 - [X] ("ql" "cl-date-time-parser" "" "#77/g000001" "http://g000001.cddddr.org/3604057200")
 - [X] ("ql" "cl-dropbox" "" "#90/g000001" "http://g000001.cddddr.org/3605180400")
@@ -3020,6 +3021,7 @@
 - [X] ("ql" "stefil" "" "#169/g000001" "http://g000001.cddddr.org/3612006000")
 - [X] ("ql" "stp-query" "" "http://qiita.com/lambdasakura@github/items/991a53beca77cb63ec65")
 - [X] ("ql" "string-case" "" "#27/g000001" "http://g000001.cddddr.org/3599737200")
+- [X] ("ql" "stringprep" "" "#215/g000001" "http://g000001.cddddr.org/3615989400")
 - [X] ("ql" "stump-touchy-mode-line" "" "#84/g000001" "http://g000001.cddddr.org/3604662000")
 - [X] ("ql" "stumpwm" "" "#57/g000001" "http://g000001.cddddr.org/3602329200")
 - [X] ("ql" "symbol-munger" "" "#31/g000001" "http://g000001.cddddr.org/3600082800")
@@ -3058,7 +3060,7 @@
 - [X] ("srfi" "srfi-19" "http://srfi.schemers.org/srfi-19/" "#193/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-19.html")
 - [X] ("srfi" "srfi-2" "http://srfi.schemers.org/srfi-2/" "#24/tk_riple" "http://compassoftime.blogspot.jp/2014/01/srfi-2.html")
 - [X] ("srfi" "srfi-22" "http://srfi.schemers.org/srfi-22/" "#207/tk_riple" "http://compassoftime.blogspot.jp/2014/07/srfi-22.html")
-- [X] ("srfi" "srfi-23" "http://srfi.schemers.org/srfi-23/" "#214/tk_riple")
+- [X] ("srfi" "srfi-23" "http://srfi.schemers.org/srfi-23/" "#214/tk_riple" "http://compassoftime.blogspot.jp/2014/08/srfi-23.html")
 - [X] ("srfi" "srfi-25" "http://srfi.schemers.org/srfi-25/" "#221/tk_riple")
 - [X] ("srfi" "srfi-4" "http://srfi.schemers.org/srfi-4/" "#41/tk_riple""http://compassoftime.blogspot.jp/2014/02/srfi-4.html")
 - [X] ("srfi" "srfi-5" "http://srfi.schemers.org/srfi-5/" "#48/tk_riple" "http://compassoftime.blogspot.jp/2014/02/srfi-5.html")
