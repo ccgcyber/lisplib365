@@ -387,7 +387,6 @@
 - [ ] ("dylan" "Dylan: skip-list" "https://github.com/dylan-lang/skip-list") ;nil
 - [ ] ("dylan" "Dylan: slot-visitor" "https://github.com/dylan-lang/slot-visitor") ;Dylan
 - [ ] ("dylan" "Dylan: sphinx-extensions" "https://github.com/dylan-lang/sphinx-extensions") ;Python
-- [ ] ("dylan" "Dylan: strings" "https://github.com/dylan-lang/strings") ;Dylan
 - [ ] ("dylan" "Dylan: template-engine" "https://github.com/dylan-lang/template-engine") ;Dylan
 - [ ] ("dylan" "Dylan: testworks-report" "https://github.com/dylan-lang/testworks-report") ;nil
 - [ ] ("dylan" "Dylan: testworks-specs" "https://github.com/dylan-lang/testworks-specs") ;nil
@@ -510,7 +509,6 @@
 - [ ] ("eggs" "eggs: debug" "http://wiki.call-cc.org/eggref/4/debug")
 - [ ] ("eggs" "eggs: define-record-and-printer" "http://wiki.call-cc.org/eggref/4/define-record-and-printer")
 - [ ] ("eggs" "eggs: define-structure" "http://wiki.call-cc.org/eggref/4/define-structure")
-- [ ] ("eggs" "eggs: defstruct" "http://wiki.call-cc.org/eggref/4/defstruct")
 - [ ] ("eggs" "eggs: describe" "http://wiki.call-cc.org/eggref/4/describe")
 - [ ] ("eggs" "eggs: describe-coops" "http://wiki.call-cc.org/eggref/4/describe-coops")
 - [ ] ("eggs" "eggs: dict" "http://wiki.call-cc.org/eggref/4/dict")
@@ -2835,6 +2833,7 @@
 - [X] ("eggs" "eggs: clojurian" "http://wiki.call-cc.org/eggref/4/clojurian" "#195/g000001" "http://g000001.cddddr.org/3614295600")
 - [X] ("eggs" "eggs: coerce" "http://wiki.call-cc.org/eggref/4/coerce" "#159/g000001" "http://g000001.cddddr.org/3611208600")
 - [X] ("eggs" "eggs: date-literals" "http://wiki.call-cc.org/eggref/4/date-literals" "#174/g000001" "http://g000001.cddddr.org/3612438000")
+- [X] ("eggs" "eggs: defstruct" "http://wiki.call-cc.org/eggref/4/defstruct" "#222/g000001" "http://g000001.cddddr.org/3616624800")
 - [X] ("eggs" "eggs: fmt" "http://wiki.call-cc.org/eggref/4/fmt" "#=fmt")
 - [X] ("eggs" "eggs: format" "http://wiki.call-cc.org/eggref/4/format" "#210/g000001" "http://g000001.cddddr.org/3615633000")
 - [X] ("eggs" "eggs: kvlists" "http://wiki.call-cc.org/eggref/3/kvlists" "#126/g000001" "http://g000001.cddddr.org/3608290800")
