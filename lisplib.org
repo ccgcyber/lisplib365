@@ -666,7 +666,7 @@
 - [ ] ("eggs" "eggs: loops" "http://wiki.call-cc.org/eggref/4/loops")
 - [ ] ("eggs" "eggs: loopy-loop" "http://wiki.call-cc.org/eggref/4/loopy-loop")
 - [ ] ("eggs" "eggs: low-level-macros" "http://wiki.call-cc.org/eggref/4/low-level-macros")
-- [ ] ("eggs" "eggs: lowdown" "http://wiki.call-cc.org/eggref/4/lowdown")
+- [X] ("eggs" "eggs: lowdown" "http://wiki.call-cc.org/eggref/4/lowdown" "#241/g000001" "http://g000001.cddddr.org/3618231300")
 - [ ] ("eggs" "eggs: lru-cache" "http://wiki.call-cc.org/eggref/4/lru-cache")
 - [ ] ("eggs" "eggs: lua" "http://wiki.call-cc.org/eggref/4/lua")
 - [ ] ("eggs" "eggs: lz4" "http://wiki.call-cc.org/eggref/4/lz4")
