@@ -1,11 +1,11 @@
 # 使い方
 
-- lisplib.md は自動生成されるファイルです。markdown形式になっています。
-- lisplib.org は、orgのリストになっていて、項目はLispのリストで表現されています。
-  編集はこのファイルで行います。
+- lisplib.md Is an automatically generated file。markdown It is in the form。
+- lisplib.org Is a list of org and items are represented by a list of Lisp。
+  Editing is done with this file。
 
-> 予約者名 ::= @名前
+> Booker name :: = @ Name
 >
-> 紹介ページ ::=  紹介ページURL|予約者名
+> Introduction Page :: = Introduction Page URL | Reservation Name
 
-> ("パッケージプロジェクト" "ライブラリ名" "配布元URL" "紹介ページ" ...) ;適当なコメント
+> ("Package project" "library name" "distribution source URL" "introduction page" ...); appropriate comment
